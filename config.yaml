@@ -1,0 +1,255 @@
+baseURL: http://something-fresh.org/
+languageCode: en-us
+title: Hugo Fresh Theme
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy 
+  description: 
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/fresh.svg
+    link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Manage. Deploy.
+    # Hero subtitle (optional)
+    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    # Button text
+    buttontext: Get started
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: hero-image.jpg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    - systek
+    - tribe
+    - kromo
+    - infinite
+    - gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Features
+    url: /
+  - title: Pricing
+    url: /
+  - title: Dropdown
+    sublinks:
+    - title: Dropdown item
+      url: /
+    - title: Dropdown item
+      url: /
+    - title: Dropdown item
+      url: /
+  - title: Log in
+    url: /
+  - title: Sign up
+    url: /
+    button: true
+  section1:
+    enable: true
+    title: Great power comes
+    subtitle: with great responsibility
+    tiles:
+    - title: App builder
+      icon: mouse-globe
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Free trial
+    - title: Cloud integration
+      icon: laptop-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Get started
+    - title: Add-ons & plugins
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Get started
+  froalaDesign:
+    enable: true
+    title: Froala Design Blocks
+    subtitle: Over 170 responsive design blocks ready to be used in your web or mobile apps. 
+    features:
+    - title: Froala Blocks
+      text: A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+      image: /images/14.jpg
+      btnText: Call to Action
+      btnURL: "#"
+      btnKlass: "secondary-btn" 
+    - title: Froala Design Blocks
+      text: Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+      image: /images/19.jpg
+      btnText: Call to Action
+      btnURL: "#"
+      btnKlass: "primary-btn"
+    - title: Design Blocks
+      text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+      image: /images/2.jpg
+      btnText: Call to Action
+      btnURL: "#"
+      btnKlass: "secondary-btn"
+    - title: Design Blocks
+      text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+      image: /images/chatting.jpg
+      btnText: Download
+      btnURL: "#"
+      btnKlass: "accent-btn"
+  pricing:
+    enable: true
+    title: Pricing Plans
+    subtitle:  
+    plans:
+    - title: Startup
+      price: 9.90
+      icon: /images/small.jpg
+      heighlight: For small companies
+      btnText: Choose Plan
+      btnURL: "#"
+      btnKlass: "secondary-btn"
+      features:
+        - text: 10 hours of support
+        - text: 40MB of storage
+        - text: Subdomain
+    - title: Standard
+      price: 19.90
+      icon: /images/mid.jpg
+      heighlight: For medium companies
+      btnText: Choose Plan
+      btnURL: "#"
+      btnKlass: "primary-btn"
+      features:
+        - text: 10 hours of support
+        - text: 40MB of storage
+        - text: Subdomain
+    - title: Business
+      price: 29.90
+      icon: /images/large.jpg
+      heighlight: For large companies
+      btnText: Choose Plan
+      btnURL: "#"
+      btnKlass: "secondary-btn"
+      features:
+        - text: 10 hours of support
+        - text: 40MB of storage
+        - text: Subdomain
+  CTA:
+    enable: true
+    title: Call to Action
+    subtitle: Fortune 100 companies are using our products
+    text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts
+    btnText: Download
+    btnURL: "#"
+    btnKlass: "accent-btn"
+    clientlogos:
+    - systek
+    - tribe
+    - kromo
+    - infinite
+    - gutwork
+  section2:
+    enable: false
+    title: You're here because you want the best
+    subtitle: And we know it
+    features:
+    - title: Powerful and unified interface
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: Cross-device synchronisation
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: doc-sync
+    - title: Nomad system
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: mobile-feed
+  section3:
+    enable: false
+    title: One platform
+    subtitle: To rule them all
+    image: illustrations/mockups/app-mockup.png
+    buttonText: Get started
+    buttonLink: "#"
+  section4:
+    enable: false
+    title: Our Clients love us!
+    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    clients:
+    - name: Irma Walters
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Accountant
+      img: 1
+    - name: John Bradley
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Financial Analyst
+      img: 2
+    - name: Gary Blackman
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: HR Manager
+      img: 3
+  section5: false
+  footer:
+    # Logo (from /images/logos/___)
+    logo: fresh-white-alt.svg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/lucperkins/github-fresh
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://dribbble.com/#
+      icon: dribbble
+    - link: https://facebook.com/#
+      icon: facebook
+    - link: https://twitter.com/lucperkins
+      icon: twitter
+    - link: https://bitbucket.org/#
+      icon: bitbucket
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "Product"
+        links:
+        - text: Discover features
+          link: /
+        - text: Why choose our product?
+          link: /
+        - text: Compare features
+          link: /
+        - text: Our roadmap
+          link: /
+        - text: AGB
+          link: /agb
+      column2:
+        title: "Docs"
+        links:
+        - text: Get started
+          link: /
+        - text: User guides
+          link: /
+        - text: Admin guide
+          link: /
+        - text: Developers
+          link: /
+      column3:
+        title: "Blog"
+        links:
+        - text: Latest news
+          link: /blog/first
+        - text: Tech articles
+          link: /blog/second
