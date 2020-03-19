@@ -1,0 +1,43 @@
+{{- $cta   := .Site.Params.CTA }}
+{{- $title      := index $cta "title" }}
+{{- $text   := index $cta "text" }}
+{{- $subtitle   := index $cta "subtitle" }}
+{{- $clientLogos   := index $cta "clientlogos" }}
+<section class="section  is-medium cta">
+  <div class="container"> 
+    <div class="title-wrapper has-text-centered ">
+      <h2 class="title is-2">{{ $title }}</h2>
+      <p class=" mt-20">{{ $text }}</p>
+    </div>
+    <div class="content-wrapper ">
+      <div class="columns has-text-centered">
+        <div class="column">
+            <a href="{{ $cta.btnURL }}" class="button btn-align-md {{ $cta.btnKlass }} raised ">{{ $cta.btnText }}</a>
+          {{ if $subtitle }} <h3 class="subtitle is-6 is-muted mt-50">{{ $subtitle }}</h3> {{end}}
+
+
+          <div class="tabs is-centered">
+            <ul style="border: 0px;">
+              {{- range $clientLogos }}
+              <li>
+                  <img class="partner-logo" src="{{ printf "/images/logos/clients/%s.svg" . | relURL }}">               
+              </li>
+              {{- end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+  </div>
+
+
+
+</section>
+
