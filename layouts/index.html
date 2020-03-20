@@ -3,6 +3,12 @@
     {{ partial "hero.html" . }}
     {{ end }}
 
+    
+    {{ if .Site.Params.features }}
+    {{ partial "features.html" . }}
+    {{ end }}
+
+
     {{ if .Site.Params.section1 }}
     {{ partial "section1.html" . }}
     {{ end }}

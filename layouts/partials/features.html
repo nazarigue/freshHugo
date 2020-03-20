@@ -1,0 +1,33 @@
+{{- $features   := .Site.Params.features }}
+{{- $title      := index $features "title" }}
+{{- $subtitle   := index $features "subtitle" }}
+{{- $lists   := index $features "list" }}
+<section class="section section-feature-grey is-medium" id="features">
+  <div class="container"> 
+    <div class="title-wrapper has-text-centered pb-20">
+      <h2 class="title is-2">{{ $title }}</h2>
+      {{ if $subtitle }} <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3> {{end}}
+    </div>
+
+    <div class="content-wrapper features">
+      <div class="columns">
+        {{- range $index, $elements := $lists }}
+        <div class="column is-one-forth ">
+          <div class="features is-bordered has-text-centered ">           
+            <div class="card-icon">
+              <img src="{{  .image | relURL }}">
+            </div>  
+            <div class="card-title mt-20">
+              <h4><strong>{{ .title }}</strong></h4>
+            </div>
+            <div class="card-text mt-20">
+              <p>{{ .text }}</p>
+            </div>
+          </div>
+        </div>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+</section>
+

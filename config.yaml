@@ -11,8 +11,20 @@ markup:
   goldmark:
     renderer:
       unsafe: true # Allows you to write raw html in your md files
+      
+
+menu:
+  # before: []
+  after:
+    - name: "Github"
+      url: "https://github.com/alex-shpak/hugo-book"
+      weight: 10
+    - name: "Hugo Themes"
+      url: "https://themes.gohugo.io/hugo-book/"
+      weight: 20
 
 params:
+  BookMenuBundle: /menu
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
@@ -42,13 +54,13 @@ params:
     - kromo
     - infinite
     - gutwork
-  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
   navbar:
   - title: Features
-    url: /
+    url: /#features
   - title: Pricing
-    url: /
-  - title: Dropdown
+    url: /#pricing
+  - title: Solutions
     sublinks:
     - title: Dropdown item
       url: /
@@ -56,11 +68,8 @@ params:
       url: /
     - title: Dropdown item
       url: /
-  - title: Log in
-    url: /
-  - title: Sign up
-    url: /
-    button: true
+  - title: Resources
+    url: /resources
   section1:
     enable: true
     title: Great power comes
@@ -81,6 +90,35 @@ params:
       text: This is some explanatory text that is on two rows
       url: /
       buttonText: Get started
+  features:
+    enable: true
+    title: Features 
+    subtitle:  
+    list:
+    - title: Feature One
+      text: Far far away, behind the word mountains, far from the countries
+      image: /images/features1.png
+      btnText: 
+      btnURL: ""
+      btnKlass: "" 
+    - title: Feature Two
+      text: Separated they live in Bookmarksgrove right at the coast
+      image: /images/features2.png
+      btnText: Call to Action
+      btnURL: ""
+      btnKlass: ""
+    - title: Feature Three
+      text: A small river named Duden flows by their place and supplies it
+      image: /images/features3.png
+      btnText: 
+      btnURL: ""
+      btnKlass: ""
+    - title: Feature Four
+      text: Duden flows by their place far far away, behind the word mountains.
+      image: /images/features4.png
+      btnText: 
+      btnURL: ""
+      btnKlass: ""
   froalaDesign:
     enable: true
     title: Froala Design Blocks
@@ -88,25 +126,25 @@ params:
     features:
     - title: Froala Blocks
       text: A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-      image: /images/14.jpg
+      image: /images/14.png
       btnText: Call to Action
       btnURL: "#"
       btnKlass: "secondary-btn" 
     - title: Froala Design Blocks
       text: Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-      image: /images/19.jpg
+      image: /images/19.png
       btnText: Call to Action
       btnURL: "#"
       btnKlass: "primary-btn"
     - title: Design Blocks
       text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-      image: /images/2.jpg
+      image: /images/2.png
       btnText: Call to Action
       btnURL: "#"
       btnKlass: "secondary-btn"
     - title: Design Blocks
       text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-      image: /images/chatting.jpg
+      image: /images/chatting.png
       btnText: Download
       btnURL: "#"
       btnKlass: "accent-btn"
@@ -253,3 +291,6 @@ params:
           link: /blog/first
         - text: Tech articles
           link: /blog/second
+
+
+          

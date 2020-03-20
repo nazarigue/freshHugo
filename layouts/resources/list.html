@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "meta.html" . }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "css.html" . }}
+  </head>
+  <body>
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+    {{ partial "navbar.html" . }}
+    {{ partial "navbar-clone.html" . }}
+
+    
+    <section class="section is-medium">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-one-fifth">
+            
+    {{ partial "list-menu.html" . }}
+            
+          </div>
+          <div class="column is-centered-tablet-portrait">
+            <h1 class="title section-title">{{ .Title }}</h1>
+            <h5 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h5>
+            <div class="divider"></div>  
+            <div class="mt-40">
+              
+            {{ .Content }}
+            </div>
+          </div>
+          <div class="column is-one-fifth">
+            <aside class="book-toc">
+              TOC
+              {{ .TableOfContents }} <!-- Table of Contents -->
+            </aside>
+        </div>
+
+          
+        </div>
+      </div>
+    </section>
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "javascript.html" . }}
+  </body>
+</html>
