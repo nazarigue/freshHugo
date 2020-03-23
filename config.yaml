@@ -70,6 +70,11 @@ params:
       url: /
   - title: Resources
     url: /resources
+  - title: Login
+    url: /login    
+  - title: Sign up
+    url: /
+    button: true
   section1:
     enable: true
     title: Great power comes
