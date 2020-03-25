@@ -15,6 +15,23 @@
 
     {{ partial "single/single.html" . }}
 
+    
+    {{ if .Params.include_pricing }}
+    {{ partial "pricing-inner.html" . }}
+    {{ end }}
+    
+    {{ if .Params.include_testimonials }}
+    {{ partial "testimonials.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_features }}
+    {{ partial "features.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_cta }}
+    {{ partial "cta.html" . }}
+    {{ end }}
+
     {{ if .Params.include_footer }}
     {{ partial "footer.html" . }}
     {{ end }}

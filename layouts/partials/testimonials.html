@@ -1,0 +1,41 @@
+{{- $testimonials := .Site.Params.testimonials }}
+{{- $title    := index $testimonials "title" }}
+{{- $subtitle := index $testimonials "subtitle" }}
+{{- $text := index $testimonials "text" }}
+{{- $name := index $testimonials "name" }}
+{{- $image := index $testimonials "image" }}
+<section class="section  is-medium">
+  <div class="container">
+    <div class="title-wrapper has-text-centered">
+      <h2 class="title is-2">{{ $title }}</h2>
+      <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
+      <div class="divider is-centered"></div>
+    </div>
+    
+    <div class="columns mt-60">
+    
+
+      <div class="column is-8 ">        
+        <article class="media icon-box">          
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <span class="icon-box-text">{{ $text | markdownify }}</span>
+              </p>  
+              <span class="title is-5">Person Name</span>      
+              <span class="ml-10">{{ $name }}</span>
+            </div>
+          </div>
+        </article>        
+      </div>
+      <div class="column  has-text-right">    
+        <figure class="image is-128x128 float-right">
+            <img class="is-rounded" src="{{ $image | relURL }}">
+          </figure>
+      </div>
+
+
+    </div>
+
+  </div>
+</section>

@@ -9,7 +9,7 @@
     {{ end }}
 
 
-    {{ if .Site.Params.section1 }}
+    {{ if .Site.Params.section1.enable }}
     {{ partial "section1.html" . }}
     {{ end }}
 

@@ -34,7 +34,7 @@ params:
     image: logos/fresh.svg
     link: /
   font:
-    name: "Open Sans"
+    name: "Libre Franklin"
     sizes: [400,600]
   hero:
     # Main hero title
@@ -44,7 +44,11 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "#" 
+    # Button text
+    buttontext2: Book a demo
+    # Where the main hero button links to
+    buttonlink2: "#" 
     # Hero image (from static/images/___)
     image: girlseditor.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -76,7 +80,7 @@ params:
     url: /
     button: true
   section1:
-    enable: true
+    enable: false
     title: Great power comes
     subtitle: with great responsibility
     tiles:
@@ -99,6 +103,8 @@ params:
     enable: true
     title: Features 
     subtitle:  
+    buttonlink: "/features"
+    buttonText: Learn More About Features
     list:
     - title: Feature One
       text: Far far away, behind the word mountains, far from the countries
@@ -157,6 +163,8 @@ params:
     enable: true
     title: Pricing Plans
     subtitle:  
+    buttonlink: "/pricing"
+    buttonText: learn more about pricing
     plans:
     - title: Startup
       price: 9.90
@@ -205,6 +213,91 @@ params:
     - kromo
     - infinite
     - gutwork
+  testimonials:
+    enable: true
+    title: Testimonials
+    subtitle: 
+    text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+    name: Co-founder at Company
+    image: /images/illustrations/faces/2.png
+  pricingInner:
+    enable: true
+    title: Pricing Plans
+    subtitle:  
+    buttonlink: "/pricing"
+    buttonText: learn more about pricing
+    plans:
+    - title: Hobby
+      price: $99
+      icon: /images/plane.svg
+      heighlight: For small companies
+      btnText: Buy Now
+      btnURL: "#"
+      btnKlass: "secondary-btn"
+    - title: Professional
+      price: $399
+      icon: /images/hot-air-balloon.svg
+      heighlight: For medium companies
+      btnText: Buy Now
+      btnURL: "#"
+      btnKlass: "primary-btn"
+    - title: Business
+      price: $899
+      icon: /images/sun.svg
+      heighlight: For large companies
+      btnText: Buy Now
+      btnURL: "#"
+      btnKlass: "secondary-btn"
+    - title: Enterprise
+      price: Call us
+      icon: /images/sun.svg
+      heighlight: For large companies
+      btnText: Buy Now
+      btnURL: "#"
+      btnKlass: "secondary-btn"      
+    features:
+      - list: 
+        - Support
+        - 3 months
+        - 6 months
+        - 12 months
+        - Custom
+      - list: 
+        - Full source code
+        - true
+        - true
+        - true
+        - true
+      - list: 
+        - SaaS / Subscription
+        - true
+        - true
+        - true
+        - true
+      - list: 
+        - Intranet
+        - 
+        - true
+        - true
+        - true
+      - list: 
+        - Downloadable Software
+        - 
+        - 
+        - true
+        - true
+      - list: 
+        - Redistribute
+        - 
+        - 
+        - 
+        - true
+      - list: 
+        - Custom code
+        - 
+        - 
+        - 
+        - true
   section2:
     enable: false
     title: You're here because you want the best
