@@ -298,6 +298,50 @@ params:
         - 
         - 
         - true
+  featuresList:
+    enable: false
+    title: Features
+    subtitle: 
+    features:
+    - title: Feature One
+      text: Even the all-powerful Pointing has no control about the blind texts      
+      icon: /images/feature-sm1.jpg
+    - title: Feature Two
+      text: Separated they live in Bookmarksgrove right at the coast    
+      icon: /images/feature-sm2.jpg
+    - title: Feature Three
+      text: A small river named Duden flows by their place and supplies it  
+      icon: /images/feature-sm3.jpg
+    - title: Feature Four
+      text: Far far away, behind the word mountains, far from the countries 
+      icon: /images/feature-sm4.jpg
+    - title: Feature Five
+      text: On her way she met a copy. The copy warned the Little Blind Text.
+      icon: /images/feature-sm5.jpg
+    - title: Feature Six
+      text: Far far away, behind the word mountains, far from the countries
+      icon: /images/feature-sm6.jpg
+    - title: Feature Seven
+      text: Duden flows by their place far far away, behind the word mountains.
+      icon: /images/feature-sm7.jpg
+    - title: Feature Eight
+      text: Separated they live in Bookmarksgrove right at the coast
+      icon: /images/feature-sm8.jpg
+  froalaBlock:
+    enable: true
+    title: Froala Design Blocks is simply ahead the word mountains
+    text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+    linktext: "Explore all features <i class='fa fa-angle-right'></i>"
+    linkurl: "#"
+    list:
+    - title: Feature One
+      image: /images/git.jpg
+    - title: Feature Two
+      image: /images/feature-sm5.jpg
+    - title: Feature Three
+      image: /images/feature-sm1.jpg
+    - title: Feature Four
+      image: /images/feature-sm7.jpg
   section2:
     enable: false
     title: You're here because you want the best

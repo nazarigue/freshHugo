@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "meta.html" . }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "css.html" . }}
+  </head>
+  <body>
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+
+    {{ block "main" . }}
+
+    {{ partial "single/single.html" . }}
+
+    
+    {{ if .Params.include_froala }}
+    {{ partial "froalaDesign.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_featuresList }}
+    {{ partial "features-list.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_froalaBlock }}
+    {{ partial "froalaBlock.html" . }}
+    {{ end }}
+
+    
+    
+
+    
+    {{ if .Params.include_pricing }}
+    {{ partial "pricing-inner.html" . }}
+    {{ end }}
+    
+    {{ if .Params.include_testimonials }}
+    {{ partial "testimonials.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_features }}
+    {{ partial "features.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_cta }}
+    {{ partial "cta.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_footer }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{ if .Params.sidebar }}
+    {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
+    {{ end }}
+
+    {{ partial "javascript.html" . }}
+  </body>
+</html>
