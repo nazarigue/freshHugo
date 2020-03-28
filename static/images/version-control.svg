@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="740.221" height="703.712" viewBox="0 0 740.221 703.712">
+  <defs>
+    <filter id="Background" x="0" y="101.813" width="740.221" height="577.528" filterUnits="userSpaceOnUse">
+      <feOffset dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_72" x="319" y="268.813" width="41" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="iconmonstr-check-mark-4" x="518.387" y="299.448" width="40.337" height="41.076" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_71" x="127" y="424.813" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#656565" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Illustration" transform="translate(-59.858 -1482.187)">
+    <path id="Oval_curve_grey" data-name="Oval curve grey" d="M102.482,171.311c58.122,1.9,109.213-35.529,108.038-87.249-.67-29.48-23.583-95.328-54.732-81.284S108.533,32.084,82.71,14.627C22.658-25.97-1.134,25.46.041,77.18S44.36,169.41,102.482,171.311Z" transform="matrix(-0.829, 0.559, -0.559, -0.829, 704.246, 1707.584)" fill="#f1f1f1"/>
+    <path id="Oval_curve_green" data-name="Oval curve green" d="M245.962,432.72C361.8,561.8,523.6,322.55,526.538,189.194c1.676-76.012-47.144-139.333-126.775-97.811s-122.8-19.2-185.5-59.921C68.443-63.238,2.989,73.58.048,206.936S130.119,303.643,245.962,432.72Z" transform="matrix(0.719, 0.695, -0.695, 0.719, 408.069, 1482.187)" fill="#ffdada"/>
+    <g id="Editor_Illustrtion" data-name="Editor Illustrtion" transform="translate(149.441 1626.27)">
+      <g transform="matrix(1, 0, 0, 1, -89.58, -144.08)" filter="url(#Background)">
+        <rect id="Background-2" data-name="Background" width="560.221" height="397.528" rx="5" transform="translate(90 168.81)" fill="#fff"/>
+      </g>
+      <rect id="Middle" width="518.451" height="354.684" rx="5" transform="translate(21.417 45.73)" fill="#eff2fa"/>
+      <path id="Rectangle_10" data-name="Rectangle 10" d="M5,0H555.221a5,5,0,0,1,5,5V24.3a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(0 0.73)" fill="#ededed"/>
+      <g id="Browser_Close_Icons" data-name="Browser Close Icons" transform="translate(9.45 8.73)">
+        <circle id="Ellipse_9" data-name="Ellipse 9" cx="4.725" cy="4.725" r="4.725" fill="#ff6b6b"/>
+        <circle id="Ellipse_10" data-name="Ellipse 10" cx="4.725" cy="4.725" r="4.725" transform="translate(16.199)" fill="#f9ca24"/>
+        <circle id="Ellipse_11" data-name="Ellipse 11" cx="4.725" cy="4.725" r="4.725" transform="translate(32.398)" fill="#2ecc71"/>
+      </g>
+      <path id="Japanesse_Text" data-name="Japanesse Text" d="M119.225,93.726h-16.97V88.131a2.828,2.828,0,0,0-5.656,0v5.6H79.629a2.8,2.8,0,1,0,0,5.595h32.86a55.6,55.6,0,0,1-13.051,16.613c-.863-.812-1.724-1.638-2.568-2.485-.945-.953-1.869-1.926-2.759-2.915s-1.737-1.975-2.542-2.983a2.851,2.851,0,0,0-3.969-.45,2.778,2.778,0,0,0-.467,3.925c.874,1.09,1.8,2.169,2.755,3.235s1.939,2.093,2.947,3.106c.787.794,1.593,1.561,2.4,2.323A156.29,156.29,0,0,1,80.9,130.554a2.779,2.779,0,0,0-.812,3.874,2.847,2.847,0,0,0,3.917.8A154.019,154.019,0,0,0,99.435,123.5c.862.745,1.722,1.48,2.563,2.173.992.82,1.959,1.6,2.893,2.33s1.831,1.423,2.678,2.063,1.646,1.229,2.381,1.762,1.406,1.014,2,1.432l2.892,1.973a2.847,2.847,0,0,0,3.907-.8,2.779,2.779,0,0,0-.794-3.868l-2.726-1.863c-.573-.4-1.219-.863-1.929-1.377s-1.481-1.085-2.3-1.7-1.686-1.284-2.587-1.992-1.835-1.462-2.791-2.248c-.651-.536-1.318-1.113-1.983-1.683,6.422-6.1,12.5-13.315,14.885-20.37h.7a2.8,2.8,0,1,0,0-5.6Z" transform="translate(392.697 -17.73)" fill="#afb9d2"/>
+      <g id="Red_text" data-name="Red text" transform="translate(15 -35)">
+        <text id="孝ばつすだ増社ワスタヲ一彰え試76容ヲオラト囲舞ネク情覧ムラウ野1届ミキナラ特予モメ香治る流紹の回94隆いせぎら前購ナ彰済舞輸そう_" data-name="孝ばつすだ増社ワスタヲ一彰え試76容ヲオラト囲舞ネク情覧ムラウ野1届ミキナラ特予モメ香治る流紹の回94隆いせぎら前購ナ彰済舞輸そう。
+
+" transform="translate(51.417 102.73)" fill="#9a9a9a" font-size="16" font-family="PingFangSC-Regular, PingFang SC"><tspan x="0" y="17">孝ばつすだ増社ワスタヲ一彰え試</tspan><tspan y="17" font-family="Lato-Regular, Lato">76</tspan><tspan y="17">容ヲオラト囲</tspan><tspan x="0" y="51">舞ネク情覧ムラウ野</tspan><tspan y="51" font-family="Lato-Regular, Lato">1</tspan><tspan y="51">届ミキナラ特予モメ香治る流</tspan><tspan x="0" y="85">紹の回</tspan><tspan y="85" font-family="Lato-Regular, Lato">94</tspan><tspan y="85">隆いせぎら前購ナ彰済舞輸そう。</tspan><tspan y="85" font-family="Lato-Regular, Lato"></tspan></text>
+        <line id="Line_19" data-name="Line 19" x2="158" transform="translate(51.917 183.23)" fill="none" stroke="rgba(255,107,107,0.87)" stroke-linecap="round" stroke-width="4"/>
+        <g id="Icon_false" data-name="Icon false">
+          <g transform="matrix(1, 0, 0, 1, -104.58, -109.08)" filter="url(#Ellipse_72)">
+            <circle id="Ellipse_72-2" data-name="Ellipse 72" cx="11.5" cy="11.5" r="11.5" transform="translate(328 274.81)" fill="#fff"/>
+          </g>
+          <g id="Group_177" data-name="Group 177" transform="translate(526.335 136.425) rotate(135)">
+            <line id="Line_22" data-name="Line 22" x2="12" transform="translate(228.917 177.23)" fill="none" stroke="#ff6b6b" stroke-linecap="round" stroke-width="3"/>
+            <line id="Line_23" data-name="Line 23" y2="12" transform="translate(234.917 171.23)" fill="none" stroke="#ff6b6b" stroke-linecap="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Green_text" data-name="Green text" transform="translate(-852.583 -1793.27)">
+        <rect id="Rectangle_135" data-name="Rectangle 135" width="382" height="79" rx="5" transform="translate(920 1968)" fill="#2ecc71"/>
+        <text id="友へ群選ヲタエ超引キフ塚売よた事番にてふぎ須83行ぽぱねご特芸カスアク内記ドうすづ_" data-name="友へ群選ヲタエ超引キフ塚売よた事番にてふぎ須83行ぽぱねご特芸カスアク内記ドうすづ。" transform="translate(931 1978)" fill="#fff" font-size="16" font-family="PingFangSC-Regular, PingFang SC"><tspan x="0" y="17">友へ群選ヲタエ超引キフ塚売よた事番にてふぎ須</tspan><tspan x="0" y="51" font-family="Lato-Regular, Lato">83</tspan><tspan y="51">行ぽぱねご特芸カスアク内記ドうすづ。</tspan></text>
+        <g id="Icon_Check" data-name="Icon Check" transform="translate(-9 12)">
+          <ellipse id="Ellipse_70" data-name="Ellipse 70" cx="8.67" cy="9.04" rx="8.67" ry="9.04" transform="translate(1302 1945)" fill="#37c699"/>
+          <g transform="matrix(1, 0, 0, 1, 772, 1637.19)" filter="url(#iconmonstr-check-mark-4)">
+            <path id="iconmonstr-check-mark-4-2" data-name="iconmonstr-check-mark-4" d="M11.169,0A11.358,11.358,0,0,0,0,11.538,11.358,11.358,0,0,0,11.169,23.076,11.358,11.358,0,0,0,22.337,11.538,11.358,11.358,0,0,0,11.169,0ZM10.005,16.626l-4.188-4.2,1.728-1.786,2.46,2.41,5.252-5.561,1.728,1.786Z" transform="translate(527.39 305.45)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Shimmer_Add_new_line" data-name="Shimmer + Add new line" transform="translate(0 12)">
+        <rect id="Rectangle_139" data-name="Rectangle 139" width="92" height="12" rx="6" transform="translate(96.417 353.73)" fill="#d7deed"/>
+        <g id="Add_new_line" data-name="Add new line" transform="translate(15 -18)">
+          <g transform="matrix(1, 0, 0, 1, -104.58, -138.08)" filter="url(#Ellipse_71)">
+            <circle id="Ellipse_71-2" data-name="Ellipse 71" cx="15" cy="15" r="15" transform="translate(136 430.81)" fill="#fff"/>
+          </g>
+          <g id="Group_176" data-name="Group 176" transform="translate(4.5 2.5)">
+            <line id="Line_20" data-name="Line 20" x2="10.083" transform="translate(36.917 305.271)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_21" data-name="Line 21" y2="10.083" transform="translate(41.958 300.23)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <rect id="Rectangle_136" data-name="Rectangle 136" width="140" height="15" rx="7.5" transform="translate(95.417 274.73)" fill="#c1cae2"/>
+        <rect id="Rectangle_138" data-name="Rectangle 138" width="186" height="13" rx="6.5" transform="translate(95.417 332.73)" fill="#c1cae2"/>
+        <rect id="Rectangle_137" data-name="Rectangle 137" width="208" height="14" rx="7" transform="translate(95.417 297.73)" fill="#d7deed"/>
+      </g>
+    </g>
+  </g>
+</svg>

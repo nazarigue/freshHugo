@@ -1,0 +1,55 @@
+{{- $pricing   := .Site.Params.pricingInner }}
+{{- $title      := index $pricing "title" }}
+{{- $subtitle   := index $pricing "subtitle" }}
+{{- $price      := index $pricing "price" }}
+{{- $buttonText := index $pricing "buttontext" }}
+{{- $buttonLink := index $pricing "buttonlink" }}
+{{- $plans   := index $pricing "plans" }}
+{{- $features   := index $pricing "features" }}
+
+
+
+<section class="fdb-block">
+  <div class="container"> 
+    <div class="title-wrapper has-text-centered pb-20">
+      <h2 class="title is-2">{{ $title }}</h2>
+      {{ if $subtitle }} <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3> {{end}}
+    </div>
+    
+    <div class="table-container mt-20">
+      
+
+    <table class="table is-fullwidth text-center table-inner">
+      <tbody>
+        <tr>
+          <th class="border-0"></th>
+          {{- range $index, $elements := $plans }}
+          <td class="has-text-centered">
+            <h2 class="title is-4">{{.title}}</h2>
+            <p class="mb-20 is-size-5">{{.price}}</p>
+            <p class="mb-20">
+              <a href="{{ .btnURL }}" class="button is-info is-outlined">{{ .btnText }}</a>
+            </p>
+          </td>
+          {{end}}
+        </tr>
+
+        {{- range $index, $elements := $features }}
+        <tr class="table-row">
+          {{ range .list }}             
+              <td class="has-text-centered"> {{- $info:= . }} {{ if eq $info true }} ✓ {{else}} {{.}}{{ end }} </td>
+          {{end}}
+        </tr>
+      {{end}}
+       
+      </tbody>
+    </table>
+
+    </div>
+
+
+  </div>
+</section>
+
+
+

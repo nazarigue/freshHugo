@@ -1,0 +1,35 @@
+{{- $section2 := .Site.Params.featuresList }}
+{{- $title    := index $section2 "title" }}
+{{- $subtitle := index $section2 "subtitle" }}
+{{- $features := index $section2 "features" }}
+<section class="section is-medium">
+  <div class="container">
+       
+    <div class="title-wrapper has-text-centered pb-20">
+        <h2 class="title is-2">{{ $title }}</h2>
+        {{ if $subtitle }} <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3> {{end}}
+    </div>
+    <div class="columns is-multiline">
+        {{- range $features }}
+      <div class="column is-3 mt-60">
+       
+        <article class="media icon-box">
+          <figure class="media-left">
+            <p class="image">
+              <img src="{{  .icon | relURL }}" class="image is-64x64">
+            </p>
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <span class="icon-box-title">{{ .title }}</span>
+                <span class="icon-box-text">{{ .text | markdownify }}</span>
+              </p>
+            </div>
+          </div>
+        </article>        
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</section>

@@ -16,6 +16,22 @@
     {{ partial "single/single.html" . }}
 
     
+    {{ if .Params.include_froala }}
+    {{ partial "froalaDesign.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_featuresList }}
+    {{ partial "features-list.html" . }}
+    {{ end }}
+
+    {{ if .Params.include_froalaBlock }}
+    {{ partial "froalaBlock.html" . }}
+    {{ end }}
+
+    
+    
+
+    
     {{ if .Params.include_pricing }}
     {{ partial "pricing-inner.html" . }}
     {{ end }}

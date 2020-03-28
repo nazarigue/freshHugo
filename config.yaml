@@ -1,6 +1,6 @@
 baseURL: 
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Aligner
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -31,22 +31,26 @@ params:
   description: 
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image: logos/aligner-logo.svg
     link: /
   font:
-    name: "Open Sans"
+    name: "Libre Franklin"
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: World's 1st multilingual content management platform
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: Providing an intuitive workflow for you ever growing localisation problems.
     # Button text
-    buttontext: Get started
+    buttontext: Start free now →
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: https://app.aligner.io
+    # Button text
+    buttontext2: Book a demo
+    # Where the main hero button links to
+    buttonlink2: https://calendly.com/aligner/15min 
     # Hero image (from static/images/___)
-    image: hero-image.jpg
+    image: girlseditor.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - systek
@@ -62,21 +66,21 @@ params:
     url: /#pricing
   - title: Solutions
     sublinks:
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
+    - title: POOL - croudsourced API 
+      url: https://pool.aligner.io
+    - title: GO - content delivery
+      url: https://go.aligner.io
+    - title: APP - conent management
+      url: https://app.aligner.io
   - title: Resources
     url: /resources
   - title: Login
     url: /login    
-  - title: Sign up
-    url: /
+  - title: Start free now →
+    url: https://app.aligner.io
     button: true
   section1:
-    enable: true
+    enable: false
     title: Great power comes
     subtitle: with great responsibility
     tiles:
@@ -99,112 +103,253 @@ params:
     enable: true
     title: Features 
     subtitle:  
+    buttonlink: https://app.aligner.io
+    buttonText: Get started here →
     list:
-    - title: Feature One
-      text: Far far away, behind the word mountains, far from the countries
-      image: /images/features1.png
+    - title: Matrix editor
+      text: No hassle with keeping up with track changes in all languages.
+      image: /images/textedit.svg
       btnText: 
       btnURL: ""
       btnKlass: "" 
-    - title: Feature Two
-      text: Separated they live in Bookmarksgrove right at the coast
-      image: /images/features2.png
+    - title: Machine translation
+      text: Use extensively machine translation selectively on in whole piece.
+      image: /images/roboto-logo.svg
       btnText: Call to Action
       btnURL: ""
       btnKlass: ""
-    - title: Feature Three
-      text: A small river named Duden flows by their place and supplies it
-      image: /images/features3.png
+    - title: Assign languages
+      text: Work with teams and let internal or external collaborators in.
+      image: /images/team.svg
       btnText: 
       btnURL: ""
       btnKlass: ""
-    - title: Feature Four
-      text: Duden flows by their place far far away, behind the word mountains.
-      image: /images/features4.png
+    - title: Export to destination
+      text: Publish your conent to your web, document or other resource.
+      image: /images/reload.svg
       btnText: 
       btnURL: ""
       btnKlass: ""
   froalaDesign:
     enable: true
-    title: Froala Design Blocks
-    subtitle: Over 170 responsive design blocks ready to be used in your web or mobile apps. 
+    title: Aligner
+    subtitle: Made for marketers and content creators to work on multilingual content with ease.
     features:
-    - title: Froala Blocks
-      text: A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-      image: /images/14.png
-      btnText: Call to Action
-      btnURL: "#"
+    - title: Seamless multilingual content syncronization via changes matrix
+      text: No back and forth emails and files. Get syncrhonised all languages automatically when updating pieces of the content.
+      image: /images/ai-illustration.svg
+      btnText: See it in action →
+      btnURL: https://app.aligner.io
       btnKlass: "secondary-btn" 
-    - title: Froala Design Blocks
-      text: Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-      image: /images/19.png
-      btnText: Call to Action
-      btnURL: "#"
+    - title: Create your content with your team
+      text: Assign languages, invite collaborators and never stay alert on missing work done.
+      image: /images/team-image.svg
+      btnText: Start working and invite people →
+      btnURL: https://app.aligner.io
       btnKlass: "primary-btn"
-    - title: Design Blocks
-      text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-      image: /images/2.png
-      btnText: Call to Action
-      btnURL: "#"
+    - title: Keep you multilingual paperwork in one place
+      text: Get things syncrhonised with Google Docs and other services without leaving your favourite apps.
+      image: /images/flags-illustration.svg
+      btnText: Syncronise Google Docs →
+      btnURL: https://app.aligner.io
       btnKlass: "secondary-btn"
-    - title: Design Blocks
-      text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-      image: /images/chatting.png
-      btnText: Download
-      btnURL: "#"
+    - title: Keep track of changes and never miss any change
+      text: Aligner keeps track of changes done in multiple languages and provides selective machine translation to fix it rightaway
+      image: /images/version-control.svg
+      btnText: See how it works →
+      btnURL: https://app.aligner.io
       btnKlass: "accent-btn"
   pricing:
     enable: true
     title: Pricing Plans
     subtitle:  
+    buttonlink: "/pricing"
+    buttonText: learn more about pricing
     plans:
-    - title: Startup
-      price: 9.90
-      icon: /images/small.jpg
-      heighlight: For small companies
-      btnText: Choose Plan
+    - title: Personal
+      price: $9
+      icon: /images/plane.svg
+      heighlight: Get things done yourself
+      btnText: Learn more
       btnURL: "#"
       btnKlass: "secondary-btn"
       features:
-        - text: 10 hours of support
-        - text: 40MB of storage
-        - text: Subdomain
-    - title: Standard
-      price: 19.90
-      icon: /images/mid.jpg
-      heighlight: For medium companies
-      btnText: Choose Plan
+        - text: Matrix editor
+        - text: Headings, Numbers, Bullets
+        - text: Public links
+        - text: Machine translation
+    - title: Freemium
+      price: FREE
+      icon: /images/hot-air-balloon.svg
+      heighlight: Premium basics
+      btnText: Start now
       btnURL: "#"
       btnKlass: "primary-btn"
       features:
-        - text: 10 hours of support
-        - text: 40MB of storage
-        - text: Subdomain
-    - title: Business
-      price: 29.90
-      icon: /images/large.jpg
+        - text: Matrix editor
+        - text: Styles and track changes
+        - text: 
+    - title: Team
+      price: $29.90
+      icon: /images/sun.svg
       heighlight: For large companies
-      btnText: Choose Plan
-      btnURL: "#"
+      btnText: Learn more
+      btnURL: "/pricing"
       btnKlass: "secondary-btn"
       features:
-        - text: 10 hours of support
+        - text: up to 5 people 
         - text: 40MB of storage
         - text: Subdomain
   CTA:
     enable: true
-    title: Call to Action
+    title: Get out from the manual routine
     subtitle: Fortune 100 companies are using our products
     text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts
-    btnText: Download
-    btnURL: "#"
+    btnText: Book a time with us
+    btnURL: https://calendly.com/aligner/15min
     btnKlass: "accent-btn"
-    clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
+    clientlogos: 
+  testimonials:
+    enable: false
+    title: Testimonials
+    subtitle: 
+    text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+    name: Co-founder at Company
+    image: /images/illustrations/faces/2.png
+  pricingInner:
+    enable: true
+    title: Pricing built for individuals and teams
+    subtitle:  
+    buttonlink: "/pricing"
+    buttonText: learn more about pricing
+    plans:
+    - title: Personal
+      price: $9
+      icon: /images/plane.svg
+      heighlight: For small companies
+      btnText: Coming soon →
+      btnURL: "#"
+      btnKlass: "secondary-btn"
+    - title: Team
+      price: $24
+      icon: /images/hot-air-balloon.svg
+      heighlight: For medium companies
+      btnText: Buy Now
+      btnURL: "#"
+      btnKlass: "primary-btn"
+    - title: Business
+      price: $899
+      icon: /images/sun.svg
+      heighlight: For large companies
+      btnText: Buy Now
+      btnURL: "#"
+      btnKlass: "secondary-btn"
+    - title: Enterprise
+      price: Call us
+      icon: /images/sun.svg
+      heighlight: For large companies
+      btnText: Buy Now
+      btnURL: "#"
+      btnKlass: "secondary-btn"      
+    features:
+      - list: 
+        - Matrix editor
+        - true
+        - true
+        - true
+        - true
+      - list: 
+        - Languages
+        - 3
+        - 5
+        - 10
+        - contact
+      - list: 
+        - Syncrhonised styles
+        - true
+        - true
+        - true
+        - true
+      - list: 
+        - Import
+        - manual
+        - docx and Google docs
+        - true
+        - true
+      - list: 
+        - Export
+        - manual
+        - .docx or Google Docs, PDF
+        - 
+        - "-"
+      - list: 
+        - Sharing
+        - 
+        - 
+        - 
+        - true
+      - list: 
+        - Publishing
+        - public links
+        - public and private links
+        - 
+        - 
+      - list: 
+        - Worklows
+        - '-'
+        - true
+        - true
+        - 
+      - list: 
+        - Rights
+        - '-'
+        - true
+        - true
+        - 
+  featuresList:
+    enable: false
+    title: Features
+    subtitle: 
+    features:
+    - title: Feature One
+      text: Even the all-powerful Pointing has no control about the blind texts      
+      icon: /images/feature-sm1.jpg
+    - title: Feature Two
+      text: Separated they live in Bookmarksgrove right at the coast    
+      icon: /images/feature-sm2.jpg
+    - title: Feature Three
+      text: A small river named Duden flows by their place and supplies it  
+      icon: /images/feature-sm3.jpg
+    - title: Feature Four
+      text: Far far away, behind the word mountains, far from the countries 
+      icon: /images/feature-sm4.jpg
+    - title: Feature Five
+      text: On her way she met a copy. The copy warned the Little Blind Text.
+      icon: /images/feature-sm5.jpg
+    - title: Feature Six
+      text: Far far away, behind the word mountains, far from the countries
+      icon: /images/feature-sm6.jpg
+    - title: Feature Seven
+      text: Duden flows by their place far far away, behind the word mountains.
+      icon: /images/feature-sm7.jpg
+    - title: Feature Eight
+      text: Separated they live in Bookmarksgrove right at the coast
+      icon: /images/feature-sm8.jpg
+  froalaBlock:
+    enable: true
+    title: Froala Design Blocks is simply ahead the word mountains
+    text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+    linktext: "Explore all features <i class='fa fa-angle-right'></i>"
+    linkurl: "#"
+    list:
+    - title: Feature One
+      image: /images/git.jpg
+    - title: Feature Two
+      image: /images/feature-sm5.jpg
+    - title: Feature Three
+      image: /images/feature-sm1.jpg
+    - title: Feature Four
+      image: /images/feature-sm7.jpg
   section2:
     enable: false
     title: You're here because you want the best
@@ -247,55 +392,39 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: aligner-logo.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://github.com/lucperkins/github-fresh
       # Icons are from Font Awesome
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
+    - link: https://www.facebook.com/align.and.scale/
       icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
-    bulmalogo: true
+    bulmalogo: false
     quicklinks:
-      column1:
-        title: "Product"
-        links:
-        - text: Discover features
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
-        - text: Our roadmap
-          link: /
-        - text: AGB
-          link: /agb
-      column2:
-        title: "Docs"
-        links:
-        - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
-      column3:
-        title: "Blog"
-        links:
-        - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+  #    column1:
+ #       title: "Product"
+ #       links:
+
+#      column2:
+ #       title: "Pricing"
+  #      links:
+   #     - text: Get started
+    #      link: /
+     #   - text: User guides
+      #    link: /
+       # - text: Admin guide
+          #link: /
+        #- text: Developers
+         # link: /
+      #column3:
+     #   title: "Resources"
+    #    links:
+    #    - text: Latest news
+     #     link: /blog/first
+      #  - text: Tech articles
+       #   link: /blog/second
 
 
           

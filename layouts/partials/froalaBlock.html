@@ -1,0 +1,43 @@
+{{- $section2 := .Site.Params.froalaBlock }}
+{{- $title    := index $section2 "title" }}
+{{- $text := index $section2 "text" }}
+{{- $linkText := index $section2 "linktext" }} 
+{{- $linkUrl := index $section2 "linkurl" }}
+{{- $features := index $section2 "list" }}
+<section class="section is-medium">
+  <div class="container">
+    <div class="columns mt-60">
+      <div class="column   is-7">
+        <h2 class="title is-4">{{ $title }}</h2>
+        <p class="lead">{{ $text }} </p>        
+        <p class="lead mt-20"><a href="{{ $linkUrl }}">{{ $linkText  | markdownify }}</a></p>
+      </div>
+    </div>
+    <div class="columns mt-60">
+      <div class="column is-7">
+        <div class="columns">
+    {{- range $index, $ele := $features }}
+    
+      <div class="column is-3 has-text-centered">
+        
+        <figure class="media-left">
+          <p class="image has-text-centered">
+            <img src="{{ .image | relURL }}"  alt="{{ .title }}" class="image is-64x64" style="margin:auto;">
+          </p>
+        </figure>
+        <p class="mt-20">
+          <span class="title is-6">{{ .title }}</span>
+        </p>
+
+      </div>
+  
+    {{- end }}
+  </div>
+    </div>
+    </div>
+
+  </div>
+</section>
+
+
+

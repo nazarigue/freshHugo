@@ -1,6 +1,8 @@
 {{- $pricing   := .Site.Params.pricing }}
 {{- $title      := index $pricing "title" }}
 {{- $subtitle   := index $pricing "subtitle" }}
+{{- $buttonText := index $pricing "buttontext" }}
+{{- $buttonLink := index $pricing "buttonlink" }}
 {{- $plans   := index $pricing "plans" }}
 <section class="section is-medium" id="pricing">
   <div class="container"> 
@@ -19,7 +21,7 @@
           <div class="price-card is-bordered has-text-centered   {{if eq $index 1}} is-active{{end}}">
             <div class="card-title">
               <h4>{{ .title }}</h4>
-              <h4 class="price">${{ .price }}</h4>
+              <h4 class="price">{{ .price }}</h4>
             </div>
             <div class="card-body">
               <div class="card-icon">
@@ -46,6 +48,15 @@
       </div>
       </div>
 
+      
+      <div class="columns">
+        <div class="column is-full has-text-centered mt-20">          
+        <p>
+          <a class="button cta secondary-btn raised" href="{{ $buttonLink }}">
+            {{ $buttonText }}
+          </a>
+          </p>
+        </div>
 
 
       

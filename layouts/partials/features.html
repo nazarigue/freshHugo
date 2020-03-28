@@ -1,6 +1,8 @@
 {{- $features   := .Site.Params.features }}
 {{- $title      := index $features "title" }}
 {{- $subtitle   := index $features "subtitle" }}
+{{- $buttonText := index $features "buttontext" }}
+{{- $buttonLink := index $features "buttonlink" }}
 {{- $lists   := index $features "list" }}
 <section class="section section-feature-grey is-medium" id="features">
   <div class="container"> 
@@ -18,14 +20,24 @@
               <img src="{{  .image | relURL }}">
             </div>  
             <div class="card-title mt-20">
-              <h4><strong>{{ .title }}</strong></h4>
+              <h3 class="title is-5"><strong>{{ .title }}</strong></h3>
             </div>
             <div class="card-text mt-20">
               <p>{{ .text }}</p>
             </div>
           </div>
         </div>
-        {{- end }}
+        {{- end }}      
+
+      </div>
+      <div class="columns">
+        <div class="column is-full has-text-centered mt-20">          
+        <p>
+          <a class="button cta secondary-btn raised" href="{{ $buttonLink }}">
+            {{ $buttonText }}
+          </a>
+          </p>
+        </div>
       </div>
     </div>
   </div>
