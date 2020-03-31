@@ -169,7 +169,7 @@ params:
     buttonText: learn more about pricing
     btnKlass: "btn-aligner rounded"
     plans:
-    - title: Freemium
+    - title: Premium
       price: $9
       icon: /images/plane.svg
       heighlight: Get things done yourself
@@ -178,8 +178,8 @@ params:
       btnKlass: "btn-aligner rounded"
       features:
         - text: Matrix editor
-        - text: Headings, Numbers, Bullets
-        - text: Public links
+        - text: Integrations
+        - text: Private sharing
         - text: Machine translation
     - title: Freemium
       price: FREE
@@ -191,6 +191,7 @@ params:
       features:
         - text: Matrix editor
         - text: Styles and track changes
+        - text: 10,000 characters of MT
         - text: 
     - title: Team
       price: $29.90
@@ -200,9 +201,10 @@ params:
       btnURL: "/pricing"
       btnKlass: "btn-aligner rounded"
       features:
-        - text: up to 5 people 
-        - text: 40MB of storage
-        - text: Subdomain
+        - text: Up to 5 people, next $4
+        - text: Wersioning 
+        - text: Workflows
+        - text: Permissions
   CTA:
     enable: true
     title: Get out from the manual routine

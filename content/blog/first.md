@@ -3,6 +3,7 @@ title: First
 sidebar: true
 sidebarlogo: fresh-white-alt
 image: ../images/first-post.png
+draft: false
 ---
 
-My super sweet first blog post!!
+How to localize Menu in Aligner? Fastest method in web.

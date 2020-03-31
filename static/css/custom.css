@@ -39,19 +39,19 @@ p{
     margin-left: -7%; */
 }
 .price-card .card-title{
-    background: #353a40;
+    background: rgb(255, 198, 71);
     color: #fff;
     padding: 40px 0px;
     border-radius: 10px 10px 0px 0px;
 }
 .price-card .card-title h4{
     font-size: 1.8rem;
-    color: #fff;
+    color: #363636;
 }
 
 .price-card .card-title h4.price{
     font-weight: 700;
-    color: #fff;
+    color: #363636;
 }
 .price-card .card-body{    
     padding: 40px 0px;
