@@ -31,7 +31,7 @@ params:
   description: 
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/aligner-logo.svg
+    image: logos/logo-new.svg
     link: /
   font:
     name: "Nunito"
@@ -63,7 +63,9 @@ params:
   - title: Features
     url: /#features
   - title: Pricing
-    url: /#pricing
+    url: /pricing
+  - title: Blog
+    url: /blog/
   - title: Solutions
     sublinks:
     - title: POOL - croudsourced API 
@@ -74,7 +76,7 @@ params:
       url: https://app.aligner.io
   - title: Resources
     url: /resources
-  - title: Login
+  - title: Log in
     url: /login    
   - title: Start free now →
     url: https://app.aligner.io
@@ -147,7 +149,7 @@ params:
       btnText: Start working and invite people →
       btnURL: https://app.aligner.io
       btnKlass: "primary-btn"
-    - title: Keep you multilingual paperwork in one place
+    - title: Keep your multilingual paperwork in one place
       text: Get things syncrhonised with Google Docs and other services without leaving your favourite apps.
       image: /images/flags-illustration.svg
       btnText: Syncronise Google Docs →
@@ -167,7 +169,7 @@ params:
     buttonText: learn more about pricing
     btnKlass: "btn-aligner rounded"
     plans:
-    - title: Personal
+    - title: Freemium
       price: $9
       icon: /images/plane.svg
       heighlight: Get things done yourself
@@ -225,29 +227,22 @@ params:
     buttonText: learn more about pricing
     btnKlass: "btn-aligner rounded"
     plans:
-    - title: Personal
-      price: $9
+    - title: Freemium
+      price: $0
       icon: /images/plane.svg
-      heighlight: For small companies
-      btnText: Coming soon →
+      heighlight: Get things done quick
+      btnText: Start now →
       btnURL: "#"
       btnKlass: "secondary-btn"
-    - title: Team
-      price: $24
+    - title: Premium
+      price: $8.99
       icon: /images/hot-air-balloon.svg
       heighlight: For medium companies
       btnText: Buy Now
       btnURL: "#"
       btnKlass: "primary-btn"
-    - title: Business
-      price: $899
-      icon: /images/sun.svg
-      heighlight: For large companies
-      btnText: Buy Now
-      btnURL: "#"
-      btnKlass: "secondary-btn"
-    - title: Enterprise
-      price: Call us
+    - title: Team
+      price: $29.99
       icon: /images/sun.svg
       heighlight: For large companies
       btnText: Buy Now
@@ -259,17 +254,34 @@ params:
         - true
         - true
         - true
-        - true
       - list: 
         - Languages
         - 3
         - 5
         - 10
-        - contact
+      - list: 
+        - Documents
+        - 20
+        - Unlimited
+        - Unlimited
+      - list:
+        - Storage
+        - 500mb
+        - 
+        - 10
       - list: 
         - Syncrhonised styles
         - true
         - true
+        - true
+      - list: 
+        - Machine Translation
+        - manual
+        - docx and Google docs
+        - true
+      - list:
+        - Choose MT engines
+        - "-"
         - true
         - true
       - list: 
@@ -277,31 +289,26 @@ params:
         - manual
         - docx and Google docs
         - true
-        - true
       - list: 
         - Export
         - manual
         - .docx or Google Docs, PDF
         - 
-        - "-"
       - list: 
         - Sharing
         - 
         - 
         - 
-        - true
       - list: 
         - Publishing
         - public links
         - public and private links
-        - 
         - 
       - list: 
         - Worklows
         - '-'
         - true
         - true
-        - 
       - list: 
         - Rights
         - '-'
@@ -367,13 +374,7 @@ params:
     - title: Nomad system
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       icon: mobile-feed
-  section3:
-    enable: false
-    title: One platform
-    subtitle: To rule them all
-    image: illustrations/mockups/app-mockup.png
-    buttonText: Get started
-    buttonLink: "#"
+
   section4:
     enable: false
     title: Our Clients love us!
@@ -405,28 +406,28 @@ params:
       icon: facebook
     bulmalogo: false
     quicklinks:
-  #    column1:
- #       title: "Product"
- #       links:
+      column1:
+        title: "Product"
+        links:
 
-#      column2:
- #       title: "Pricing"
-  #      links:
-   #     - text: Get started
-    #      link: /
-     #   - text: User guides
-      #    link: /
-       # - text: Admin guide
-          #link: /
-        #- text: Developers
-         # link: /
-      #column3:
-     #   title: "Resources"
-    #    links:
-    #    - text: Latest news
-     #     link: /blog/first
-      #  - text: Tech articles
-       #   link: /blog/second
+      column2:
+        title: "Pricing"
+        links:
+        - text: Get started
+          link: /resources
+        - text: Blog
+          link: /blog
+        - text: Contact
+          link: /contacts
+        - text: Developers
+          link: /
+      column3:
+        title: "Resources"
+        links:
+        - text: Latest news
+          link: /blog/first
+        - text: Tech articles
+          link: /blog/second
 
 
           

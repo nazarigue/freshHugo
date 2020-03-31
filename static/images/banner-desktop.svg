@@ -1,75 +1,121 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1239px" height="582px" viewBox="0 0 1239 582" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Group 22</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#DBDBDB" offset="50.1311043%"></stop>
-            <stop stop-color="#FFFFFF" offset="100%"></stop>
-        </linearGradient>
-        <filter x="-3.8%" y="-3.8%" width="107.6%" height="107.6%" filterUnits="objectBoundingBox" id="filter-2">
-            <feGaussianBlur stdDeviation="0.679443934" in="SourceGraphic"></feGaussianBlur>
-        </filter>
-        <linearGradient x1="-8.0132938%" y1="95.7743883%" x2="16.8714277%" y2="95.7743883%" id="linearGradient-3">
-            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
-            <stop stop-color="#000000" offset="100%"></stop>
-        </linearGradient>
-        <filter x="-5.5%" y="-29.0%" width="111.0%" height="158.0%" filterUnits="objectBoundingBox" id="filter-4">
-            <feGaussianBlur stdDeviation="1.16564758" in="SourceGraphic"></feGaussianBlur>
-        </filter>
-    </defs>
-    <g id="update-2.0-iteration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="homepage-desktop" transform="translate(-201.000000, -130.000000)">
-            <g id="Group-22" transform="translate(200.392305, 130.000000)">
-                <g id="Group-9" opacity="0.699999988" transform="translate(725.607695, 52.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
-                    <g id="Group-8" transform="translate(0.000000, 154.000000)">
-                        <rect id="Rectangle" x="0" y="0" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="44" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="88" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="133" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="177" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="221" width="529" height="1"></rect>
-                    </g>
-                    <g id="Group-7" transform="translate(264.500000, 265.000000) rotate(90.000000) translate(-264.500000, -265.000000) translate(-0.000000, 154.000000)">
-                        <rect id="Rectangle" x="0" y="0" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="44" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="88" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="133" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="177" width="529" height="1"></rect>
-                        <rect id="Rectangle" x="0" y="221" width="529" height="1"></rect>
-                    </g>
-                </g>
-                <g id="Group-9-Copy-25" transform="translate(954.607695, 28.000000)">
-                    <g id="Group-9-Copy-4">
-                        <path d="M9.05113393,8.62201972 C13.1024073,12.2597588 30.6277154,11.3275358 51.3328945,11.8391211 C51.3328945,11.8391211 55.893901,37.8332965 58.2360391,61.8972132 C36.1706304,61.5111628 17.5567945,60.4816921 4.98320934,61.1251106 C4.49597806,61.2148686 4.99986058,4.98428063 9.05113393,8.62201972 Z" id="Mask-Copy-4" fill="#000000" opacity="0.2" filter="url(#filter-2)"></path>
-                        <path d="M10.6238465,5.77010655 C10.6183672,5.65756868 10.6238465,5.43396226 10.9421358,5.43396226 C11.2604251,5.43396226 38.9636509,5.43697577 59.6688301,5.92625868 C59.6688301,5.92625868 62.2575106,36.3143456 61.8876999,60.0676501 C37.2336088,61.0254703 19.4826673,61.6688906 7.27889326,63.5991513 C6.80169008,63.5265029 11.5795333,25.3987228 10.6238465,5.77010655 Z" id="Mask-Copy-5" fill="url(#linearGradient-3)" opacity="0.03"></path>
-                        <path d="M0,0 L62.8679245,0 C62.8679245,0 64.3471698,9.26525134 62.8679245,11.8389323 C22.681761,9.26525134 38.4603774,12.9970887 0,11.8389323 L0,0 Z" id="Rectangle-19-Copy" fill="#000000" opacity="0.02" filter="url(#filter-4)"></path>
-                    </g>
-                    <path d="M4.65454545,1.74545455 C4.77307693,1.74545455 4.94026293,1.74545455 5.15610346,1.74545455 C5.37194399,1.74545455 24.5147405,1.74545455 62.5844929,1.74545455 L62.8363636,59.9272727 L4.65454545,59.9272727 L4.65454545,1.74545455 Z" id="Mask-Copy-9" fill="#FFBFBF"></path>
-                </g>
-                <polygon id="Triangle-Copy-2" fill="#050038" transform="translate(1032.607695, 17.000000) scale(-1, -1) rotate(-300.000000) translate(-1032.607695, -17.000000) " points="1032.6077 5 1044.6077 29 1032.48742 24.8316327 1020.6077 29"></polygon>
-                <g id="Group-33-Copy-11" transform="translate(36.607695, 20.000000)">
-                    <path d="M38.299904,3.99079683 L38.299904,29.6470541 C38.299904,30.4727349 37.9642668,31.2201414 37.4216414,31.7611386 C36.8781043,32.3030448 36.1270158,32.637851 35.2971814,32.637851 L24.8245012,32.6369627 L19.6498927,38.2749923 L14.474451,32.6369627 L4.00280737,32.637851 C3.17305888,32.637851 2.4216857,32.3031623 1.8779525,31.7610606 C1.33556595,31.2203015 1,30.4731352 1,29.6470541 L1,3.99079683 C1,3.16511611 1.33563721,2.41770957 1.87826258,1.87671237 C2.42179969,1.33480616 3.17288822,1 4.00280737,1 L35.2970966,1 C36.1268451,1 36.8782183,1.33468863 37.4219515,1.87679034 C37.964338,2.41754944 38.299904,3.16471577 38.299904,3.99079683 Z" id="Rectangle-1" stroke="#FFFFFF" stroke-width="2" fill="#050038"></path>
-                    <rect id="Rectangle-2" fill="#FFFFFF" x="11.228544" y="12.2319458" width="16.842816" height="3.05798645" rx="0.69476616"></rect>
-                    <rect id="Rectangle-2-Copy" fill="#FFFFFF" x="11.228544" y="18.3479187" width="11.228544" height="3.05798645" rx="0.69476616"></rect>
-                </g>
-                <path d="M864.607695,345.00562 C887.919473,318.147292 905.698598,312.925194 917.94507,329.339325 C936.314779,353.960522 907.419595,377.471465 934.553085,372.547331 C961.686575,367.623196 1012.64467,344.980511 1012.64467,372.547331 C1012.64467,400.11415 1044.31968,393.709193 1057.6077,373.523381" id="Path-3" stroke="#FFD02F" stroke-width="2" stroke-linecap="round" transform="translate(961.107695, 355.500000) scale(1, -1) translate(-961.107695, -355.500000) "></path>
-                <polygon id="Triangle-Copy-2" fill="#FFD02F" transform="translate(846.000000, 353.392305) rotate(-240.000000) translate(-846.000000, -353.392305) " points="846 341.392305 858 365.392305 845.879721 361.223937 834 365.392305"></polygon>
-                <polygon id="Triangle-Copy-2" fill="#FFBFBF" transform="translate(17.000000, 395.392305) rotate(-330.000000) translate(-17.000000, -395.392305) " points="17 383.392305 29 407.392305 16.879721 403.223937 5 407.392305"></polygon>
-                <g id="Group-4" transform="translate(26.607695, 309.000000)">
-                    <g id="Group-5" transform="translate(102.133676, 51.819551) rotate(10.000000) translate(-102.133676, -51.819551) translate(5.633676, 16.319551)">
-                        <path d="M184.812546,69.5391304 L8,69.5391304 C6.06700338,69.5391304 4.31700338,68.7556287 3.05025253,67.4888779 C1.78350169,66.2221271 1,64.4721271 1,62.5391304 L1,8 C1,6.06700338 1.78350169,4.31700338 3.05025253,3.05025253 C4.31700338,1.78350169 6.06700338,1 8,1 L184.812546,1 C186.745543,1 188.495543,1.78350169 189.762294,3.05025253 C191.029044,4.31700338 191.812546,6.06700338 191.812546,8 L191.812546,62.5391304 C191.812546,64.4721271 191.029044,66.2221271 189.762294,67.4888779 C188.495543,68.7556287 186.745543,69.5391304 184.812546,69.5391304 Z" id="Rectangle-2" stroke="#FFBFBF" stroke-width="2"></path>
-                        <path d="M12.9327675,14.1078261 L133.137343,14.1078261 C134.794197,14.1078261 136.137343,15.4509718 136.137343,17.1078261 L136.137343,19.9252174 C136.137343,21.5820716 134.794197,22.9252174 133.137343,22.9252174 L12.9327675,22.9252174 C11.2759133,22.9252174 9.93276753,21.5820716 9.93276753,19.9252174 L9.93276753,17.1078261 C9.93276753,15.4509718 11.2759133,14.1078261 12.9327675,14.1078261 Z" id="Rectangle-4-Copy-3" fill="#FFBFBF"></path>
-                        <rect id="Rectangle-4-Copy-4" fill="#FFBFBF" opacity="0.300000012" x="9.93276753" y="36.4452174" width="49.0795572" height="8.8173913" rx="3"></rect>
-                        <rect id="Rectangle-4-Copy-5" fill="#FFBFBF" opacity="0.300000012" x="9.93276753" y="49.9652174" width="28.0454613" height="8.8173913" rx="3"></rect>
-                        <g id="user-ava0-copy-3" transform="translate(162.909373, 40.454493)" fill="#FFBFBF">
-                            <ellipse id="Mask" cx="10.9867554" cy="10.5317781" rx="10.2773432" ry="10.3397101"></ellipse>
-                        </g>
-                    </g>
-                </g>
-            </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1234" height="580.897" viewBox="0 0 1234 580.897">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.501" stop-color="#dbdbdb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="-0.08" y1="0.958" x2="0.169" y2="0.958" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="update-2.0-iteration" transform="translate(-20 -0.603)">
+    <g id="homepage-desktop" transform="translate(-201 -130)">
+      <g id="Group-22" transform="translate(200.392 130)">
+        <g id="Group-9" transform="translate(725.608 52)" opacity="0.7">
+          <g id="Group-8" transform="translate(0 154)">
+            <rect id="Rectangle" width="529" height="1" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-2" data-name="Rectangle" width="529" height="1" transform="translate(0 44)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-3" data-name="Rectangle" width="529" height="1" transform="translate(0 88)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-4" data-name="Rectangle" width="529" height="1" transform="translate(0 133)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-5" data-name="Rectangle" width="529" height="1" transform="translate(0 177)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-6" data-name="Rectangle" width="529" height="1" transform="translate(0 221)" fill="url(#linear-gradient)"/>
+          </g>
+          <g id="Group-7" transform="translate(375.5 0.5) rotate(90)">
+            <rect id="Rectangle-7" data-name="Rectangle" width="529" height="1" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-8" data-name="Rectangle" width="529" height="1" transform="translate(0 44)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-9" data-name="Rectangle" width="529" height="1" transform="translate(0 88)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-10" data-name="Rectangle" width="529" height="1" transform="translate(0 133)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-11" data-name="Rectangle" width="529" height="1" transform="translate(0 177)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-12" data-name="Rectangle" width="529" height="1" transform="translate(0 221)" fill="url(#linear-gradient)"/>
+          </g>
         </g>
+        <g id="Group-9-Copy-25" transform="translate(954.608 28)">
+          <g id="Group-9-Copy-4">
+            <path id="Mask-Copy-4" d="M9.051,8.622c4.051,3.638,21.577,2.706,42.282,3.217,0,0,4.561,25.994,6.9,50.058-22.065-.386-40.679-1.416-53.253-.772C4.5,61.215,5,4.984,9.051,8.622Z" fill-rule="evenodd" opacity="0.2"/>
+            <path id="Mask-Copy-5" d="M10.624,5.77a.28.28,0,0,1,.318-.336c.318,0,28.022,0,48.727.492,0,0,2.589,30.388,2.219,54.141-24.654.958-42.405,1.6-54.609,3.532C6.8,63.527,11.58,25.4,10.624,5.77Z" fill-rule="evenodd" opacity="0.03" fill="url(#linear-gradient-13)"/>
+            <path id="Rectangle-19-Copy" d="M0,0H62.868s1.479,9.265,0,11.839C22.682,9.265,38.46,13,0,11.839Z" fill-rule="evenodd" opacity="0.02"/>
+          </g>
+          <path id="Mask-Copy-9" d="M4.655,1.745h57.93l.252,58.182H4.655Z" fill="#ffbfbf" fill-rule="evenodd"/>
+        </g>
+        <path id="Triangle-Copy-2" d="M1032.608,5l12,24-12.12-4.168L1020.608,29Z" transform="translate(1534.189 919.764) rotate(-120)" fill="#050038" fill-rule="evenodd"/>
+        <g id="Group-33-Copy-11" transform="translate(36.608 20)">
+          <path id="Rectangle-1" d="M38.3,3.991V29.647a3,3,0,0,1-3,2.991H24.825L19.65,38.275l-5.175-5.638H4a3,3,0,0,1-3-2.991V3.991A3,3,0,0,1,4,1H35.3a3,3,0,0,1,3,2.991Z" fill="#050038" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+          <rect id="Rectangle-2-2" data-name="Rectangle-2" width="16.843" height="3.058" rx="0.695" transform="translate(11.229 12.232)" fill="#fff"/>
+          <rect id="Rectangle-2-Copy" width="11.229" height="3.058" rx="0.695" transform="translate(11.229 18.348)" fill="#fff"/>
+        </g>
+        <path id="Path-3" d="M864.608-345.006q34.968,40.288,53.337,15.666c18.37-24.621-10.525-48.132,16.608-43.208s78.092,27.567,78.092,0,31.675-21.162,44.963-.976" transform="translate(0 711)" fill="none" stroke="#ffd02f" stroke-linecap="round" stroke-width="2" fill-rule="evenodd"/>
+        <path id="Triangle-Copy-2-2" data-name="Triangle-Copy-2" d="M846,341.392l12,24-12.12-4.168L834,365.392Z" transform="translate(1575.047 -202.569) rotate(120)" fill="#ffd02f" fill-rule="evenodd"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(-100.392 161.603)" opacity="0.712">
+          <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(121 194)" fill="#fff" stroke="#f8c856" stroke-width="2">
+            <rect width="231" height="93" rx="10" stroke="none"/>
+            <rect x="1" y="1" width="229" height="91" rx="9" fill="none"/>
+          </g>
+          <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(138 203)" fill="#f8c856" stroke="#f8c856" stroke-width="2">
+            <rect width="191" height="18" rx="9" stroke="none"/>
+            <rect x="1" y="1" width="189" height="16" rx="8" fill="none"/>
+          </g>
+          <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(138 233)" fill="#f8c856" stroke="#f8c856" stroke-width="2" opacity="0.804">
+            <rect width="130" height="15" rx="7.5" stroke="none"/>
+            <rect x="1" y="1" width="128" height="13" rx="6.5" fill="none"/>
+          </g>
+          <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(138 261)" fill="#f8c856" stroke="#f8c856" stroke-width="2" opacity="0.804">
+            <rect width="115" height="15" rx="7.5" stroke="none"/>
+            <rect x="1" y="1" width="113" height="13" rx="6.5" fill="none"/>
+          </g>
+          <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(337 194)" fill="#fff" stroke="#f8c856" stroke-width="2">
+            <path d="M0,0H215a15,15,0,0,1,15,15V78a15,15,0,0,1-15,15H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M2,1H215a14,14,0,0,1,14,14V78a14,14,0,0,1-14,14H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Z" fill="none"/>
+          </g>
+          <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(352 204)" fill="#4522ae" stroke="#4522ae" stroke-width="2">
+            <rect width="191" height="18" rx="9" stroke="none"/>
+            <rect x="1" y="1" width="189" height="16" rx="8" fill="none"/>
+          </g>
+          <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(352 262)" fill="#4522ae" stroke="#4522ae" stroke-width="2" opacity="0.383">
+            <rect width="115" height="15" rx="7.5" stroke="none"/>
+            <rect x="1" y="1" width="113" height="13" rx="6.5" fill="none"/>
+          </g>
+          <g id="Group_1-2" data-name="Group 1" transform="translate(351.501 233.073)">
+            <circle id="Ellipse_2" data-name="Ellipse 2" cx="8.5" cy="8.5" r="8.5" transform="translate(0.499 -0.073)" fill="#d92d6f" opacity="0.321"/>
+            <text id="_" data-name="!" transform="translate(7.499 11.927)" fill="#fff" font-size="10" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">!</tspan></text>
+          </g>
+          <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(337 194)" fill="#fff" stroke="#f8c856" stroke-width="2">
+            <path d="M0,0H220a10,10,0,0,1,10,10V83a10,10,0,0,1-10,10H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M2,1H220a9,9,0,0,1,9,9V83a9,9,0,0,1-9,9H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Z" fill="none"/>
+          </g>
+          <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(352 204)" fill="#4522ae" stroke="#4522ae" stroke-width="2">
+            <rect width="191" height="18" rx="9" stroke="none"/>
+            <rect x="1" y="1" width="189" height="16" rx="8" fill="none"/>
+          </g>
+          <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(352 262)" fill="#4522ae" stroke="#4522ae" stroke-width="2" opacity="0.804">
+            <rect width="115" height="15" rx="7.5" stroke="none"/>
+            <rect x="1" y="1" width="113" height="13" rx="6.5" fill="none"/>
+          </g>
+          <g id="Group_2" data-name="Group 2" transform="translate(351.501 233.073)">
+            <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="8.5" cy="8.5" r="8.5" transform="translate(0.499 -0.073)" fill="#d92d6f" opacity="0.321"/>
+            <text id="_2" data-name="!" transform="translate(7.499 11.927)" fill="#fff" font-size="10" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">!</tspan></text>
+          </g>
+          <text id="H1" transform="translate(143 216)" fill="#fff" font-size="11" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">H1</tspan></text>
+          <text id="H1-2" data-name="H1" transform="translate(356 216)" fill="#fff" font-size="11" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">H1</tspan></text>
+          <text id="P" transform="translate(143 245)" fill="#fff" font-size="12" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">P</tspan></text>
+          <text id="P-2" data-name="P" transform="translate(143 272)" fill="#fff" font-size="12" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">P</tspan></text>
+          <text id="P-3" data-name="P" transform="translate(356 274)" fill="#fff" font-size="12" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">P</tspan></text>
+          <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(143 188)" fill="#f8c856" stroke="#f8c856" stroke-width="2">
+            <rect width="40" height="2" rx="1" stroke="none"/>
+            <rect x="1" y="1" width="38" fill="none"/>
+          </g>
+          <text id="English" transform="translate(142 183)" fill="#c6c6c6" font-size="11" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">English</tspan></text>
+          <text id="Spanish" transform="translate(351 183)" fill="#c6c6c6" font-size="11" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">Spanish</tspan></text>
+          <text id="German" transform="translate(402 184)" fill="#c6c6c6" font-size="12" font-family="Nunito-Black, Nunito" font-weight="800" opacity="0.383"><tspan x="0" y="0">German</tspan></text>
+          <text id="Italian" transform="translate(453 183)" fill="#c6c6c6" font-size="11" font-family="Nunito-Black, Nunito" font-weight="800" opacity="0.383"><tspan x="0" y="0">Italian</tspan></text>
+          <text id="Swedish" transform="translate(495 183)" fill="#c6c6c6" font-size="11" font-family="Nunito-Black, Nunito" font-weight="800" opacity="0.383"><tspan x="0" y="0">Swedish</tspan></text>
+          <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(352 188)" fill="#7a61c5" stroke="#7a61c5" stroke-width="2">
+            <rect width="44" height="2" rx="1" stroke="none"/>
+            <rect x="1" y="1" width="42" fill="none"/>
+          </g>
+        </g>
+      </g>
     </g>
+  </g>
 </svg>
