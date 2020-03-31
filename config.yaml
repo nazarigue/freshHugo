@@ -34,11 +34,11 @@ params:
     image: logos/aligner-logo.svg
     link: /
   font:
-    name: "Libre Franklin"
+    name: "Nunito"
     sizes: [400,600]
   hero:
     # Main hero title
-    title: World's 1st multilingual content management platform
+    title: World's 1st multilingual <br> content management platform
     # Hero subtitle (optional)
     subtitle: Providing an intuitive workflow for you ever growing localisation problems.
     # Button text
@@ -46,11 +46,11 @@ params:
     # Where the main hero button links to
     buttonlink: https://app.aligner.io
     # Button text
-    buttontext2: Book a demo
+    buttontext2: 
     # Where the main hero button links to
-    buttonlink2: https://calendly.com/aligner/15min 
+    buttonlink2:  
     # Hero image (from static/images/___)
-    image: girlseditor.svg
+    image: banner-desktop.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - systek
@@ -165,6 +165,7 @@ params:
     subtitle:  
     buttonlink: "/pricing"
     buttonText: learn more about pricing
+    btnKlass: "btn-aligner rounded"
     plans:
     - title: Personal
       price: $9
@@ -172,7 +173,7 @@ params:
       heighlight: Get things done yourself
       btnText: Learn more
       btnURL: "#"
-      btnKlass: "secondary-btn"
+      btnKlass: "btn-aligner rounded"
       features:
         - text: Matrix editor
         - text: Headings, Numbers, Bullets
@@ -184,7 +185,7 @@ params:
       heighlight: Premium basics
       btnText: Start now
       btnURL: "#"
-      btnKlass: "primary-btn"
+      btnKlass: "btn-aligner rounded"
       features:
         - text: Matrix editor
         - text: Styles and track changes
@@ -195,7 +196,7 @@ params:
       heighlight: For large companies
       btnText: Learn more
       btnURL: "/pricing"
-      btnKlass: "secondary-btn"
+      btnKlass: "btn-aligner rounded"
       features:
         - text: up to 5 people 
         - text: 40MB of storage
@@ -207,7 +208,7 @@ params:
     text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts
     btnText: Book a time with us
     btnURL: https://calendly.com/aligner/15min
-    btnKlass: "accent-btn"
+    btnKlass: "btn-aligner rounded"
     clientlogos: 
   testimonials:
     enable: false
@@ -222,6 +223,7 @@ params:
     subtitle:  
     buttonlink: "/pricing"
     buttonText: learn more about pricing
+    btnKlass: "btn-aligner rounded"
     plans:
     - title: Personal
       price: $9

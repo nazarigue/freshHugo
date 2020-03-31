@@ -3,6 +3,7 @@
 {{- $subtitle   := index $pricing "subtitle" }}
 {{- $buttonText := index $pricing "buttontext" }}
 {{- $buttonLink := index $pricing "buttonlink" }}
+{{- $btnKlass := index $pricing "btnKlass" }}
 {{- $plans   := index $pricing "plans" }}
 <section class="section is-medium" id="pricing">
   <div class="container"> 
@@ -52,7 +53,7 @@
       <div class="columns">
         <div class="column is-full has-text-centered mt-20">          
         <p>
-          <a class="button cta secondary-btn raised" href="{{ $buttonLink }}">
+          <a class="button cta secondary-btn raised btn-aligner rounded" href="{{ $buttonLink }}">
             {{ $buttonText }}
           </a>
           </p>

@@ -1,3 +1,22 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Nunito', sans-serif;
+    color: #17224d;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.btn-aligner{
+    background: #5220dd !important;
+    border: #5220dd !important;
+    color: #fff;
+    padding: 11px 20px 13px 24px;
+}
+
+.btn-aligner:hover{
+    color: #fff;
+    box-shadow: 0 14px 26px -12px rgba(82, 32, 221, 0.42), 0 4px 23px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(82, 32, 221, 0.2) !important;
+}
+
 .feature-card{
     min-height: 320px;
     height: auto;
@@ -27,10 +46,12 @@
 }
 .price-card .card-title h4{
     font-size: 1.8rem;
+    color: #fff;
 }
 
 .price-card .card-title h4.price{
     font-weight: 700;
+    color: #fff;
 }
 .price-card .card-body{    
     padding: 40px 0px;
@@ -61,3 +82,16 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
     font-weight: bold;
 }
 
+.hero-bg{
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center center;
+    position: relative;
+    overflow: hidden;;
+}
+.button.secondary-btn{
+    font-size: 1.1rem;
+}
+.button.signup-button{
+    width: auto;
+}

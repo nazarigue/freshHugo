@@ -68,12 +68,12 @@
           </div>
           {{- else if .button }}
           <a href="{{ .url }}" class="navbar-item">
-            <span class="button signup-button rounded secondary-btn raised">
+            <span class="button signup-button rounded secondary-btn raised btn-aligner">
               {{ .title }}
             </span>
           </a>
           {{- else }}
-          <a href="{{ .url }}" class="navbar-item is-secondary">
+          <a href="{{ .url }}" class="navbar-item is-secondary ">
             {{ .title }}
           </a>
           {{- end }}
