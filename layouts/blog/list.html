@@ -1,0 +1,59 @@
+{{ define "main" }}
+<section class=" is-fullheight is-default is-bold">
+    {{ partial "navbar.html" . }}
+    {{ partial "navbar-clone.html" . }}
+</section>
+  <!-- Articles -->
+<section class="hero blog-list">
+    <div class="hero-body">
+      <div class="container">
+        <section class="section">
+          <div class="columns is-variable is-8">
+              
+            {{range $index, $element := .Data.Pages }}
+                {{ $c :=add $index 1 }}
+                <div class="column is-5 is-offset-1 ">
+                    <div class="content is-medium">
+                        <figure class="image is-16by9">
+                            <img src="{{.Params.image | absURL }}" alt="{{.Title}}">
+                          </figure>
+                        <h2 class="subtitle is-5 has-text-grey">{{ .PublishDate.Format "January 2, 2006"  }}</h2>
+                        <h1 class="title has-text-black is-3">{{.Title}} </h1>
+                        <p class="has-text-dark">{{.Summary | safeHTML | truncate 150}}</p>                        
+                        <a href="{{.Permalink}}">
+                            <span class="button signup-button rounded secondary-btn btn-aligner raised">
+                            Read More →
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                {{ if eq ( mod $c 2 ) 0 }}                        
+                    </div>
+                    </section>
+
+                    <div class="is-divider"></div>
+
+                    <section class="section">
+                    <div class="columns is-variable is-8">
+                {{ end }}
+            {{end}}
+          </div>
+        </section>
+      </div>
+    </div>
+  </section>
+
+ 
+
+  {{ if .Site.Params.footer }}
+  {{ partial "footer.html" . }}
+  {{ end }}
+
+  <!-- Back To Top Button -->
+  <div id="backtotop"><a href="#"></a></div>
+
+  {{ if .Site.Params.sidebar }}
+  {{ partial "sidebar.html" . }}
+  {{ end }}
+  
+{{ end }}

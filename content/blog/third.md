@@ -1,8 +1,8 @@
 ---
-title: First
-sidebar: true
+title: Third
+sidebar: false
 sidebarlogo: fresh-white-alt
 image: ../images/first-post.png
 ---
 
-My super sweet first blog post!!
+My super sweet third  blog post!!
