@@ -1,5 +1,5 @@
 ---
-title: First
+title: This is amazing
 sidebar: true
 sidebarlogo: fresh-white-alt
 image: ../images/first-post.png

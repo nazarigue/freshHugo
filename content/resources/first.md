@@ -1,5 +1,5 @@
 ---
-title: First
+title: Amazing
 sidebar: true
 sidebarlogo: fresh-white-alt
 menu:

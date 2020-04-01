@@ -38,7 +38,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: World's 1st multilingual <br> content management platform
+    title: World's 1st multilingual<br> content management platform.
     # Hero subtitle (optional)
     subtitle: Providing an intuitive workflow for you ever growing localisation problems.
     # Button text
@@ -174,7 +174,7 @@ params:
       icon: /images/plane.svg
       heighlight: Get things done yourself
       btnText: Learn more
-      btnURL: "#"
+      btnURL: /pricing
       btnKlass: "btn-aligner rounded"
       features:
         - text: Matrix editor
@@ -397,7 +397,7 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: aligner-logo.svg
+    logo: logo-new.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
@@ -411,7 +411,12 @@ params:
       column1:
         title: "Product"
         links:
-
+        - text: Privacy Policy
+          link: /resources
+        - text: Delivery Policy
+          link: /resources
+        - text: Contacts
+          link: /resources
       column2:
         title: "Pricing"
         links:
@@ -421,8 +426,6 @@ params:
           link: /blog
         - text: Contact
           link: /contacts
-        - text: Developers
-          link: /
       column3:
         title: "Resources"
         links:
