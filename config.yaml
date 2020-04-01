@@ -1,8 +1,8 @@
 baseURL: 
 languageCode: en-us
-title: Aligner
+title: Aligner- Multilingual content management
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: UA-138300699-1
 # Disables warnings
 disableKinds:
 - taxonomy
@@ -15,10 +15,7 @@ markup:
 
 menu:
   # before: []
-  after:
-    - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
-      weight: 10
+  after: 
     - name: "Hugo Themes"
       url: "https://themes.gohugo.io/hugo-book/"
       weight: 20
@@ -29,7 +26,7 @@ params:
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
   description: 
-  navbarlogo:
+  navbarlogo: 
   # Logo (from static/images/logos/___)
     image: logos/logo-new.svg
     link: /
@@ -50,7 +47,7 @@ params:
     # Where the main hero button links to
     buttonlink2:  
     # Hero image (from static/images/___)
-    image: banner-desktop.svg
+  #  image: banner-desktop.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - systek
@@ -64,8 +61,8 @@ params:
     url: /#features
   - title: Pricing
     url: /pricing
-  - title: Blog
-    url: /blog/
+ # - title: Blog
+ #   url: /blog/
   - title: Solutions
     sublinks:
     - title: POOL - croudsourced API 
@@ -74,7 +71,7 @@ params:
       url: https://go.aligner.io
     - title: APP - conent management
       url: https://app.aligner.io
-  - title: Resources
+ # - title: Resources
     url: /resources
   - title: Log in
     url: /login    
@@ -170,7 +167,7 @@ params:
     btnKlass: "btn-aligner rounded"
     plans:
     - title: Premium
-      price: $9
+      price: $9 / mo
       icon: /images/plane.svg
       heighlight: Get things done yourself
       btnText: Learn more
@@ -194,7 +191,7 @@ params:
         - text: 10,000 characters of MT
         - text: 
     - title: Team
-      price: $29.90
+      price: $29.90 / mo
       icon: /images/sun.svg
       heighlight: For large companies
       btnText: Learn more
@@ -202,14 +199,14 @@ params:
       btnKlass: "btn-aligner rounded"
       features:
         - text: Up to 5 people, next $4
-        - text: Wersioning 
+        - text: Versioning 
         - text: Workflows
         - text: Permissions
   CTA:
     enable: true
-    title: Get out from the manual routine
-    subtitle: Fortune 100 companies are using our products
-    text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts
+    title: Get out from the manual routine and shift to Aligner
+    subtitle: 
+    text: Let us help you to explore the possibilities
     btnText: Book a time with us
     btnURL: https://calendly.com/aligner/15min
     btnKlass: "btn-aligner rounded"
@@ -218,9 +215,9 @@ params:
     enable: false
     title: Testimonials
     subtitle: 
-    text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-    name: Co-founder at Company
-    image: /images/illustrations/faces/2.png
+    text: With Aligner, you get superspeed at editing content in multiple languages. All synchronisation happens automatically and it's easy to add up new languages to the business.
+    name: Co-Founder at Fooddocs
+    image: /images/katrin_fooddocs.svg
   pricingInner:
     enable: true
     title: Pricing built for individuals and teams
@@ -240,14 +237,14 @@ params:
       price: $8.99
       icon: /images/hot-air-balloon.svg
       heighlight: For medium companies
-      btnText: Buy Now
+      btnText: Coming soon
       btnURL: "#"
       btnKlass: "primary-btn"
     - title: Team
       price: $29.99
       icon: /images/sun.svg
       heighlight: For large companies
-      btnText: Buy Now
+      btnText: Coming soon
       btnURL: "#"
       btnKlass: "secondary-btn"      
     features:
@@ -415,24 +412,24 @@ params:
           link: /resources
         - text: Delivery Policy
           link: /resources
-        - text: Contacts
-          link: /resources
+      #  - text: Contacts
+      #    link: /resources
       column2:
         title: "Pricing"
         links:
         - text: Get started
-          link: /resources
-        - text: Blog
-          link: /blog
+          link: /pricing
+       # - text: Blog
+       #   link: /blog
         - text: Contact
           link: /contacts
-      column3:
-        title: "Resources"
-        links:
-        - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+     # column3:
+      #  title: "Resources"
+       # links:
+       # - text: Latest news
+       #   link: /blog/first
+       # - text: Tech articles
+       #   link: /blog/second
 
 
           
