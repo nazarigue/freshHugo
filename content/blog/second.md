@@ -1,7 +1,6 @@
 ---
 title: How does styling work in Aligner?
 sidebar: true
-=======
 title: Second
 sidebar: false
 sidebarlogo: fresh-white-alt
