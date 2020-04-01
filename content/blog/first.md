@@ -1,6 +1,7 @@
 ---
 title: Why you should skip email and files and use Aligner?
-sidebar: true
+date: 2018-09-24
+sidebar: false
 sidebarlogo: fresh-white-alt
 image: ../images/old-computer.svg
 draft: false
