@@ -8,4 +8,3 @@ draft: false
 ---
 
 How to localize Menu in Aligner? Fastest method in web. 
-How to localize Menu in Aligner? Fastest method in web.

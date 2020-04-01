@@ -1,8 +1,8 @@
 ---
-title: Forth
+title: How to keep document structured? Forget about Microsoft Word.
 sidebar: false
-sidebarlogo: fresh-white-alt
-image: ../images/first-post.png
+sidebarlogo: 
+image: ../images/document-structure.svg
 ---
 
 My super sweet forth  blog post!!
