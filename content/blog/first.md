@@ -1,7 +1,10 @@
 ---
-title: First
+title: Why you should skip email and files and use Aligner?
 sidebar: true
 sidebarlogo: fresh-white-alt
+image: ../images/old-computer.svg
+draft: false
 ---
 
-My super sweet first blog post!!
+How to localize Menu in Aligner? Fastest method in web. 
+How to localize Menu in Aligner? Fastest method in web.

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1218" height="580.897" viewBox="0 0 1218 580.897">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.501" stop-color="#dbdbdb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="-0.08" y1="0.958" x2="0.169" y2="0.958" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="update-2.0-iteration" transform="translate(-36 -0.603)">
+    <g id="homepage-desktop" transform="translate(-201 -130)">
+      <g id="Group-22" transform="translate(200.392 130)">
+        <g id="Group-9" transform="translate(725.608 52)" opacity="0.7">
+          <g id="Group-8" transform="translate(0 154)">
+            <rect id="Rectangle" width="529" height="1" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-2" data-name="Rectangle" width="529" height="1" transform="translate(0 44)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-3" data-name="Rectangle" width="529" height="1" transform="translate(0 88)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-4" data-name="Rectangle" width="529" height="1" transform="translate(0 133)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-5" data-name="Rectangle" width="529" height="1" transform="translate(0 177)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-6" data-name="Rectangle" width="529" height="1" transform="translate(0 221)" fill="url(#linear-gradient)"/>
+          </g>
+          <g id="Group-7" transform="translate(375.5 0.5) rotate(90)">
+            <rect id="Rectangle-7" data-name="Rectangle" width="529" height="1" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-8" data-name="Rectangle" width="529" height="1" transform="translate(0 44)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-9" data-name="Rectangle" width="529" height="1" transform="translate(0 88)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-10" data-name="Rectangle" width="529" height="1" transform="translate(0 133)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-11" data-name="Rectangle" width="529" height="1" transform="translate(0 177)" fill="url(#linear-gradient)"/>
+            <rect id="Rectangle-12" data-name="Rectangle" width="529" height="1" transform="translate(0 221)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="Group-9-Copy-25" transform="translate(954.608 28)">
+          <g id="Group-9-Copy-4">
+            <path id="Mask-Copy-4" d="M9.051,8.622c4.051,3.638,21.577,2.706,42.282,3.217,0,0,4.561,25.994,6.9,50.058-22.065-.386-40.679-1.416-53.253-.772C4.5,61.215,5,4.984,9.051,8.622Z" fill-rule="evenodd" opacity="0.2"/>
+            <path id="Mask-Copy-5" d="M10.624,5.77a.28.28,0,0,1,.318-.336c.318,0,28.022,0,48.727.492,0,0,2.589,30.388,2.219,54.141-24.654.958-42.405,1.6-54.609,3.532C6.8,63.527,11.58,25.4,10.624,5.77Z" fill-rule="evenodd" opacity="0.03" fill="url(#linear-gradient-13)"/>
+            <path id="Rectangle-19-Copy" d="M0,0H62.868s1.479,9.265,0,11.839C22.682,9.265,38.46,13,0,11.839Z" fill-rule="evenodd" opacity="0.02"/>
+          </g>
+          <path id="Mask-Copy-9" d="M4.655,1.745h57.93l.252,58.182H4.655Z" fill="#ffbfbf" fill-rule="evenodd"/>
+        </g>
+        <path id="Triangle-Copy-2" d="M1032.608,5l12,24-12.12-4.168L1020.608,29Z" transform="translate(1534.189 919.764) rotate(-120)" fill="#050038" fill-rule="evenodd"/>
+        <g id="Group-33-Copy-11" transform="translate(36.608 20)">
+          <path id="Rectangle-1" d="M38.3,3.991V29.647a3,3,0,0,1-3,2.991H24.825L19.65,38.275l-5.175-5.638H4a3,3,0,0,1-3-2.991V3.991A3,3,0,0,1,4,1H35.3a3,3,0,0,1,3,2.991Z" fill="#050038" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+          <rect id="Rectangle-2-2" data-name="Rectangle-2" width="16.843" height="3.058" rx="0.695" transform="translate(11.229 12.232)" fill="#fff"/>
+          <rect id="Rectangle-2-Copy" width="11.229" height="3.058" rx="0.695" transform="translate(11.229 18.348)" fill="#fff"/>
+        </g>
+        <path id="Path-3" d="M864.608-345.006q34.968,40.288,53.337,15.666c18.37-24.621-10.525-48.132,16.608-43.208s78.092,27.567,78.092,0,31.675-21.162,44.963-.976" transform="translate(0 711)" fill="none" stroke="#ffd02f" stroke-linecap="round" stroke-width="2" fill-rule="evenodd"/>
+        <path id="Triangle-Copy-2-2" data-name="Triangle-Copy-2" d="M846,341.392l12,24-12.12-4.168L834,365.392Z" transform="translate(1575.047 -202.569) rotate(120)" fill="#ffd02f" fill-rule="evenodd"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(-100.392 161.603)" opacity="0.712">
+          <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(182 194)" fill="#fff" stroke="#f8c856" stroke-width="2">
+            <rect width="170" height="93" rx="10" stroke="none"/>
+            <rect x="1" y="1" width="168" height="91" rx="9" fill="none"/>
+          </g>
+          <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(199 203)" fill="#f8c856" stroke="#f8c856" stroke-width="2">
+            <rect width="130" height="18" rx="9" stroke="none"/>
+            <rect x="1" y="1" width="128" height="16" rx="8" fill="none"/>
+          </g>
+          <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(199 233)" fill="#f8c856" stroke="#f8c856" stroke-width="2" opacity="0.804">
+            <rect width="96" height="15" rx="7.5" stroke="none"/>
+            <rect x="1" y="1" width="94" height="13" rx="6.5" fill="none"/>
+          </g>
+          <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(199 261)" fill="#f8c856" stroke="#f8c856" stroke-width="2" opacity="0.804">
+            <rect width="96" height="15" rx="7.5" stroke="none"/>
+            <rect x="1" y="1" width="94" height="13" rx="6.5" fill="none"/>
+          </g>
+          <g id="Group_1-2" data-name="Group 1" transform="translate(351.501 233.073)">
+            <circle id="Ellipse_2" data-name="Ellipse 2" cx="8.5" cy="8.5" r="8.5" transform="translate(0.499 -0.073)" fill="#d92d6f" opacity="0.321"/>
+            <text id="_" data-name="!" transform="translate(7.499 11.927)" fill="#fff" font-size="10" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">!</tspan></text>
+          </g>
+          <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(337 194)" fill="#fff" stroke="#f8c856" stroke-width="2">
+            <path d="M0,0H95a10,10,0,0,1,10,10V83A10,10,0,0,1,95,93H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M2,1H95a9,9,0,0,1,9,9V83a9,9,0,0,1-9,9H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Z" fill="none"/>
+          </g>
+          <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(352 204)" fill="#4522ae" stroke="#4522ae" stroke-width="2">
+            <rect width="81" height="18" rx="9" stroke="none"/>
+            <rect x="1" y="1" width="79" height="16" rx="8" fill="none"/>
+          </g>
+          <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(352 262)" fill="#4522ae" stroke="#4522ae" stroke-width="2" opacity="0.804">
+            <rect width="67" height="15" rx="7.5" stroke="none"/>
+            <rect x="1" y="1" width="65" height="13" rx="6.5" fill="none"/>
+          </g>
+          <g id="Group_2" data-name="Group 2" transform="translate(352 233)">
+            <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="8.5" cy="8.5" r="8.5" fill="#d92d6f" opacity="0.321"/>
+            <text id="_2" data-name="!" transform="translate(7 12)" fill="#fff" font-size="10" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">!</tspan></text>
+          </g>
+          <text id="H1" transform="translate(204 216)" fill="#fff" font-size="11" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">H1</tspan></text>
+          <text id="H1-2" data-name="H1" transform="translate(356 216)" fill="#fff" font-size="11" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">H1</tspan></text>
+          <text id="P" transform="translate(204 245)" fill="#fff" font-size="12" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">P</tspan></text>
+          <text id="P-2" data-name="P" transform="translate(204 272)" fill="#fff" font-size="12" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">P</tspan></text>
+          <text id="P-3" data-name="P" transform="translate(356 274)" fill="#fff" font-size="12" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">P</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,14 +1,16 @@
 ---
-title: "Resoucses"
-description: "test post index"
+title: "Getting started in Aligner"
+description: "Instructions on how to use Aligner platform"
 date: 2020-01-11T14:09:21+09:00
 draft: false
 ---
 
 
-# Introduction
+# Say goodbye to your manual workflows
 
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
+Aligner is an online tool to manage multilingual content. One of the core feature of Aligner is an matrix editor, that syncronises all changes done in all languages. It is easy to integrate with Google docs, share with colleagues, edit all languages and use translation options.
+
+## How to stop working in emails and work in Aligner?
 
 Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
 inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
