@@ -2,14 +2,14 @@
 <html lang="{{ .Site.LanguageCode }}">
   <head>
     {{ partial "meta.html" . }}
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ if .Page.Title }} {{ .Title }} {{ else }} .Site.Title }} {{end}}</title>
     {{ partial "css.html" . }}
   </head>
   <body>
     <!-- Preloader -->
-    <div id="preloader">
+    <!-- <div id="preloader">
       <div id="status"></div>
-    </div>
+    </div> -->
     {{ partial "navbar.html" . }}
     {{ partial "navbar-clone.html" . }}
 
