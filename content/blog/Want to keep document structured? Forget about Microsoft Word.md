@@ -10,6 +10,6 @@ Today, a lot of companies shifted to new Platforms like [Notion](https://www.not
 
 ## Four reasons why startups get rid of Microsoft Word
 - Collaboration is well organised, easy to share
-- Structure is never broken, clean and systematic approach
+- A structure is never broken, clean and systematic approach
 - Mobile friendly
 - Connect to apps like [Slack](https://www.slack.com "Slack"), [Jira](https://www.slack.com "Jira"), [Discord](https://discordapp.com/ "Discord")
