@@ -231,7 +231,7 @@ params:
       icon: /images/plane.svg
       heighlight: Get things done quick
       btnText: Start now →
-      btnURL: "#"
+      btnURL: https://app.aligner.io
       btnKlass: "secondary-btn"
     - title: Premium
       price: $8.99
