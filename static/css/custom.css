@@ -99,3 +99,14 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
 .blog-list .content figure{
     margin: 0px;
 }
+
+@media (max-width: 767px) {
+    .hero-body .title.is-bold{
+        font-size: 1.8rem;
+    }
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+}
