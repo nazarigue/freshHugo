@@ -11,7 +11,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true # Allows you to write raw html in your md files
-      
+
 
 menu:
   # before: []
@@ -37,7 +37,7 @@ params:
     # Main hero title
     title: World's 1st multilingual<br> content management platform.
     # Hero subtitle (optional)
-    subtitle: Providing an intuitive workflow for you ever growing localisation problems.
+    subtitle: Providing an intuitive workflow for your ever growing localisation problems.
     # Button text
     buttontext: Start free now →
     # Where the main hero button links to
@@ -69,7 +69,7 @@ params:
       url: https://pool.aligner.io
     - title: GO - content delivery
       url: https://go.aligner.io
-    - title: APP - conent management
+    - title: APP - content management
       url: https://app.aligner.io
  # - title: Resources
     url: /resources
@@ -106,13 +106,13 @@ params:
     buttonText: Get started here →
     list:
     - title: Matrix editor
-      text: No hassle with keeping up with track changes in all languages.
+      text: No hassle with tracking changes across your content in different languages.
       image: /images/textedit.svg
       btnText: 
       btnURL: ""
       btnKlass: "" 
     - title: Machine translation
-      text: Use extensively machine translation selectively on in whole piece.
+      text: Use machine translation to translate the whole document or selectively just a piece.
       image: /images/roboto-logo.svg
       btnText: Call to Action
       btnURL: ""
@@ -124,7 +124,7 @@ params:
       btnURL: ""
       btnKlass: ""
     - title: Export to destination
-      text: Publish your conent to your web, document or other resource.
+      text: Publish your content to your web, document or other resource.
       image: /images/reload.svg
       btnText: 
       btnURL: ""
@@ -183,7 +183,7 @@ params:
       icon: /images/hot-air-balloon.svg
       heighlight: Premium basics
       btnText: Start now
-      btnURL: "#"
+      btnURL: https://app.aligner.io
       btnKlass: "btn-aligner rounded"
       features:
         - text: Matrix editor
@@ -409,20 +409,20 @@ params:
         title: "Product"
         links:
         - text: Privacy Policy
-          link: /resources
+          link: /privacy-policy
         - text: Delivery Policy
-          link: /resources
-      #  - text: Contacts
-      #    link: /resources
+          link: /delivery-policy
+        - text: Terms of use
+          link: /terms-of-use
       column2:
         title: "Pricing"
         links:
-        - text: Get started
+        - text: Plans
           link: /pricing
        # - text: Blog
        #   link: /blog
-        - text: Contact
-          link: /contacts
+        #- text: Contact
+       #   link: /contacts
      # column3:
       #  title: "Resources"
        # links:
