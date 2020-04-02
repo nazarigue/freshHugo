@@ -74,7 +74,7 @@ params:
  # - title: Resources
     url: /resources
   - title: Log in
-    url: /login    
+    url: https://app.aligner.io
   - title: Start free now →
     url: https://app.aligner.io
     button: true
