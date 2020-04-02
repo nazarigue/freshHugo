@@ -295,9 +295,9 @@ params:
         - 
       - list: 
         - Sharing
-        - 
-        - 
-        - 
+        - true
+        - true
+        - true
       - list: 
         - Publishing
         - public links
