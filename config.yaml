@@ -285,8 +285,8 @@ params:
         - true
       - list: 
         - Import
-        - manual
         - docx and Google docs
+        - docx and Google docs, integrations
         - extended functionality
       - list: 
         - Export
