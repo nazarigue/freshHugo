@@ -1,5 +1,5 @@
 ---
-title: Yould stop sending back-and-forth emails.
+title: You should stop sending back-and-forth emails.
 date: 2020-04-02
 sidebar: false
 sidebarlogo: aligner-new.svg
