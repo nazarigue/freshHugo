@@ -61,8 +61,8 @@ params:
     url: /#features
   - title: Pricing
     url: /pricing
- # - title: Blog
- #   url: /blog/
+  - title: Blog
+    url: /blog/
   - title: Solutions
     sublinks:
     - title: POOL - croudsourced API 
@@ -266,8 +266,8 @@ params:
       - list:
         - Storage
         - 500mb
-        - 
-        - 10
+        - 2GB
+        - 5GB
       - list: 
         - Syncrhonised styles
         - true
@@ -419,8 +419,8 @@ params:
         links:
         - text: Plans
           link: /pricing
-       # - text: Blog
-       #   link: /blog
+        - text: Blog
+          link: /blog
         #- text: Contact
        #   link: /contacts
      # column3:
