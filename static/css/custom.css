@@ -1,6 +1,7 @@
 h1, h2, h3, h4, h5, h6{
     font-family: 'Nunito', sans-serif;
     color: #17224d;
+    white-space: wrap;
 }
 p{
     font-family: 'Montserrat', sans-serif;
