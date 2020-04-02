@@ -39,7 +39,7 @@ Information from third parties: we aim to provide relevant marketing, offers, an
 
 We collect the data described above to provide you with the Services in a reliable and secure manner, as well as for our legitimate business needs.
 
-We give users the option to use some of our Services free of charge. In case you use our free Services, we leave the right to send you information about upgrades and plans. You can opt out at any time in the notifications section of your account.
+We give users the option to use some of our Services free of charge. In case you use our free Services, we leave the right to send you information about upgrades and plans. You can opt-out at any time in the notifications section of your account.
 
 We may collect and share your personal data with other companies for the purposes of:
 

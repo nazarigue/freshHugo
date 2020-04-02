@@ -1,5 +1,5 @@
 ---
-title: Yould stop sending back-and-forth emails.
+title: You should stop sending back-and-forth emails.
 date: 2020-04-02
 sidebar: false
 sidebarlogo: aligner-new.svg
@@ -11,14 +11,14 @@ draft: false
 
 People tend to be stuck in communication and information gaps all the time. Today, we work already in real-time collaboration and notification tools like [Slack](https://www.slack.com "Slack"), integrate it with [Jira](https://www.slack.com "Jira"), connect it to [Mailchimp](https://www.slack.com "Mailchimp"). Everything is under control.
 
-> But we have an issue when it comes to managing multilingual documentation. Would it be blog, knowledgbase, support materials or marketing content. We get stuck.
+> But we have an issue when it comes to managing multilingual documentation. Would it be a blog, knowledgebase, support materials or marketing content. We get stuck.
 
 ## 4 reasons why managing multiple languages is difficult
 
 - you can't work in a set mode. You can edit only one language and need other people to fix all others
 - keeping in loop all people creates communication gaps
 - updating content means working with multiple files and keeping track change in all of them
-- content can get to managing hunders of files
+- content can get to managing hundreds of files
 
 ## Current tools are not sufficient
 
@@ -27,7 +27,7 @@ Some try to build string-like solutions in [Google Sheets](https://www.google.co
 
 ## 3 main problems that Google Sheets can't handle
 - Style. You can't style and do preps for the web.
-- Stucture. You can't have different structures for different languages.
+- Structure. You can't have different structures for different languages.
 - Does not handle interactive images like bullets, tables and images
 
 Start using Aligner today to remove the barriers and skip all unnecessary actions. 
