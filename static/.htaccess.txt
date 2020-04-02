@@ -1,0 +1,11 @@
+# Redirects from what the browser requests to what we serve
+https://www.aligner.io/?lang=et          https://www.aligner.io
+https://www.aligner.io/contact?lang=et   https://www.aligner.io
+https://www.aligner.io/translate         https://www.aligner.io
+https://www.aligner.io/new-index         https://www.aligner.io
+https://www.aligner.io/about             https://www.aligner.io
+https://www.aligner.io/home              https://www.aligner.io
+https://www.aligner.io/home-1            https://www.aligner.io
+https://www.aligner.io/contact           https://www.aligner.io
+https://www.aligner.io/multi-language    https://www.aligner.io
+
