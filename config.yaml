@@ -183,7 +183,7 @@ params:
       icon: /images/hot-air-balloon.svg
       heighlight: Premium basics
       btnText: Start now
-      btnURL: "#"
+      btnURL: https://app.aligner.io
       btnKlass: "btn-aligner rounded"
       features:
         - text: Matrix editor
@@ -409,20 +409,20 @@ params:
         title: "Product"
         links:
         - text: Privacy Policy
-          link: /resources
+          link: /privacy-policy
         - text: Delivery Policy
-          link: /resources
-      #  - text: Contacts
-      #    link: /resources
+          link: /delivery-policy
+        - text: Terms of use
+          link: /terms-of-use
       column2:
         title: "Pricing"
         links:
-        - text: Get started
+        - text: Plans
           link: /pricing
        # - text: Blog
        #   link: /blog
-        - text: Contact
-          link: /contacts
+        #- text: Contact
+       #   link: /contacts
      # column3:
       #  title: "Resources"
        # links:
