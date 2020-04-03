@@ -188,7 +188,7 @@ params:
       features:
         - text: Matrix editor and MT translation
         - text: sharing
-        - text: true
+        - text: collaboration
         - text: export
     - title: Team
       price: $29.90 / mo
