@@ -137,7 +137,7 @@ you don’t have a Paid Account and haven't accessed our Services for 12 (twelve
 
 We may decide to discontinue the Services in response to unforeseen circumstances beyond Aligner’s control or to comply with a legal requirement. If we do so, we’ll give you reasonable prior notice so that you can export Your Items from our systems. If we discontinue Services in this way before the end of any fixed or minimum term you have paid us for, we’ll refund the portion of the fees you have pre-paid but haven't received Services for.
 
-​
+
 
 ### Resolving Disputes
 
