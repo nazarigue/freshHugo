@@ -1,6 +1,6 @@
 baseURL: 
 languageCode: en-us
-title: Aligner- Multilingual content management
+title: Aligner | Multilingual content management | Online free platform.
 theme: hugo-fresh
 googleAnalytics: UA-138300699-1
 # Disables warnings
@@ -25,7 +25,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
-  description: 
+  description: Localisation for blogs, knwoledgebases and web content.
   navbarlogo: 
   # Logo (from static/images/logos/___)
     image: logos/logo-new.svg
@@ -61,8 +61,8 @@ params:
     url: /#features
   - title: Pricing
     url: /pricing
- # - title: Blog
- #   url: /blog/
+  - title: Blog
+    url: /blog/
   - title: Solutions
     sublinks:
     - title: POOL - croudsourced API 
@@ -74,7 +74,7 @@ params:
  # - title: Resources
     url: /resources
   - title: Log in
-    url: /login    
+    url: https://app.aligner.io
   - title: Start free now →
     url: https://app.aligner.io
     button: true
@@ -169,7 +169,7 @@ params:
     - title: Premium
       price: $9 / mo
       icon: /images/plane.svg
-      heighlight: Get things done yourself
+      heighlight: Get things done yourself fast
       btnText: Learn more
       btnURL: /pricing
       btnKlass: "btn-aligner rounded"
@@ -181,19 +181,19 @@ params:
     - title: Freemium
       price: FREE
       icon: /images/hot-air-balloon.svg
-      heighlight: Premium basics
+      heighlight: Basics that will amaze you
       btnText: Start now
       btnURL: https://app.aligner.io
       btnKlass: "btn-aligner rounded"
       features:
-        - text: Matrix editor
-        - text: Styles and track changes
-        - text: 10,000 characters of MT
-        - text: 
+        - text: Matrix editor and MT translation
+        - text: sharing
+        - text: collaboration
+        - text: export
     - title: Team
       price: $29.90 / mo
       icon: /images/sun.svg
-      heighlight: For large companies
+      heighlight: Extra team functionality
       btnText: Learn more
       btnURL: "/pricing"
       btnKlass: "btn-aligner rounded"
@@ -231,7 +231,7 @@ params:
       icon: /images/plane.svg
       heighlight: Get things done quick
       btnText: Start now →
-      btnURL: "#"
+      btnURL: https://app.aligner.io
       btnKlass: "secondary-btn"
     - title: Premium
       price: $8.99
@@ -266,8 +266,8 @@ params:
       - list:
         - Storage
         - 500mb
-        - 
-        - 10
+        - 2GB
+        - 5GB
       - list: 
         - Syncrhonised styles
         - true
@@ -275,8 +275,8 @@ params:
         - true
       - list: 
         - Machine Translation
-        - manual
-        - docx and Google docs
+        - true
+        - true
         - true
       - list:
         - Choose MT engines
@@ -285,24 +285,24 @@ params:
         - true
       - list: 
         - Import
-        - manual
         - docx and Google docs
-        - true
+        - docx and Google docs, integrations
+        - extended functionality
       - list: 
         - Export
-        - manual
         - .docx or Google Docs, PDF
-        - 
+        - .docx or Google Docs, PDF
+        - extended functionality
       - list: 
         - Sharing
-        - 
-        - 
-        - 
+        - true
+        - true
+        - true
       - list: 
         - Publishing
         - public links
         - public and private links
-        - 
+        - public and private links
       - list: 
         - Worklows
         - '-'
@@ -419,8 +419,8 @@ params:
         links:
         - text: Plans
           link: /pricing
-       # - text: Blog
-       #   link: /blog
+        - text: Blog
+          link: /blog
         #- text: Contact
        #   link: /contacts
      # column3:
