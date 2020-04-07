@@ -101,6 +101,28 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
     margin: 0px;
 }
 
+.resources-content h1{
+    margin: 10px 0px;
+    font-weight: 900;
+    font-size: 160%;
+}
+.resources-content h2{
+    margin: 10px 0px;
+    font-weight: 900;
+    font-size: 150%;
+}
+.resources-content h3{
+    margin: 10px 0px;
+    font-weight: 900;
+    font-size: 130%;
+}
+.resources-content h4{
+    margin: 10px 0px;
+    font-weight: 900;
+    font-size: 110%;
+}
+
+
 @media (max-width: 767px) {
     .hero-body .title.is-bold{
         font-size: 1.8rem;

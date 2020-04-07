@@ -7,9 +7,9 @@
   </head>
   <body>
     <!-- Preloader -->
-    <div id="preloader">
+    <!-- <div id="preloader">
       <div id="status"></div>
-    </div>
+    </div> -->
     {{ partial "navbar.html" . }}
     {{ partial "navbar-clone.html" . }}
 
@@ -24,11 +24,11 @@
 
           
           </div>
-          <div class="column is-centered-tablet-portrait">
+          <div class="column is-centered-tablet-portrait ">
             <h1 class="title section-title mb">{{ .Title }}</h1>
             <h5 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h5>
             <div class="divider"></div>  <br>
-              <div class="mt-40">
+              <div class="mt-40 resources-content">
                 {{ .Content }}
               </div>
             
