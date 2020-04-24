@@ -121,10 +121,10 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
     font-weight: 900;
     font-size: 110%;
 }
-
+/*
 .navbar.is-fresh .navbar-item {
     display: inline-block;
-}
+}*/
 @media (max-width: 767px) {
     .hero-body .title.is-bold{
         font-size: 1.8rem;
@@ -142,10 +142,10 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
-	.navbar.is-fresh .navbar-item {
+	/*.navbar.is-fresh .navbar-item {
 		display: block;
 		flex-grow: 0;
 		flex-shrink: 0;
 	}
-
+	*/
 }
