@@ -318,6 +318,8 @@ params:
     enable: false
     title: Features
     subtitle: 
+    image1: /images/first-post.png
+    image2: /images/hero-image.jpg
     features:
     - title: Feature One
       text: Even the all-powerful Pointing has no control about the blind texts      

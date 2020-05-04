@@ -2,14 +2,29 @@
 {{- $title    := index $section2 "title" }}
 {{- $subtitle := index $section2 "subtitle" }}
 {{- $features := index $section2 "features" }}
-<section class="section is-medium">
+{{- $image1 := index $section2 "image1" }}
+{{- $image2 := index $section2 "image2" }}
+<section class="section mt-30">
   <div class="container">
        
     <div class="title-wrapper has-text-centered pb-20">
         <h2 class="title is-2">{{ $title }}</h2>
         {{ if $subtitle }} <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3> {{end}}
+        
     </div>
+
     <div class="columns is-multiline">
+      {{if $image1}}
+        <div class="column is-12 mt-40">
+          <figure class="">
+            <p class="image">
+              <img src="{{  $image1 | relURL }}" class="image">
+            </p>
+          </figure>
+        </div>
+      {{end}}
+      
+
         {{- range $features }}
       <div class="column is-3 mt-60">
        
@@ -30,6 +45,16 @@
         </article>        
       </div>
       {{- end }}
+
+      {{if $image2}}
+        <div class="column is-12">
+          <figure class="">
+            <p class="image">
+              <img src="{{  $image2 | relURL }}" class="image">
+            </p>
+          </figure>
+        </div>
+      {{end}}
     </div>
   </div>
 </section>
