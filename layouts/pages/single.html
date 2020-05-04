@@ -15,8 +15,8 @@
 
     {{ partial "single/single.html" . }}
 
-    
-
+     
+    {{if .Content}}
     <section class="section">
       <div class="columns">
         <div class="column is-8 is-offset-2">
@@ -27,7 +27,7 @@
         </div>
       </div>
     </section>
-
+    {{end}}
     
     
     {{ if .Params.include_froala }}

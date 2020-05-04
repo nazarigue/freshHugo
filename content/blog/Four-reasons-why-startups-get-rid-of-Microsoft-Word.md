@@ -1,6 +1,7 @@
 ---
 title: Want to keep document structured? Forget about Microsoft Word.
 sidebar: false
+ogImage: "https://www.aligner.io/images/aligner-logo.png"
 date: 2020-04-01
 sidebarlogo: 
 image: ../images/document-structure.svg
