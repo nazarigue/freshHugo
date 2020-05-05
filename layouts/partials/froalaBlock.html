@@ -4,7 +4,7 @@
 {{- $linkText := index $section2 "linktext" }} 
 {{- $linkUrl := index $section2 "linkurl" }}
 {{- $features := index $section2 "list" }}
-<section class="section is-medium">
+<section class="section is-small">
   <div class="container">
     <div class="columns mt-60">
       <div class="column   is-7">
@@ -20,7 +20,7 @@
     
       <div class="column is-3 has-text-centered">
         
-        <figure class="media-left">
+        <figure class="">
           <p class="image has-text-centered">
             <img src="{{ .image | relURL }}"  alt="{{ .title }}" class="image is-64x64" style="margin:auto;">
           </p>

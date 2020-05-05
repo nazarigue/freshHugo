@@ -35,9 +35,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: World's 1st multilingual<br> content management platform.
+    title: Translate 10X faster<br> with Aligner
     # Hero subtitle (optional)
-    subtitle: Providing an intuitive workflow for your ever growing localisation problems.
+    subtitle: Intuitive workflow for your ever growing localisation problems.
     # Button text
     buttontext: Start free now →
     # Where the main hero button links to
@@ -58,7 +58,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
   navbar:
   - title: Features
-    url: /#features
+    url: /features
   - title: Pricing
     url: /pricing
   - title: Blog
@@ -72,7 +72,7 @@ params:
     - title: APP - content management
       url: https://app.aligner.io
  # - title: Resources
-    url: /resources
+  #  url: /resources
   - title: Log in
     url: https://app.aligner.io
   - title: Start free now →
@@ -102,28 +102,28 @@ params:
     enable: true
     title: Features 
     subtitle:  
-    buttonlink: https://app.aligner.io
-    buttonText: Get started here →
+    buttonlink: /features
+    buttonText: See all the features →
     list:
-    - title: Matrix editor
+    - title: Edit
       text: No hassle with tracking changes across your content in different languages.
       image: /images/textedit.svg
       btnText: 
       btnURL: ""
       btnKlass: "" 
-    - title: Machine translation
+    - title: Translate
       text: Use machine translation to translate the whole document or selectively just a piece.
       image: /images/roboto-logo.svg
       btnText: Call to Action
       btnURL: ""
       btnKlass: ""
-    - title: Assign languages
+    - title: Share
       text: Work with teams and let internal or external collaborators in.
       image: /images/team.svg
       btnText: 
       btnURL: ""
       btnKlass: ""
-    - title: Export to destination
+    - title: Publish
       text: Publish your content to your web, document or other resource.
       image: /images/reload.svg
       btnText: 
@@ -134,25 +134,25 @@ params:
     title: Aligner
     subtitle: Made for marketers and content creators to work on multilingual content with ease.
     features:
-    - title: Seamless multilingual content syncronization via changes matrix
+    - title: Translate online
       text: No back and forth emails and files. Get syncrhonised all languages automatically when updating pieces of the content.
       image: /images/ai-illustration.svg
       btnText: See it in action →
       btnURL: https://app.aligner.io
       btnKlass: "secondary-btn" 
-    - title: Create your content with your team
+    - title: Collaborate 
       text: Assign languages, invite collaborators and never stay alert on missing work done.
       image: /images/team-image.svg
       btnText: Start working and invite people →
       btnURL: https://app.aligner.io
       btnKlass: "primary-btn"
-    - title: Keep your multilingual paperwork in one place
+    - title: Manage efficiently
       text: Get things syncrhonised with Google Docs and other services without leaving your favourite apps.
       image: /images/flags-illustration.svg
       btnText: Syncronise Google Docs →
       btnURL: https://app.aligner.io
       btnKlass: "secondary-btn"
-    - title: Keep track of changes and never miss any change
+    - title: AI and Machine learning
       text: Aligner keeps track of changes done in multiple languages and provides selective machine translation to fix it rightaway
       image: /images/version-control.svg
       btnText: See how it works →
@@ -220,7 +220,7 @@ params:
     image: /images/katrin_fooddocs.svg
   pricingInner:
     enable: true
-    title: Pricing built for individuals and teams
+    title: Pricing
     subtitle:  
     buttonlink: "/pricing"
     buttonText: learn more about pricing
@@ -317,51 +317,51 @@ params:
   featuresList:
     enable: false
     title: Features
-    subtitle: 
-    image1: /images/first-post.png
-    image2: /images/hero-image.jpg
+    subtitle: Work simoultaneously with no-matter-how-many languages
+    image1: /images/recording.mov
+    #image2: /images/hero-image.jpg
     features:
-    - title: Feature One
-      text: Even the all-powerful Pointing has no control about the blind texts      
-      icon: /images/feature-sm1.jpg
-    - title: Feature Two
-      text: Separated they live in Bookmarksgrove right at the coast    
-      icon: /images/feature-sm2.jpg
-    - title: Feature Three
-      text: A small river named Duden flows by their place and supplies it  
-      icon: /images/feature-sm3.jpg
-    - title: Feature Four
-      text: Far far away, behind the word mountains, far from the countries 
-      icon: /images/feature-sm4.jpg
-    - title: Feature Five
-      text: On her way she met a copy. The copy warned the Little Blind Text.
-      icon: /images/feature-sm5.jpg
-    - title: Feature Six
-      text: Far far away, behind the word mountains, far from the countries
-      icon: /images/feature-sm6.jpg
-    - title: Feature Seven
-      text: Duden flows by their place far far away, behind the word mountains.
-      icon: /images/feature-sm7.jpg
-    - title: Feature Eight
-      text: Separated they live in Bookmarksgrove right at the coast
-      icon: /images/feature-sm8.jpg
+    - title: Auto-Styling
+      text: All styles syncrhonised through the languages
+      icon: /images/css.svg
+    - title: HTML based
+      text: Easily use any of the Web components
+      icon: /images/html.svg
+    - title: Collaboration
+      text: Invite colleagues, translators, proofreaders
+      icon: /images/collaborate-features.png
+    - title: PDF export
+      text: Ready to print? We are PDF ready.
+      icon: /images/pdf-translate.svg
+    - title: Google Docs
+      text: Sync with your Google Docs account
+      icon: /images/docs.svg
+    - title: Microsoft Word
+      text: Upload Word content with ease
+      icon: /images/word.svg
+    - title: Machine Translation
+      text: Combination of best engines
+      icon: /images/languages.svg
+    - title: 136+ Languages
+      text: You are covered, globally
+      icon: /images/globe.svg
   froalaBlock:
     enable: true
-    title: Froala Design Blocks is simply ahead the word mountains
-    text: Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-    linktext: "Explore all features <i class='fa fa-angle-right'></i>"
-    linkurl: "#"
+    title: Aligner is built for marketers and creators who care about being productive.
+    text: Time. It's all about being effective. Escape back-n-forth emailing, long deadlines. Alinger is made to make things happen instant.
+    linktext: "Start exploring all possibilities <i class='fa fa-angle-right'></i>"
+    linkurl: https://app.aligner.io
     list:
-    - title: Feature One
-      image: /images/git.jpg
-    - title: Feature Two
-      image: /images/feature-sm5.jpg
-    - title: Feature Three
-      image: /images/feature-sm1.jpg
-    - title: Feature Four
-      image: /images/feature-sm7.jpg
+    - title: Reach new audience
+      image: /images/crowd.png
+    - title: Do things faster
+      image: /images/rocket.svg
+    - title: No credit card required
+      image: /images/no-credit-card.png
+    - title: Cloud
+      image: /images/cloud.png
   section2:
-    enable: false
+    enable: False
     title: You're here because you want the best
     subtitle: And we know it
     features:
@@ -401,10 +401,13 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
       # Icons are from Font Awesome
     - link: https://www.facebook.com/align.and.scale/
       icon: facebook
+    - link: https://www.instagram.com/align_and_scale/
+      icon: instagram
+    - link: https://www.linkedin.com/company/aligner
+      icon: linkedin
     bulmalogo: false
     quicklinks:
       column1:
@@ -417,21 +420,23 @@ params:
         - text: Terms of use
           link: /terms-of-use
       column2:
-        title: "Pricing"
+        title: "Features"
         links:
         - text: Plans
           link: /pricing
         - text: Blog
           link: /blog
+        - text: Features
+          link: /features
         #- text: Contact
        #   link: /contacts
-     # column3:
-      #  title: "Resources"
+      #column3:
+       # title: "Resources"
        # links:
-       # - text: Latest news
-       #   link: /blog/first
-       # - text: Tech articles
-       #   link: /blog/second
+       # - text: How To
+       #   link: 
+       # - text: Getting Started
+       #   link: 
 
 
           
