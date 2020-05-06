@@ -88,7 +88,8 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
     background-size: 80%;
     background-position: center center;
     position: relative;
-    overflow: hidden;;
+    overflow: hidden;
+    background-color: #edf4f5;
 }
 .button.secondary-btn{
     font-size: 1.1rem;

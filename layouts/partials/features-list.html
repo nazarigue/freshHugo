@@ -15,11 +15,13 @@
 
     <div class="columns is-multiline">
       {{if $image1}}
-        <div class="column is-12 mt-40">
+        <div class="column is-12 mt-40 has-text-centered">
           <figure class="">
-            <p class="image">
-              <img src="{{  $image1 | relURL }}" class="image">
-            </p>
+              <video width="1000" autoplay loop>
+                <source src="/images/recording.mov" type="video/mp4" />
+                Your browser does not support the video tag.
+              </video>
+            
           </figure>
         </div>
       {{end}}
@@ -44,6 +46,7 @@
           </div>
         </article>        
       </div>
+      
       {{- end }}
 
       {{if $image2}}
@@ -54,7 +57,10 @@
             </p>
           </figure>
         </div>
+        
       {{end}}
+
+      
     </div>
   </div>
 </section>
