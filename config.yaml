@@ -221,7 +221,7 @@ params:
   pricingInner:
     enable: true
     title: Pricing
-    subtitle:  
+    subtitle:
     buttonlink: "/pricing"
     buttonText: learn more about pricing
     btnKlass: "btn-aligner rounded"
