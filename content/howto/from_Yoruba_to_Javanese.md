@@ -4,6 +4,7 @@ description: Aligner Dual Editor Tutorial
 ogImage: "https://www.aligner.io/images/aligner-logo.png"
 date: 2020-04-06T07:09:21+03:00
 onBlog: true
+image: "https://www.aligner.io/images/aligner-logo.png"
 ---
 
 how do you translate from Yoruba to Javanese
