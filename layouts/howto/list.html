@@ -10,12 +10,12 @@
         <section class="section">
           <div class="columns is-variable is-8">
               
-            {{range $index, $element := .Data.Pages }}
+            {{range $index, $element := .Data.Pages| first 10 }}
                 {{ $c :=add $index 1 }}
                 <div class="column is-5 is-offset-1 ">
                     <div class="content is-medium">
-                        <figure class="image is-16by9">
-                            <img src="{{.Params.image | absURL }}" alt="{{.Title}}">
+                        <figure class="image">
+                            <img src="{{.Params.image | absURL }}" alt="{{.Title}}"> 
                           </figure>
                         <h2 class="subtitle is-5 has-text-grey">{{ .PublishDate.Format "January 2, 2006"  }} </h2>
                         <h1 class="title has-text-black is-3">{{.Title}} </h1>
