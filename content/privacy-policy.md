@@ -4,7 +4,7 @@ ogImage: "https://www.aligner.io/images/aligner-logo.png"
 include_footer: true
 ---
 
-{{% title4 "1. Introduction" %}}
+{{% title4 "1. Introduction" %}} 
 
 
 Thanks for using Aligner! We help companies to keep their multilingual content easily up to date and therefore spread your word much faster.

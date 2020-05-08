@@ -428,13 +428,11 @@ params:
           link: /blog
         - text: Features
           link: /features
-        #- text: Contact
-       #   link: /contacts
-      #column3:
-       # title: "Resources"
-       # links:
-       # - text: How To
-       #   link: 
+      column3:
+        title: "Resources"
+        links:
+        - text: Eesti Keeles 🇪🇪
+          link: /ee
        # - text: Getting Started
        #   link: 
 
