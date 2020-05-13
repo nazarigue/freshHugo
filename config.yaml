@@ -1,6 +1,6 @@
 baseURL: 
 languageCode: en-us
-title: Aligner | Multilingual content management | Online free platform.
+title: Aligner | Translate 10X faster | Online free platform.
 theme: hugo-fresh
 googleAnalytics: UA-138300699-1
 # Disables warnings
@@ -25,7 +25,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
-  description: Localisation for blogs, knwoledgebases and web content.
+  description: Translate 10 times faster with Aligner. Free collaboration tool.
   navbarlogo: 
   # Logo (from static/images/logos/___)
     image: logos/logo-new.svg
@@ -37,7 +37,7 @@ params:
     # Main hero title
     title: Translate 10X faster<br> with Aligner
     # Hero subtitle (optional)
-    subtitle: Intuitive workflow for your ever growing localisation problems.
+    subtitle: Free translation and collaboration platform to speed up your processes
     # Button text
     buttontext: Start free now →
     # Where the main hero button links to
@@ -134,14 +134,14 @@ params:
     title: Aligner
     subtitle: Made for marketers and content creators to work on multilingual content with ease.
     features:
-    - title: Translate online
+    - title: Translate fast 
       text: No back and forth emails and files. Get syncrhonised all languages automatically when updating pieces of the content.
       image: /images/ai-illustration.svg
       btnText: See it in action →
       btnURL: https://app.aligner.io
       btnKlass: "secondary-btn" 
     - title: Collaborate 
-      text: Assign languages, invite collaborators and never stay alert on missing work done.
+      text: Assign languages, invite collaborators and always stay on the top of updates.
       image: /images/team-image.svg
       btnText: Start working and invite people →
       btnURL: https://app.aligner.io
@@ -317,7 +317,7 @@ params:
   featuresList:
     enable: false
     title: Features
-    subtitle: Work simoultaneously with no-matter-how-many languages
+    subtitle: Work simultaneously with no-matter-how-many languages
     image1: /images/recording.mov
     #image2: /images/hero-image.jpg
     features:
@@ -411,7 +411,7 @@ params:
     bulmalogo: false
     quicklinks:
       column1:
-        title: "Product"
+        title: "Legal"
         links:
         - text: Privacy Policy
           link: /privacy-policy
@@ -420,7 +420,7 @@ params:
         - text: Terms of use
           link: /terms-of-use
       column2:
-        title: "Features"
+        title: "Product"
         links:
         - text: Plans
           link: /pricing
@@ -431,6 +431,10 @@ params:
       column3:
         title: "Resources"
         links:
+        - text: Aligner POOL
+          link: https://pool.aligner.io
+        - text: Aligner GO
+          link: https://go.aligner.io
         - text: Eesti Keeles 🇪🇪
           link: /ee
        # - text: Getting Started
