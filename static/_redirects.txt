@@ -8,4 +8,7 @@ https://www.aligner.io/home              https://www.aligner.io
 https://www.aligner.io/home-1            https://www.aligner.io
 https://www.aligner.io/contact           https://www.aligner.io
 https://www.aligner.io/multi-language    https://www.aligner.io
-
+https://www.aligner.io/resources/gettingstarted/installation/   https://www.aligner.io
+https://www.aligner.io/resources/depth1/test1/  https://www.aligner.io
+https://www.aligner.io/several-languages    https://www.aligner.io
+https://www.aligner.io/agb/              https://www.aligner.io
