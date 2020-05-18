@@ -43,6 +43,11 @@
     {{ partial "froalaBlock.html" . }}
     {{ end }}
 	
+	
+    {{ if .Params.include_case }}
+    {{ partial "case.html" . }}
+    {{ end }}
+	
     {{ if .Params.include_pricing }}
     {{ partial "pricing-inner.html" . }}
     {{ end }}

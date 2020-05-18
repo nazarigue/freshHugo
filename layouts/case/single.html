@@ -1,0 +1,47 @@
+{{ define "main" }}
+<section class=" is-fullheight is-default is-bold">
+    {{ partial "navbar.html" . }}
+    {{ partial "navbar-clone.html" . }}
+</section>
+  <!-- Image -->
+<section class="hero ">
+    <div class="hero-body">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-8 is-offset-2">
+            <figure class="image">
+              <img src="{{.Params.image | absURL }}" alt="{{.Title}}">
+            </figure>
+          </div>
+        </div>
+        <section class="section">
+          <div class="columns">
+            <div class="column is-8 is-offset-2">
+              <div class="content is-medium">
+                <h2 class="subtitle is-4">  {{ .PublishDate.Format "January 2, 2006"  }} </h2>
+                <h1 class="title">{{.Title}}</h1>
+                <p>{{.Content}}</p>                
+              </div>
+            </div>
+          </div>
+        </section>
+        <div class="is-divider"></div> 
+      </div>
+    </div>
+</section>
+
+
+   
+
+  {{ if .Site.Params.footer }}
+  {{ partial "footer.html" . }}
+  {{ end }}
+
+  <!-- Back To Top Button -->
+  <div id="backtotop"><a href="#"></a></div>
+
+  {{ if .Site.Params.sidebar }}
+  {{ partial "sidebar.html" . }}
+  {{ end }}
+  
+{{ end }}
