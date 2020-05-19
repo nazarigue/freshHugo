@@ -9,7 +9,6 @@ caseLogo: false
 draft: false
 ---
 
-![](2020-05-19-14-11-01.png)
 ## About Viveo
 
 The future for the healthcare services is Viveo – as they take end-to-end medical care to the next level. Viveo leverages data to provide technology and insights the medical institutions could not deliver before. Viveo’s medical network offers high quality service which is both cost-effective and time saving.
@@ -28,7 +27,7 @@ Testimonial:
 
 
 
-Why and how Aligner is used:
+## Why and how Aligner is used:
 Viveo uses human translation, machine translation, matrix editor and workflow features to organize their multilingual documents is a more efficient way. 
 Aligner helps to save time spent on translating marketing and web content created by Viveo. As the number of languages is growing, new translations can be added easily and further organized. Aligner is used on a weekly basis. 
 

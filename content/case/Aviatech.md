@@ -1,32 +1,38 @@
 ---
-title: International Journalism with Aligner
+title: Aviation technology on a scale 
 date: 2020-04-02
 ogImage: "https://www.aligner.io/images/aligner-logo.png"
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: ../images/case/Business.png
+image: ../images/case/aviatech.png
 caseLogo: false
 draft: false
 ---
-Use-Case: Äripäev  
 
-See how Aligner is used in business media industry
 
-About Äripäev
-Äripäev, owned by the largest media group in the Nordics - Bonnier Group - is the market leader in Estonian business media. They publish three newspapers, online news portals and numerous books as well as organize the largest business conferences in Estonia. The team behind Äripäev consists of the top journalists and the best experts in various fields.
+## Aviatech using Aligner in Aviation hangars industry
 
-Challenge:
-Äripäev creates and delivers time-critical information and news in Estonian, Russian and English languages, every single day. Journalists spend hours of work time on translating and editing articles prior to publishing. 
-For Äripäev the speed and accuracy of translation is an extremely important aspect. Journalists have limited time and budget, often freelance translators are involved. It’s a challenge to manage the translation workflow efficiently within a tight timeframe media industry requires. 
+### About Aviatech
 
-Testimonial:
-“I can translate articles in Aligner and improve my content on the go, just like I need it. With machine learning I expect Aligner to become the best tool in the industry.”
+Aviatech manufactures custom-built inflatable structures. Environmentally friendly hangars leave no environmental footprint to surrounding nature after our customers move their facilities. The reinforced PVC materials used in production are fully recyclable and reusable.
 
-Anari Hagel 
-Startup Industry Facilitator 
-former Head of the FoundME.io portal in Äripäev
 
-Why and how Aligner is used:
-Aligner provides machine translation, that requires less effort to edit and publish. It saves lots of precious time spent on translating articles and news. 
 
-We use machine translation, matrix editor and collaboration features. Aligner is used on a weekly basis.
+They offer comprehensive solutions across different industries, including construction, oil & gas, mining, aviation, and defense. Our portfolio counts over 250 successfully executed projects all over the world, covering most terrains and climatic zones.
+
+
+
+### Challenge
+
+As the team behind Aviatech provides warehousing facilities for a broad array of industries across the world, they communicate their value proposition in a variety of languages. Their website is in 5 languages and communication with customers even in more languages. Aviatech is active in Europe, Middle-East as well as Asia, and Africa. Well-translated content is an important aspect of the sales process. Aviatech team was looking for a translation tool to maximize the efficiency of the process when working with their multilingual content. 
+
+
+
+> “I’ve translated 100+ of files in Aligner by using machine translation and very convenient parallel editor. Translating is now an exciting task!”  **Berkay Ergintan - Regional Manager**
+
+
+
+## Why and how Aligner is used:
+
+Aligner is used because it helps Aviatech to translate and publish content in English, French and Turkish much faster compared to Google Translate and traditional translation flow. Translating and keeping web content aligned in different languages is now much easier and well-organized. We keep on discovering new features and Aligner just keeps opening up new opportunities for us.  
+
