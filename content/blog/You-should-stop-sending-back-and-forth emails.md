@@ -1,5 +1,5 @@
 ---
-title: You should stop sending back-and-forth emails.
+title: Becoming productive by shifting out from email.
 date: 2020-04-02
 ogImage: "https://www.aligner.io/images/aligner-logo.png"
 sidebar: false

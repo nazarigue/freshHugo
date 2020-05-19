@@ -22,7 +22,7 @@ params:
     image: logos/fresh.svg
     link: /
   font:
-    name: "Open Sans"
+    name: "Poppins"
     sizes: [400,600]
   hero:
     # Main hero title

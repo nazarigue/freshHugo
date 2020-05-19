@@ -31,15 +31,15 @@ params:
     image: logos/logo-new.svg
     link: /
   font:
-    name: "Nunito"
+    name: "Poppins"
     sizes: [400,600]
   hero:
     # Main hero title
     title: Translate 10X faster<br> with Aligner
     # Hero subtitle (optional)
-    subtitle: Free translation and collaboration platform to speed up your processes
+    subtitle: Free multilingual document management tool
     # Button text
-    buttontext: Start free now →
+    buttontext: Start now →
     # Where the main hero button links to
     buttonlink: https://app.aligner.io
     # Button text
@@ -47,14 +47,9 @@ params:
     # Where the main hero button links to
     buttonlink2:  
     # Hero image (from static/images/___)
-  #  image: banner-desktop.svg
+    #image: banner-desktop.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
   navbar:
   - title: Features
@@ -80,22 +75,22 @@ params:
     button: true
   section1:
     enable: false
-    title: Great power comes
-    subtitle: with great responsibility
+    title: It's all about simplicity
+    subtitle: Instant value in 3 steps
     tiles:
-    - title: App builder
-      icon: mouse-globe
-      text: This is some explanatory text that is on two rows
+    - title: Upload file
+      icon: upload-cloud
+      text: Get the value now by going directly into publishing new languages.
+      url: /features
+      buttonText: See supported formats
+    - title: Use Machine Translation
+      icon: zap-2
+      text: Machine translation provides 95% of accuracy and improves monthly.
       url: /
-      buttonText: Free trial
-    - title: Cloud integration
-      icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
-    - title: Add-ons & plugins
-      icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+      buttonText: Try best engines here
+    - title: Invite people to proofread
+      icon: user-plus
+      text: Trackable, easy to fix pieces provide clear call to action to all shareholders
       url: /
       buttonText: Get started
   features:
@@ -134,28 +129,28 @@ params:
     title: Aligner
     subtitle: Made for marketers and content creators to work on multilingual content with ease.
     features:
-    - title: Translate fast 
-      text: No back and forth emails and files. Get syncrhonised all languages automatically when updating pieces of the content.
+    - title: Make changes to all languages
+      text: No back and forth emails and files. In Aligner you get syncrhonised all languages automatically when updating pieces of the content.
       image: /images/ai-illustration.svg
       btnText: See it in action →
       btnURL: https://app.aligner.io
       btnKlass: "secondary-btn" 
-    - title: Collaborate 
+    - title: Bring all people together in one place
       text: Assign languages, invite collaborators and always stay on the top of updates.
       image: /images/team-image.svg
       btnText: Start working and invite people →
       btnURL: https://app.aligner.io
       btnKlass: "primary-btn"
-    - title: Manage efficiently
+    - title: Continuously a part of your workflows
       text: Get things syncrhonised with Google Docs and other services without leaving your favourite apps.
       image: /images/flags-illustration.svg
       btnText: Syncronise Google Docs →
       btnURL: https://app.aligner.io
       btnKlass: "secondary-btn"
-    - title: AI and Machine learning
-      text: Aligner keeps track of changes done in multiple languages and provides selective machine translation to fix it rightaway
+    - title: More clarity, faster communication
+      text: Aligner help to organise communication between shareholders and deliver the right task. 
       image: /images/version-control.svg
-      btnText: See how it works →
+      btnText: Use Aligner now →
       btnURL: https://app.aligner.io
       btnKlass: "accent-btn"
   pricing:
@@ -205,7 +200,7 @@ params:
   CTA:
     enable: true
     title: Get out from the manual routine and shift to Aligner
-    subtitle: 
+    subtitle:
     text: Let us help you to explore the possibilities
     btnText: Book a time with us
     btnURL: https://calendly.com/aligner/15min
@@ -361,37 +356,37 @@ params:
     - title: Cloud
       image: /images/cloud.png
   section2:
-    enable: False
-    title: You're here because you want the best
-    subtitle: And we know it
+    enable: false
+    title: Why people use Aligner?
+    subtitle: Our users care about being effective.
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Most efficient formula 
+      text: Human input + Machine Translation + Human Proofreading = **10X times faster results**. Just log in and start working.
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
-    - title: Cross-device synchronisation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: doc-sync
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: mobile-feed
+      icon: users
+    - title: Styles automated
+      text: Once styles are applied in any of the languages, all others will be syncrhonised. We have reduced necessity of clicks.
+      icon: zap
+    - title: Choose the people you work with
+      text: Feel free to add anyone to your processes with no financial attachments.
+      icon: share
 
   section4:
     enable: false
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    title: How does it feel like to be 10X faster?
+    subtitle: People love Aligner from different verticals.
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
+    - name: Merilin V.
+      quote: Getting translations done is 10 times faster in Aligner. Being faster means you’re going to bring services into new markets quicker. We want to use the best tools that help us to be more efficient
+      job: Office Manager
       img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
+    - name: Anari H.
+      quote: I can translate articles in Aligner and improve my content on the go, just like I need it. With machine learning I expect Aligner to become the best tool in the industry.
+      job: Journalist
       img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
+    - name: Philip S.
+      quote: Aligner is the fast track to roll out real estate listings and materials in different languages. It’s easy to use and compared to Google Translate we can edit, store and share translated listings right away.
+      job: Real Estate Broker
       img: 3
   section5: false
   footer:

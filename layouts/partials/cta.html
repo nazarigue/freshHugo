@@ -20,7 +20,7 @@
             <ul style="border: 0px;">
               {{- range $clientLogos }}
               <li>
-                  <img class="partner-logo" src="{{ printf "/images/logos/clients/%s.svg" . | relURL }}">               
+                  <img class="partner-logo" src="{{ printf "/images/logos/clients/" . | relURL }}">               
               </li>
               {{- end }}
             </ul>

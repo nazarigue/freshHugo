@@ -1,5 +1,5 @@
 ---
-title: Want to keep document structured? Forget about Microsoft Word.
+title: Aligner approach to structural document management.
 sidebar: false
 ogImage: "https://www.aligner.io/images/aligner-logo.png"
 date: 2020-04-01

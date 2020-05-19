@@ -3,28 +3,28 @@
     <div class="hero-body">
       <div class="container">
         <div class="title-wrapper has-text-centered pb-20">
-            <h2 class="title is-2">Case Study</h2>
+            <h2 class="title is-2">Case Studies</h2>
           </div>
         <section class="section case-study">
-          <div class="columns is-variable is-4">
-            {{- range ( where site.RegularPages "Section" "case" | first 3 ) }}
-            <div class="column is-4">
-                <div class="content is-medium case">
+          <div class="columns is-multiline is-variable is-4 ">
+            {{- range ( where site.RegularPages "Section" "case" | first 4 ) }}
+            <div class="column is-6">
+                <div class="content is-medium case mt-30">
                     <figure class="image">
                         <img src="{{ .Params.image | absURL }}" alt="{{.Title}}">
                     </figure>
 					{{if  .Params.caseLogo }}
 						<figure class="image logo">
-							<img src="{{ .Params.caseLogo | absURL }}" alt="{{.Title}}">
+							<img src="{{ .Params.caseLogo | absURL }}" alt="{{.Title}}"> 
 						</figure>
 					{{end}}
-                    <h2 class="subtitle is-7 has-text-grey has-text-centered ">{{ .PublishDate.Format "January 2, 2006"  }}</h2>
-                    <h1 class="title has-text-black has-text-centered  is-6">{{.Title}} </h1>
+                    <h2 class="subtitle is-5 has-text-grey has-text-centered ">{{ .PublishDate.Format "January 2, 2006"  }}</h2>
+                    <h1 class="title has-text-black has-text-centered  is-4">{{.Title}} </h1>
                     <!--<p class="has-text-dark">{{.Summary | safeHTML | truncate 150}}</p>  -->  
-						<p  class="has-text-right">
+						<p  class="has-text-centered">
 							<a href="{{.Permalink}}">
-								<span class="button  btn-aligner ">
-									→
+								<span class="button  btn-aligner has-text-centered ">
+									Read case study
 								</span>
 							</a>
 						</p>
