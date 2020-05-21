@@ -4,7 +4,7 @@ date: 2020-04-02
 ogImage: "https://www.aligner.io/images/aligner-logo.png"
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: ../images/case/Business.png
+image: ../images/case/ap.png
 caseLogo: false
 draft: false
 ---
@@ -29,3 +29,7 @@ For Äripäev the speed and accuracy of translation is an extremely important as
 Aligner provides machine translation, that requires less effort to edit and publish. It saves lots of precious time spent on translating articles and news. 
 
 > We use machine translation, matrix editor and collaboration features.The Aligner is used on a weekly basis.
+
+Aligner team thanks Äripäev for the collaboration!
+
+Read more about [Äripäev](phttps://www.aripaev.ee/ "Aripaev").

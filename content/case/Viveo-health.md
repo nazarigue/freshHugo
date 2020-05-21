@@ -17,7 +17,7 @@ The team behind Viveo is confident that the combination of initial doctor consul
 
 ## Challenge
 
-While providing fast, high-quality healthcare for employees of different companies Viveo team arranges communication across different languages – Latvian, Lithuanian, Estonian, German, Spanish, Portugese, Japanese and Russian languages. Started from Estonia, international expansion became very important very quickly for Viveo together with the need to manage multilingual content in the most efficient way. Going global comes with its hurdles, languages and localisation is one of the main obstacles. Viveo team wants to optimize localization processes and costs on translating content.
+While providing fast, high-quality healthcare for employees of different companies Viveo team arranges communication across different languages – **Latvian, Lithuanian, Estonian, German, Spanish, Portugese, Japanese and Russian languages**. Started from Estonia, international expansion became very important very quickly for Viveo together with the need to manage multilingual content in the most efficient way. Going global comes with its hurdles, languages and localisation is one of the main obstacles. Viveo team wants to optimize localization processes and costs on translating content.
 
 
 
@@ -31,3 +31,6 @@ Testimonial:
 Viveo uses human translation, machine translation, matrix editor and workflow features to organize their multilingual documents is a more efficient way. 
 Aligner helps to save time spent on translating marketing and web content created by Viveo. As the number of languages is growing, new translations can be added easily and further organized. Aligner is used on a weekly basis. 
 
+Aligner team thanks Viveo Health for the collaboration!
+
+Read more about [Viveo Health](https://viveohealth.com/ "Viveo Health").

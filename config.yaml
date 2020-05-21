@@ -47,7 +47,7 @@ params:
     # Where the main hero button links to
     buttonlink2:  
     # Hero image (from static/images/___)
-    #image: banner-desktop.svg
+   # image: banner-desktop.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
   # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
@@ -126,8 +126,8 @@ params:
       btnKlass: ""
   froalaDesign:
     enable: true
-    title: Aligner
-    subtitle: Made for marketers and content creators to work on multilingual content with ease.
+    title: Work on multilingual documents with ease
+    subtitle: Made for marketers and content creators.
     features:
     - title: Make changes to all languages
       text: No back and forth emails and files. In Aligner you get syncrhonised all languages automatically when updating pieces of the content.
