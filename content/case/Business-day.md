@@ -1,5 +1,5 @@
 ---
-title: International Journalism with Aligner
+title: International journalism with Aligner
 date: 2020-04-02
 ogImage: "https://www.aligner.io/images/aligner-logo.png"
 sidebar: false
