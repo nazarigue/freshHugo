@@ -28,7 +28,7 @@ params:
   description: Translate 10 times faster with Aligner. Free collaboration tool.
   navbarlogo: 
   # Logo (from static/images/logos/___)
-    image: logos/aligner-logo.svg
+    image: logos/logo-new.svg
     link: /
   font:
     name: "Poppins"
