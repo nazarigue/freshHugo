@@ -21,7 +21,7 @@ While providing fast, high-quality healthcare for employees of different compani
 
 
 ## Why and how Aligner is used:
-Viveo uses human translation, machine translation, matrix editor and workflow features to organize their multilingual documents is a more efficient way. 
+Viveo uses human translation, machine translation, dual editor and workflow features to organize their multilingual documents is a more efficient way. 
 Aligner helps to save time spent on translating marketing and web content created by Viveo. As the number of languages is growing, new translations can be added easily and further organized. Aligner is used on a weekly basis. 
 
 Aligner team thanks Viveo Health for the collaboration!

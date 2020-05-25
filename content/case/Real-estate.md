@@ -29,7 +29,7 @@ Real estate agents have a limited budget and often translations are done using e
 
 Aligner provides a reliable platform we use on a weekly basis to create high-impact listings and sell our customers’ property faster. 
 **Translating and keeping real estate listings up-to-date in different languages has never been so efficient and organized**. 
-LVM team uses a machine translation engine, matrix editor and collaboration features.
+LVM team uses a machine translation engine, dual editor and collaboration features.
 
 
 Aligner team thanks LVM for the collaboration!

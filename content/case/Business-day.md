@@ -28,7 +28,7 @@ For Äripäev the speed and accuracy of translation is an extremely important as
 ## Why and how Aligner is used:
 Aligner provides machine translation, that requires less effort to edit and publish. It saves lots of precious time spent on translating articles and news. 
 
-> We use machine translation, matrix editor and collaboration features. Aligner is used on a weekly basis.
+> We use machine translation, dual editor and collaboration features. Aligner is used on a weekly basis.
 
 Aligner team thanks Äripäev for the collaboration!
 

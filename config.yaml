@@ -169,10 +169,10 @@ params:
       btnURL: /pricing
       btnKlass: "btn-aligner rounded"
       features:
-        - text: Matrix editor
-        - text: Integrations
-        - text: Private sharing
-        - text: Machine translation
+        - text: Dual editor
+        - text: Google Drive Integrations
+        - text: Document Export
+        - text: Selective Machine translation
     - title: Freemium
       price: FREE
       icon: /images/hot-air-balloon.svg
@@ -181,10 +181,10 @@ params:
       btnURL: https://app.aligner.io
       btnKlass: "btn-aligner rounded"
       features:
-        - text: Matrix editor and MT translation
-        - text: sharing
-        - text: collaboration
-        - text: export
+        - text: Dual editor
+        - text: Limited Machine Translation
+        - text: Unlimited Sharing
+        - text: Word and PDF Import
     - title: Team
       price: $29.90 / mo
       icon: /images/sun.svg
@@ -229,14 +229,14 @@ params:
       btnURL: https://app.aligner.io
       btnKlass: "secondary-btn"
     - title: Premium
-      price: $8.99
+      price: $8.99/mo
       icon: /images/hot-air-balloon.svg
       heighlight: For medium companies
       btnText: Coming soon
       btnURL: "#"
       btnKlass: "primary-btn"
     - title: Team
-      price: $29.99
+      price: $29.99/mo
       icon: /images/sun.svg
       heighlight: For large companies
       btnText: Coming soon
@@ -244,7 +244,7 @@ params:
       btnKlass: "secondary-btn"      
     features:
       - list: 
-        - Matrix editor
+        - Dual editor
         - true
         - true
         - true
@@ -255,14 +255,9 @@ params:
         - 10
       - list: 
         - Documents
-        - 20
+        - 40
         - Unlimited
         - Unlimited
-      - list:
-        - Storage
-        - 500mb
-        - 2GB
-        - 5GB
       - list: 
         - Syncrhonised styles
         - true
@@ -273,9 +268,9 @@ params:
         - true
         - true
         - true
-      - list:
-        - Choose MT engines
-        - "-"
+      - list: 
+        - Selective Machine Translation
+        - true
         - true
         - true
       - list: 
