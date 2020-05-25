@@ -4,14 +4,14 @@ sidebar: false
 ogImage: "https://www.aligner.io/images/aligner-logo.png" 
 date: 2020-05-25
 sidebarlogo: 
-image: ../blog/Group.png
+image: ../blog/2020-05-25-13-23-47.png
 ---
 
 There are many ways today how to translate your apps. Services like [Crowdin]([Crowdin](https://crowdin.com/)), [Phrase](https://phrase.com), [Lokalise](https://phrase.com/) and others provide deep integrations with their systems to continuously improve the localisation. 
 ### There are 5 problems that will not make you use them:
 
-1. Monthly pricing gets up to 100 USD with multiple languages and people
-2. Developers force included
+1. Monthly pricing gets up to 100 USD with multiple languages
+2. Developers work included
 3. Long onboarding
 4. Not collaborative
 5. Only strings supported
