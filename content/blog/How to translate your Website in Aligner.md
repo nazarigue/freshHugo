@@ -1,13 +1,13 @@
 ---
 title: Translate website with Aligner for free.
 sidebar: false
-ogImage: "https://www.aligner.io/images/og-aligner.png" 
+ogImage: "https://www.aligner.io/images/og_aligner.png" 
 date: 2020-05-25
 sidebarlogo: 
-image: ../blog/2020-05-25-13-23-47.png
+image: ../blog/image-computer.jpg
 ---
 
-There are many ways today how to translate your apps. Services like [Crowdin]([Crowdin](https://crowdin.com/)), [Phrase](https://phrase.com), [Lokalise](https://phrase.com/) and others provide deep integrations with their systems to continuously improve the localisation. 
+There are many ways today how to translate your websites. Services like [Crowdin]([Crowdin](https://crowdin.com/)), [Phrase](https://phrase.com), [Lokalise](https://phrase.com/) and others provide deep integrations with their systems to continuously improve the localisation. 
 ### There are 5 problems that will not make you use them:
 
 1. Monthly pricing gets up to 100 USD with multiple languages
