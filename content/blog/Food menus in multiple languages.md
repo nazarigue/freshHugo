@@ -1,7 +1,7 @@
 ---
 title: Manage food menus in multiple languages in Aligner.
 sidebar: false
-ogImage: "https://www.aligner.io/images/aligner-logo.png" 
+ogImage: "https://www.aligner.io/images/og-aligner.png" 
 date: 2020-05-25
 sidebarlogo: 
 image: ../blog/noa_logo.svg

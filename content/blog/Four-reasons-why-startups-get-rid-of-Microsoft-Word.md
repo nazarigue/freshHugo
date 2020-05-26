@@ -1,7 +1,7 @@
 ---
 title: Aligner approach to structural document management.
 sidebar: false
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/og-aligner.png"
 date: 2020-04-01
 sidebarlogo: 
 image: ../images/document-structure.svg
