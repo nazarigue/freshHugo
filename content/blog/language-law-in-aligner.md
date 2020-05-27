@@ -13,7 +13,6 @@ Many countries regulate the use of language by law in order to preserve language
 #### 1. Write a summary of your services
 
 
-
 #### 2. Go to [app.aligner.io](https://app.aligner.io) and create a new document, paste your summary
 
 ![](../editor-english-summary.png)
@@ -30,7 +29,7 @@ Many countries regulate the use of language by law in order to preserve language
 ![](../aligner-editor-dual.png)
 
 
-#### 4. Share with colleauges or friends to proofread
+#### 4. Share with colleagues or friends to proofread
 ![](../share-editor.png)
 
 #### 5. Add it to the visible place on your website

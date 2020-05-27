@@ -155,6 +155,18 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
 .case-study .case:hover .logo img{
     filter: none;
 }
+
+#blog_image{
+    position: absolute !important;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.img{
+    display: block !important;
+}
+
+
 /*
 .navbar.is-fresh .navbar-item {
     display: inline-block;
