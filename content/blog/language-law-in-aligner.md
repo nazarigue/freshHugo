@@ -12,12 +12,7 @@ Many countries regulate the usage of national language by the law in order to pr
 
 #### 1. Write a summary of your services
 
-<<<<<<< HEAD
-
-#### 2. Go to [app.aligner.io](https://app.aligner.io) and create a new document, paste your summary
-=======
 #### 2. Go to [app.aligner.io](https://app.aligner.io) and create a new document, then just paste your summary
->>>>>>> 9d3470cff7010cf306f80e9e1e6b8b07f6601687
 
 ![](../editor-english-summary.png)
 
@@ -31,10 +26,6 @@ Many countries regulate the usage of national language by the law in order to pr
 
 #### 4. Share with colleagues or friends to proofread
 
-<<<<<<< HEAD
-#### 4. Share with colleagues or friends to proofread
-=======
->>>>>>> 9d3470cff7010cf306f80e9e1e6b8b07f6601687
 ![](../share-editor.png)
 
 #### 5. Add translation to the visible place on your website
