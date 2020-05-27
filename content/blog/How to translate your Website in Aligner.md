@@ -1,5 +1,5 @@
 ---
-title: Translate website with Aligner for free.
+title: Translate website in Aligner for free.
 sidebar: false
 ogImage: https://www.aligner.io/images/og_aligner.png
 date: 2020-05-25
