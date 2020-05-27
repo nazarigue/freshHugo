@@ -1,5 +1,5 @@
 ---
-title: Becoming productive by shifting out from email.
+title: Becoming productive by shifting out from the email.
 date: 2020-04-02
 ogImage: "https://www.aligner.io/images/og_aligner.png"
 sidebar: false

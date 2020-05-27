@@ -7,7 +7,7 @@ sidebarlogo:
 image: ../blog/noa_logo.svg
 ---
 
-[Noa restoran](https://www.noaresto.ee/en/) serve customers from oll over the world.
+[Noa restoran](https://www.noaresto.ee/en/) serve customers from all over the world.
 
 ![](../2020-05-25-15-08-55.png)
 
