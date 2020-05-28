@@ -1,7 +1,7 @@
 ---
 title: Translate website in Aligner for free.
 sidebar: false
-ogImage: https://www.aligner.io/images/og_aligner.png
+ogImage: "../blog/image-computer.jpg"
 date: 2020-05-25
 sidebarlogo: 
 image: "../blog/image-computer.jpg"
