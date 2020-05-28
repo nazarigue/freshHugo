@@ -7,7 +7,7 @@ sidebarlogo:
 image: "../blog/image-computer.jpg"
 
 ---
-There are many ways today how to translate your websites. Services like [WPML](www.wpml.org/ ‎ ‎), [Weglot](https://weglot.com/), and others provide deep integrations with their systems to continuously improve the localisation.
+There are many ways today how to translate your websites. Services like [WPML](www.wpml.org "WPML"), [Weglot](https://weglot.com/), and others provide deep integrations with their systems to continuously improve the localisation.
 
 ### There are 5 problems that will not make you use them:
 
@@ -45,7 +45,7 @@ Alternatively if you need to find an external proofreader, you can use services 
 
 ![](../fiverr-spanish-proofreading.png "aligner-fiverr-proofreading")
 
-Finally, add a new page on your website and use the translations, that just got ready. 
+Finally, add a new page on your website and use the translations, that just got ready.
 
 Now it’s your turn to translate your website. Open [Aligner](https://app.aligner.io/) and translate your website for free.
 
