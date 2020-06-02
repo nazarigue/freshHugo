@@ -27,6 +27,9 @@ Click on Machine Translate and choose a language to translate to.
 
 ### When done with translation use export PDF from Aligner
 
-Export back to PDF is needed
+Export back to PDF if needed. Click on actions -> preview PDF. Active editing language will appear as PDF.
 
 ![](../aligner-export-pdf.gif)
+
+
+[Start translating for free here](https://app.aligner.io)
