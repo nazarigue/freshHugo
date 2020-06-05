@@ -1,5 +1,6 @@
 ---
 title: Manage food menus in multiple languages in Aligner.
+description: "Aligner - Manage food menus in multiple languages in Aligner"
 sidebar: false
 ogImage: "https://www.aligner.io/images/og_aligner.png" 
 date: 2020-05-25

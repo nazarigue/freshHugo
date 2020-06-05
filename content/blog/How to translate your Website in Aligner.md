@@ -2,6 +2,7 @@
 title: Translate website in Aligner for free.
 sidebar: false
 ogImage: "../blog/image-computer.jpg"
+description: "Aligner - Translate website in Aligner for free"
 date: 2020-05-25
 sidebarlogo: 
 image: "../blog/image-computer.jpg"

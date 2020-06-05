@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 ogImage: "https://www.aligner.io/images/aligner-logo.png"
+description: "Aligner - Terms of Use"
 include_footer: true
 
 ---

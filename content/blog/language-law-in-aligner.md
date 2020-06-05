@@ -1,6 +1,7 @@
 ---
 title: Aligner helps to meet the language requirement
 ogImage: https://www.aligner.io/images/og_aligner.png
+description: "Aligner - helps to meet the language requirement"
 date: 2020-05-27
 sidebarlogo: 
 image: "../blog/law.png"

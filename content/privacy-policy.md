@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 ogImage: "https://www.aligner.io/images/aligner-logo.png"
+description: "Aligner - Privacy Policy"
 include_footer: true
 ---
 

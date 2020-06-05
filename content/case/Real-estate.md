@@ -2,6 +2,7 @@
 title: Multilingual listings in real-estate
 sidebar: false
 ogImage: "https://www.aligner.io/images/case/lvm.png"
+description: "Aligner - Multilingual listings in real-estate"
 date: 2020-04-01
 sidebarlogo: 
 image: ../images/case/lvm.png
