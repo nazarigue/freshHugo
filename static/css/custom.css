@@ -96,6 +96,7 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
     position: relative;
     overflow: hidden;
     background-color: #edf4f5;
+    min-height: 100vh;
 }
 .button.secondary-btn{
     font-size: 1.1rem;
