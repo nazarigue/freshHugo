@@ -35,7 +35,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Seamleslly create and  organize content in multiple languages.
+    title: Seamlessly create and  organize content in multiple languages.
     # Hero subtitle (optional)
     subtitle: Free multilingual document management tool
     # Button text
