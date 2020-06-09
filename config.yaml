@@ -1,5 +1,6 @@
 baseURL: 
 languageCode: en-us
+DefaultContentLanguage: en
 title: Aligner | Translate 10X faster | Online free platform.
 theme: hugo-fresh
 googleAnalytics: UA-138300699-1
@@ -35,7 +36,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Translate 10X faster<br> with Aligner
+    title: Translate 10X faster <br> with Aligner 
     # Hero subtitle (optional)
     subtitle: Free multilingual document management tool
     # Button text
@@ -429,6 +430,66 @@ params:
           link: /ee
        # - text: Getting Started
        #   link: 
+
+
+################################### English language #####################################
+Languages:
+  en:
+    contentDir: content/english
+    home: Home
+    languageCode: en-us
+    languageName: English
+    weight: 1
+  et:
+    contentDir: content/estonian
+    home: Kodu
+    languageCode: et-et
+    languageName: Estonian
+    weight: 2    
+    hero:
+    # Main hero title
+      title: Tõlgige 10x kiiremini <br> koos Aligneriga  
+    # Hero subtitle (optional)
+      subtitle: Tasuta mitmekeelne dokumendihaldusvahend
+    # Button text
+      buttontext: Alusta kohe →
+    # Where the main hero button links to
+      buttonlink: https://app.aligner.io
+    # Button text
+      buttontext2: 
+    # Where the main hero button links to
+      buttonlink2:  
+    # Hero image (from static/images/___)
+   # image: banner-desktop.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+      clientlogos:
+  # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
+
+  ru:
+    contentDir: content/russian
+    home: Dom
+    languageCode: ru-ru
+    languageName: Russian
+    weight: 3   
+    hero:
+    # Main hero title
+      title: Переведите в 10 раз быстрее <br> с выравнивателем 
+    # Hero subtitle (optional)
+      subtitle: Бесплатный многоязычный инструмент управления документами
+    # Button text
+      buttontext: Начать сейчас →
+    # Where the main hero button links to
+      buttonlink: https://app.aligner.io
+    # Button text
+      buttontext2: 
+    # Where the main hero button links to
+      buttonlink2:  
+    # Hero image (from static/images/___)
+   # image: banner-desktop.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+      clientlogos:
+  # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
+
 
 
           
