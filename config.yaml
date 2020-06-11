@@ -440,7 +440,7 @@ Languages:
     languageCode: en-us
     languageName: English
     weight: 1
-  et:
+  hi:
     contentDir: content/hindi
     home: Kodu
     languageCode: hi
