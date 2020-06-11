@@ -1,11 +1,11 @@
 ---
 title: New markets daily in Telemedicine
 date: 2020-04-02
-ogImage: "https://www.aligner.io/images/case/viveo.png"
+ogImage: "https://www.aligner.io/images/case/viveo.jpeg"
 description: "Aligner - New markets daily in Telemedicine"
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: ../images/case/viveo.png
+image: ../images/case/viveo.jpeg
 caseLogo: false
 draft: false
 ---

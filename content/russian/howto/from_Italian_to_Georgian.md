@@ -1,25 +1,25 @@
 ---
 title: How to translate from Italian to Georgian for free in Aligner Editor
 description: Aligner Dual Editor Tutorial. How to translate for free from Italian to Georgian. Aligner is multilingual document management platform. 
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 date: 2020-05-06T07:09:21+03:00
-image: ../images/aligner-logo.png
+image: ../images/aligner-logo.jpeg
 onBlog: true
 ---
 
 1. Go to editor at [app.aligner.io](https://app.aligner.io "Aligner App web page")
 
-![translate from Italian to Georgian](../aligner-blank-editor.png "translate from Italian to Georgian")
+![translate from Italian to Georgian](../aligner-blank-editor.jpeg "translate from Italian to Georgian")
 
 Copy-paste content or upload content
 
-![upload content from Italian to Georgian](../aligner-uploaded-document.png "upload content from Italian to Georgian")
+![upload content from Italian to Georgian](../aligner-uploaded-document.jpeg "upload content from Italian to Georgian")
 
 Choose desired language
 
-![choose machine translation from Italian to Georgian](../aligner-language-dropdown.png "choose machine translation from Italian to Georgian")
+![choose machine translation from Italian to Georgian](../aligner-language-dropdown.jpeg "choose machine translation from Italian to Georgian")
 
 Work and edit 2 documents in parallel
 
-![edit translation from Italian to Georgian](../aligner-double-sitded-editor.png "edit translation from Italian to Georgian")
+![edit translation from Italian to Georgian](../aligner-double-sitded-editor.jpeg "edit translation from Italian to Georgian")
 

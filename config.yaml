@@ -36,9 +36,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Translate 10X faster <br> with Aligner 
+    title: Seamlessly create and organize content in multiple languages.
     # Hero subtitle (optional)
-    subtitle: Free multilingual document management tool
+    subtitle: Free multilingual content management tool
     # Button text
     buttontext: Start now →
     # Where the main hero button links to
@@ -441,29 +441,437 @@ Languages:
     languageName: English
     weight: 1
   et:
-    contentDir: content/estonian
+    contentDir: content/hindi
     home: Kodu
-    languageCode: et-et
-    languageName: Estonian
-    weight: 2    
+    languageCode: hi
+    languageName: Hindi
+    weight: 2
+    params:
+    BookMenuBundle: /मेन्यू
+    openGraph: true
+    description: 'Aligner के साथ 10 बार तेजी से अनुवाद करें। नि: शुल्क सहयोग उपकरण।'
+    navbarlogo:
+      image:   / logo-new.svg
+      link: /
+    font:
+      name: पोप्पिंस
+      sizes:
+        - 400
+        - 600
     hero:
-    # Main hero title
-      title: Tõlgige 10x kiiremini <br> koos Aligneriga  
-    # Hero subtitle (optional)
-      subtitle: Tasuta mitmekeelne dokumendihaldusvahend
-    # Button text
-      buttontext: Alusta kohe →
-    # Where the main hero button links to
-      buttonlink: https://app.aligner.io
-    # Button text
-      buttontext2: 
-    # Where the main hero button links to
-      buttonlink2:  
-    # Hero image (from static/images/___)
-   # image: banner-desktop.svg
-    # Footer logos (from static/images/logos/clients/___.svg)
-      clientlogos:
-  # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
+      title: 10X तेजी से अनुवाद करें <br> अलाइनर के साथ
+      subtitle: 'नि: शुल्क बहुभाषी दस्तावेज़ प्रबंधन उपकरण'
+      buttontext: अभी शुरू करें →
+      buttonlink: 'https://app.aligner.io'
+      buttontext2: null
+      buttonlink2: null
+      clientlogos: null
+    navbar:
+      - title: विशेषताएं
+        url: /features
+      - title: मूल्य निर्धारण
+        url: /मूल्य निर्धारण
+      - title: ब्लॉग
+        url: /ब्लॉग/
+      - title: समाधान
+        sublinks:
+          - title: पीओओएल - सीड्सडॉरड एपीआई
+            url: 'https://pool.aligner.io'
+          - title: गो - सामग्री वितरण
+            url: 'https://go.aligner.io'
+          - title: एपीपी - सामग्री प्रबंधन
+            url: 'https://app.aligner.io'
+      - title: लॉग इन करें
+        url: 'https://app.aligner.io'
+      - title: अभी फ्री शुरू करें →
+        url: 'https://app.aligner.io'
+        button: true
+    section1:
+      enable: false
+      title: यह सब सादगी के बारे में है
+      subtitle: 3 चरणों में तुरंत मूल्य
+      tiles:
+        - title: दस्तावेज अपलोड करें
+          icon: अपलोड-बादल
+          text: नई भाषाओं के प्रकाशन में सीधे जाकर अब मूल्य प्राप्त करें।
+          url: /विशेषताएं
+          buttonText: समर्थित प्रारूप देखें
+        - title: मशीनी अनुवाद का उपयोग करें
+          icon: जैप -2
+          text: मशीन अनुवाद 95% सटीकता प्रदान करता है और मासिक में सुधार करता है।
+          url: /
+          buttonText: यहां बेहतरीन इंजन आजमाएं
+        - title: लोगों को प्रूफरीड करने के लिए आमंत्रित करें
+          icon: उपयोगकर्ता के साथ साथ
+          text: >-
+            ट्रैक करने में आसान, टुकड़ों को ठीक करना सभी शेयरधारकों को कार्रवाई के
+            लिए स्पष्ट कॉल प्रदान करता है
+          url: /
+          buttonText: शुरू हो जाओ
+    features:
+      enable: true
+      title: विशेषताएं
+      subtitle: null
+      buttonlink: /विशेषताएं
+      buttonText: सभी सुविधाएँ देखें →
+      list:
+        - title: संपादित करें
+          text: >-
+            अलग-अलग भाषाओं में आपकी सामग्री में परिवर्तन के साथ कोई परेशानी नहीं
+            है।
+          image: /images/textedit.svg
+          btnText: null
+          btnURL: ''
+          btnKlass: ''
+        - title: अनुवाद करना
+          text: >-
+            पूरे दस्तावेज़ का अनुवाद करने के लिए मशीन अनुवाद का उपयोग करें या
+            चुनिंदा रूप से सिर्फ एक टुकड़ा।
+          image: /images/roboto-logo.svg
+          btnText: कार्यवाई के लिए बुलावा
+          btnURL: ''
+          btnKlass: ''
+        - title: शेयर
+          text: टीमों के साथ काम करें और आंतरिक या बाहरी सहयोगियों को अंदर आने दें।
+          image: /images/team.svg
+          btnText: null
+          btnURL: ''
+          btnKlass: ''
+        - title: प्रकाशित करना
+          text: 'अपनी सामग्री को अपने वेब, दस्तावेज़ या अन्य संसाधन पर प्रकाशित करें।'
+          image: /images/reload.svg
+          btnText: null
+          btnURL: ''
+          btnKlass: ''
+    froalaDesign:
+      enable: true
+      title: आसानी से बहुभाषी दस्तावेजों पर काम करें
+      subtitle: विपणक और सामग्री रचनाकारों के लिए बनाया गया।
+      features:
+        - title: सभी भाषाओं में परिवर्तन करें
+          text: >-
+            ईमेल और फ़ाइलों को आगे-पीछे न करें। Aligner में आपको सामग्री के
+            टुकड़ों को अपडेट करते समय सभी भाषाओं को स्वचालित रूप से सिंक्रनाइज़
+            किया जाता है।
+          image: /images/ai-illustration.svg
+          btnText: इसे कार्रवाई में देखें →
+          btnURL: 'https://app.aligner.io'
+          btnKlass: माध्यमिक-BTN
+        - title: सभी लोगों को एक साथ एक स्थान पर ले आओ
+          text: >-
+            भाषाओं को असाइन करें, सहयोगियों को आमंत्रित करें और हमेशा अपडेट के
+            शीर्ष पर रहें।
+          image: /images/team-image.svg
+          btnText: काम करना शुरू करें और लोगों को आमंत्रित करें →
+          btnURL: 'https://app.aligner.io'
+          btnKlass: प्राथमिक बीटीएन
+        - title: लगातार अपने वर्कफ्लो का एक हिस्सा
+          text: >-
+            अपने पसंदीदा ऐप्स को छोड़ने के बिना Google डॉक्स और अन्य सेवाओं के साथ
+            समन्वित चीजें प्राप्त करें।
+          image: /images/flags-illustration.svg
+          btnText: Google डॉक्स → को सिंक्रनाइज़ करें
+          btnURL: 'https://app.aligner.io'
+          btnKlass: माध्यमिक-BTN
+        - title: 'अधिक स्पष्टता, तेज संचार'
+          text: >-
+            संरेखित करें शेयरधारकों के बीच संचार को व्यवस्थित करने और सही कार्य
+            देने में मदद करें।
+          image: /images/version-control.svg
+          btnText: अब Aligner का उपयोग करें →
+          btnURL: 'https://app.aligner.io'
+          btnKlass: एक्सेंट बीटीएन
+    pricing:
+      enable: true
+      title: मूल्य निर्धारण योजनाएँ
+      subtitle: null
+      buttonlink: /मूल्य निर्धारण
+      buttonText: मूल्य निर्धारण के बारे में अधिक जानें
+      btnKlass: बीटीएन एलाइनर गोल
+      plans:
+        - title: प्रीमियम
+          price: $ 9 / मो
+          icon: /images/plane.svg
+          heighlight: चीजों को अपने आप तेजी से करें
+          btnText: और अधिक जानें
+          btnURL: /मूल्य निर्धारण
+          btnKlass: बीटीएन एलाइनर गोल
+          features:
+            - text: दोहरे संपादक
+            - text: Google ड्राइव एकीकरण
+            - text: दस्तावेज़ निर्यात
+            - text: चयनात्मक मशीन अनुवाद
+        - title: फ्रीमियम
+          price: 'नि: शुल्क'
+          icon: /images/hot-air-balloon.svg
+          heighlight: मूल बातें जो आपको विस्मित कर देंगी
+          btnText: अभी शुरू करो
+          btnURL: 'https://app.aligner.io'
+          btnKlass: बीटीएन एलाइनर गोल
+          features:
+            - text: दोहरे संपादक
+            - text: सीमित मशीन अनुवाद
+            - text: असीमित शेयरिंग
+            - text: वर्ड और पीडीएफ आयात
+        - title: टीम
+          price: $ 29.90 / मो
+          icon: /images/sun.svg
+          heighlight: अतिरिक्त टीम कार्यक्षमता
+          btnText: और अधिक जानें
+          btnURL: /मूल्य निर्धारण
+          btnKlass: बीटीएन एलाइनर गोल
+          features:
+            - text: '5 लोगों तक, अगले $ 4'
+            - text: संस्करण
+            - text: वर्कफ़्लो
+            - text: अनुमतियां
+    CTA:
+      enable: true
+      title: मैनुअल रूटीन से बाहर निकलें और एलाइनर पर जाएं
+      subtitle: null
+      text: संभावनाओं को तलाशने में आपकी मदद करते हैं
+      btnText: हमारे साथ एक समय बुक करें
+      btnURL: 'https://calendly.com/aligner/15min'
+      btnKlass: बीटीएन एलाइनर गोल
+      clientlogos: null
+    testimonials:
+      enable: false
+      title: प्रशंसापत्र
+      subtitle: null
+      text: >-
+        Aligner के साथ, आपको कई भाषाओं में संपादन सामग्री पर सुपरस्पेड मिलता है।
+        सभी सिंक्रनाइज़ेशन स्वचालित रूप से होता है और व्यवसाय में नई भाषाओं को
+        जोड़ना आसान होता है।
+      name: Fooddocs में सह-संस्थापक
+      image: /images/katrin_fooddocs.svg
+    pricingInner:
+      enable: true
+      title: मूल्य निर्धारण
+      subtitle: null
+      buttonlink: /मूल्य निर्धारण
+      buttonText: मूल्य निर्धारण के बारे में अधिक जानें
+      btnKlass: बीटीएन एलाइनर गोल
+      plans:
+        - title: फ्रीमियम
+          price: $ 0
+          icon: /images/plane.svg
+          heighlight: काम जल्दी करवाओ
+          btnText: अभी शुरू करें →
+          btnURL: 'https://app.aligner.io'
+          btnKlass: माध्यमिक-BTN
+        - title: प्रीमियम
+          price: $ 8.99 / मो
+          icon: /images/hot-air-balloon.svg
+          heighlight: मध्यम कंपनियों के लिए
+          btnText: जल्द आ रहा है
+          btnURL: '#'
+          btnKlass: प्राथमिक बीटीएन
+        - title: टीम
+          price: $ 29.99 / मो
+          icon: /images/sun.svg
+          heighlight: बड़ी कंपनियों के लिए
+          btnText: जल्द आ रहा है
+          btnURL: '#'
+          btnKlass: माध्यमिक-BTN
+      features:
+        - list:
+            - दोहरे संपादक
+            - true
+            - true
+            - true
+        - list:
+            - बोली
+            - 3
+            - 5
+            - 10
+        - list:
+            - दस्तावेज़
+            - 40
+            - असीमित
+            - असीमित
+        - list:
+            - सिंक्रोनाइज़्ड शैलियाँ
+            - true
+            - true
+            - true
+        - list:
+            - मशीन अनुवाद
+            - true
+            - true
+            - true
+        - list:
+            - चयनात्मक मशीन अनुवाद
+            - true
+            - true
+            - true
+        - list:
+            - आयात
+            - डॉक्स और Google डॉक्स
+            - 'डॉक्स और Google डॉक्स, एकीकरण'
+            - विस्तारित कार्यक्षमता
+        - list:
+            - निर्यात
+            - '.docx या Google डॉक्स, पीडीएफ'
+            - '.docx या Google डॉक्स, पीडीएफ'
+            - विस्तारित कार्यक्षमता
+        - list:
+            - शेयरिंग
+            - true
+            - true
+            - true
+        - list:
+            - प्रकाशन
+            - सार्वजनिक लिंक
+            - सार्वजनिक और निजी लिंक
+            - सार्वजनिक और निजी लिंक
+        - list:
+            - Worklows
+            - '-'
+            - true
+            - true
+        - list:
+            - अधिकार
+            - '-'
+            - true
+            - true
+            - null
+    featuresList:
+      enable: false
+      title: विशेषताएं
+      subtitle: बिना किसी बात के एक साथ कई भाषाओं में काम करें
+      image1: /images/recording.mov
+      features:
+        - title: कार-स्टाइलिंग
+          text: भाषाओं के माध्यम से सभी शैलियों को सिंक्रनाइज़ किया गया
+          icon: /images/css.svg
+        - title: HTML आधारित
+          text: आसानी से किसी भी वेब घटक का उपयोग करें
+          icon: /images/html.svg
+        - title: सहयोग
+          text: 'सहयोगियों, अनुवादकों, प्रूफरीडर्स को आमंत्रित करें'
+          icon: /images/collaborate-features.png
+        - title: पीडीएफ निर्यात
+          text: छापने के लिए तैयार? हम पीडीएफ तैयार हैं।
+          icon: /images/pdf-translate.svg
+        - title: गूगल दस्तावेज
+          text: अपने Google डॉक्स खाते के साथ सिंक करें
+          icon: /images/docs.svg
+        - title: माइक्रोसॉफ्ट वर्ड
+          text: आसानी से वर्ड कंटेंट अपलोड करें
+          icon: /images/word.svg
+        - title: मशीन अनुवाद
+          text: बेहतरीन इंजन का संयोजन
+          icon: /images/languages.svg
+        - title: 136+ भाषाएँ
+          text: आप विश्व स्तर पर शामिल हैं
+          icon: /images/globe.svg
+    froalaBlock:
+      enable: true
+      title: >-
+        Aligner विपणक और निर्माता के लिए बनाया गया है जो उत्पादक होने की परवाह
+        करते हैं।
+      text: >-
+        समय। यह सब प्रभावी होने के बारे में है। एस्केप-एन-आगे ईमेलिंग, लंबी समय
+        सीमा। चीजों को झटपट बनाने के लिए एलिंगर बनाया जाता है।
+      linktext: सभी संभावनाओं को तलाशना शुरू करें <i class='fa fa-angle-right'></i>
+      linkurl: 'https://app.aligner.io'
+      list:
+        - title: नए दर्शकों तक पहुंचें
+          image: /images/crowd.png
+        - title: चीजें तेजी से करें
+          image: /images/rocket.svg
+        - title: किसी क्रेडिट कार्ड की आवश्यकता नहीं
+          image: /images/no-credit-card.png
+        - title: बादल
+          image: /images/cloud.png
+    section2:
+      enable: false
+      title: लोग Aligner का उपयोग क्यों करते हैं?
+      subtitle: हमारे उपयोगकर्ता प्रभावी होने के बारे में परवाह करते हैं।
+      features:
+        - title: सबसे कुशल सूत्र
+          text: >-
+            मानव इनपुट + मशीन अनुवाद + मानव प्रूफरीडिंग = ** 10X गुना तेज परिणाम
+            **। बस लॉग इन करें और काम करना शुरू करें।
+          icon: उपयोगकर्ताओं
+        - title: शैलियाँ स्वचालित
+          text: >-
+            एक बार शैलियों को किसी भी भाषा में लागू करने के बाद, अन्य सभी को
+            सिंक्रनाइज़ किया जाएगा। हमने क्लिक की आवश्यकता को कम कर दिया है।
+          icon: गाली मार देना
+        - title: उन लोगों को चुनें जिनके साथ आप काम करते हैं
+          text: >-
+            बिना किसी वित्तीय अनुलग्नक के अपनी प्रक्रियाओं में किसी को भी जोड़ने
+            के लिए स्वतंत्र महसूस करें।
+          icon: शेयर
+    section4:
+      enable: false
+      title: यह 10X तेजी से कैसा महसूस करता है?
+      subtitle: लोग अलग-अलग वर्टिकल से एलिग्नर को पसंद करते हैं।
+      clients:
+        - name: मेरिलिन वी।
+          quote: >-
+            Aligner में अनुवाद करना 10 गुना तेज है। तेज़ होने का मतलब है कि आप
+            सेवाओं को नए बाज़ारों में तेज़ी से लाने जा रहे हैं। हम सबसे अच्छे
+            उपकरणों का उपयोग करना चाहते हैं जो हमें अधिक कुशल बनाने में मदद करते
+            हैं
+          job: कार्यालय प्रबंधक
+          img: 1
+        - name: अनारी ह।
+          quote: >-
+            मैं एलिग्नर में लेखों का अनुवाद कर सकता हूं और अपनी सामग्री को बेहतर
+            बना सकता हूं, जैसे मुझे जरूरत है। मशीन लर्निंग के साथ मुझे उम्मीद है
+            कि एलाइनर उद्योग में सबसे अच्छा उपकरण बन जाएगा।
+          job: पत्रकार
+          img: 2
+        - name: फिलिप एस।
+          quote: >-
+            अलग-अलग भाषाओं में रियल एस्टेट लिस्टिंग और सामग्रियों को रोल आउट करने
+            के लिए एलाइनर फास्ट ट्रैक है। Google अनुवाद की तुलना में इसका उपयोग
+            करना आसान है और हम अनुवादित सूचियों को तुरंत संपादित, संग्रहीत और साझा
+            कर सकते हैं।
+          job: रियल एस्टेट ब्रोकर
+          img: 3
+    section5: false
+    footer:
+      socialmediatitle: हमारा अनुसरण करें
+      socialmedia:
+        - link: 'https://www.facebook.com/align.and.scale/'
+          icon: फेसबुक
+        - link: 'https://www.instagram.com/align_and_scale/'
+          icon: इंस्टाग्राम
+        - link: 'https://www.linkedin.com/company/aligner'
+          icon: लिंक्डइन
+      bulmalogo: false
+      quicklinks:
+        column1:
+          title: कानूनी
+          links:
+            - text: गोपनीयता नीति
+              link: /गोपनीयता नीति
+            - text: वितरण नीति
+              link: / प्रसव-नीति
+            - text: उपयोग की शर्तें
+              link: /उपयोग की शर्तें
+        column2:
+          title: उत्पाद
+          links:
+            - text: योजनाओं
+              link: /मूल्य निर्धारण
+            - text: ब्लॉग
+              link: /ब्लॉग
+            - text: विशेषताएं
+              link: /विशेषताएं
+        column3:
+          title: साधन
+          links:
+            - text: POOL संरेखित करें
+              link: 'https://pool.aligner.io'
+            - text: संरेखित करें GO
+              link: 'https://go.aligner.io'
+            - text: "एस्टोनियाई में \U0001F1EA\U0001F1EA"
+              link: / हाँ
+
 
   ru:
     contentDir: content/russian
@@ -489,7 +897,432 @@ Languages:
     # Footer logos (from static/images/logos/clients/___.svg)
       clientlogos:
   # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
-
-
-
-          
+  fa:
+      contentDir: content/farsi
+      home: Dom
+      languageCode: ru-ru
+      languageName: Farsi
+      weight: 4 
+      params:
+      BookMenuBundle: /منو
+      openGraph: true
+      description: 10 بار سریعتر با Aligner ترجمه کنید. ابزار همکاری رایگان.
+      navbarlogo:
+        image: آرم / logo-new.svg
+        link: /
+      font:
+        name: پوپین ها
+        sizes:
+          - 400
+          - 600
+      hero:
+        title: 10 برابر سریعتر ترجمه کنید <br> با Aligner
+        subtitle: ابزار مدیریت اسناد چند زبانه رایگان
+        buttontext: اکنون شروع کنید
+        buttonlink: 'https://app.aligner.io'
+        buttontext2: null
+        buttonlink2: null
+        clientlogos: null
+      navbar:
+        - title: امکانات
+          url: /امکانات
+        - title: قیمت گذاری
+          url: / قیمت گذاری
+        - title: وبلاگ
+          url: /وبلاگ/
+        - title: راه حل ها
+          sublinks:
+            - title: POOL - API با ابر
+              url: 'https://pool.aligner.io'
+            - title: GO - تحویل محتوا
+              url: 'https://go.aligner.io'
+            - title: برنامه - مدیریت محتوا
+              url: 'https://app.aligner.io'
+        - title: وارد شدن
+          url: 'https://app.aligner.io'
+        - title: همین حالا رایگان شروع کنید
+          url: 'https://app.aligner.io'
+          button: true
+      section1:
+        enable: false
+        title: همه چیز در مورد سادگی است
+        subtitle: مقدار فوری در 3 مرحله
+        tiles:
+          - title: آپلود فایل
+            icon: بارگذاری-ابر
+            text: با رفتن مستقیم به انتشار زبانهای جدید ، این ارزش را دریافت کنید.
+            url: /امکانات
+            buttonText: قالب های پشتیبانی شده را مشاهده کنید
+          - title: از ترجمه ماشین استفاده کنید
+            icon: zap-2
+            text: ترجمه ماشینی 95٪ دقت را ارائه می دهد و ماهانه بهبود می یابد.
+            url: /
+            buttonText: بهترین موتورهای اینجا را امتحان کنید
+          - title: از مردم دعوت کنید
+            icon: کاربر به علاوه
+            text: >-
+              قطعات قابل ردیابی و به راحتی قابل تنظیم ، تماس صریح و روشن برای اقدام
+              را برای همه سهامداران فراهم می کند
+            url: /
+            buttonText: شروع کنید
+      features:
+        enable: true
+        title: امکانات
+        subtitle: null
+        buttonlink: /امکانات
+        buttonText: مشاهده همه ویژگی ها
+        list:
+          - title: ویرایش کنید
+            text: مشکلی برای پیگیری تغییرات در محتوای شما به زبان های مختلف نیست.
+            image: /images/textedit.svg
+            btnText: null
+            btnURL: ''
+            btnKlass: ''
+          - title: ترجمه کردن
+            text: >-
+              برای ترجمه کل سند یا به صورت انتخابی فقط یک قطعه از ترجمه ماشین
+              استفاده کنید.
+            image: /images/roboto-logo.svg
+            btnText: فراخوانی برای اقدام
+            btnURL: ''
+            btnKlass: ''
+          - title: اشتراک گذاری
+            text: با تیم ها همکاری کنید و به همکاران داخلی یا خارجی اجازه دهید.
+            image: /images/team.svg
+            btnText: null
+            btnURL: ''
+            btnKlass: ''
+          - title: انتشار
+            text: محتوای خود را در وب ، سند یا منابع دیگر خود منتشر کنید.
+            image: /images/reload.svg
+            btnText: null
+            btnURL: ''
+            btnKlass: ''
+      froalaDesign:
+        enable: true
+        title: روی اسناد چند زبانه با سهولت کار کنید
+        subtitle: ساخته شده برای بازاریابان و تولید کنندگان محتوا.
+        features:
+          - title: در همه زبانها تغییر ایجاد کنید
+            text: >-
+              بدون ایمیل و فایل های برگشتی و برگشتی وجود دارد. در Aligner هنگام به
+              روز کردن تکه های محتوا ، همه زبانها به صورت خودکار همگام سازی می شوند.
+            image: /images/ai-illustr.svg
+            btnText: آن را در عمل مشاهده کنید
+            btnURL: 'https://app.aligner.io'
+            btnKlass: Secondary-BTN
+          - title: همه افراد را در یک مکان جمع کنید
+            text: >-
+              به زبانها اختصاص دهید ، همکاران را دعوت کنید و همیشه در بالای به روز
+              رسانی ها بمانید.
+            image: /images/team-image.svg
+            btnText: شروع به کار کنید و از مردم دعوت کنید
+            btnURL: 'https://app.aligner.io'
+            btnKlass: BTN اولیه
+          - title: به طور مداوم بخشی از جریان کار شما است
+            text: >-
+              بدون ترک برنامه های مورد علاقه خود ، همه موارد را با Google Docs و
+              سایر خدمات همگام سازی کنید.
+            image: /images/flags-illustr.svg
+            btnText: همگام سازی Google Docs
+            btnURL: 'https://app.aligner.io'
+            btnKlass: Secondary-BTN
+          - title: وضوح بیشتر ، ارتباط سریعتر
+            text: >-
+              Aligner به سازماندهی ارتباط بین سهامداران و انجام وظیفه مناسب کمک می
+              کند.
+            image: /images/version-control.svg
+            btnText: اکنون از Aligner استفاده کنید
+            btnURL: 'https://app.aligner.io'
+            btnKlass: لهجه BTN
+      pricing:
+        enable: true
+        title: برنامه های قیمت گذاری
+        subtitle: null
+        buttonlink: / قیمت گذاری
+        buttonText: در مورد قیمت گذاری بیشتر بیاموزید
+        btnKlass: btn تراز گرد
+        plans:
+          - title: حق بیمه
+            price: 9 دلار در ماه
+            icon: /images/plane.svg
+            heighlight: کارها را سریع انجام دهید
+            btnText: بیشتر بدانید
+            btnURL: / قیمت گذاری
+            btnKlass: btn تراز گرد
+            features:
+              - text: ویرایشگر دوگانه
+              - text: ادغام Google Drive
+              - text: صادرات اسناد
+              - text: ترجمه انتخابی ماشین
+          - title: فریمیوم
+            price: رایگان
+            icon: /images/hot-air-balloon.svg
+            heighlight: مبانی که شما را متحیر می کند
+            btnText: الان شروع کن
+            btnURL: 'https://app.aligner.io'
+            btnKlass: btn تراز گرد
+            features:
+              - text: ویرایشگر دوگانه
+              - text: ترجمه ماشین محدود
+              - text: اشتراک نامحدود
+              - text: واردات Word و PDF
+          - title: تیم
+            price: 29.90 دلار در ماه
+            icon: /images/sun.svg
+            heighlight: عملکرد تیم اضافی
+            btnText: بیشتر بدانید
+            btnURL: / قیمت گذاری
+            btnKlass: btn تراز گرد
+            features:
+              - text: حداکثر 5 نفر ، 4 دلار بعدی
+              - text: نسخه سازی
+              - text: گردش کار
+              - text: مجوزها
+      CTA:
+        enable: true
+        title: از روال دستی خارج شوید و به Aligner بروید
+        subtitle: null
+        text: به ما کمک کنید تا امکانات را کشف کنید
+        btnText: یک بار با ما رزرو کنید
+        btnURL: 'https://calendly.com/aligner/15min'
+        btnKlass: btn تراز گرد
+        clientlogos: null
+      testimonials:
+        enable: false
+        title: توصیفات
+        subtitle: null
+        text: >-
+          با Aligner ، شما در ویرایش محتوا به چندین زبان برتری پیدا می کنید. همه
+          هماهنگ سازی ها بصورت خودکار اتفاق می افتد و اضافه کردن زبان های جدید به
+          تجارت آسان است.
+        name: بنیانگذار در Fooddocs
+        image: /images/katrin_fooddocs.svg
+      pricingInner:
+        enable: true
+        title: قیمت گذاری
+        subtitle: null
+        buttonlink: / قیمت گذاری
+        buttonText: در مورد قیمت گذاری بیشتر بیاموزید
+        btnKlass: btn تراز گرد
+        plans:
+          - title: فریمیوم
+            price: 0 دلار
+            icon: /images/plane.svg
+            heighlight: کارها را سریع انجام دهید
+            btnText: اکنون شروع کنید
+            btnURL: 'https://app.aligner.io'
+            btnKlass: Secondary-BTN
+          - title: حق بیمه
+            price: $ 8.99 / ماه
+            icon: /images/hot-air-balloon.svg
+            heighlight: برای شرکتهای متوسط
+            btnText: به زودی
+            btnURL: '#'
+            btnKlass: BTN اولیه
+          - title: تیم
+            price: 29.99 دلار در ماه
+            icon: /images/sun.svg
+            heighlight: برای شرکتهای بزرگ
+            btnText: به زودی
+            btnURL: '#'
+            btnKlass: Secondary-BTN
+        features:
+          - list:
+              - ویرایشگر دوگانه
+              - true
+              - true
+              - true
+          - list:
+              - زبان ها
+              - 3
+              - 5
+              - 10
+          - list:
+              - اسناد
+              - 40
+              - نامحدود
+              - نامحدود
+          - list:
+              - سبک های همگام سازی
+              - true
+              - true
+              - true
+          - list:
+              - ترجمه ماشین
+              - true
+              - true
+              - true
+          - list:
+              - ترجمه انتخابی ماشین
+              - true
+              - true
+              - true
+          - list:
+              - وارد كردن
+              - docx و اسناد گوگل
+              - docx و اسناد Google ، ادغام
+              - قابلیت های گسترده
+          - list:
+              - صادرات
+              - .docx یا Google Docs ، PDF
+              - .docx یا Google Docs ، PDF
+              - قابلیت های گسترده
+          - list:
+              - اشتراک گذاری
+              - true
+              - true
+              - true
+          - list:
+              - انتشارات
+              - پیوندهای عمومی
+              - پیوندهای عمومی و خصوصی
+              - پیوندهای عمومی و خصوصی
+          - list:
+              - کارگاه
+              - '-'
+              - true
+              - true
+          - list:
+              - حقوق
+              - '-'
+              - true
+              - true
+              - null
+      featuresList:
+        enable: false
+        title: امکانات
+        subtitle: همزمان با بسیاری از زبانها مهم نیست
+        image1: /images/recording.mov
+        features:
+          - title: یک ظاهر طراحی شده اتومبیل
+            text: همه سبک ها از طریق زبانها همگام سازی می شوند
+            icon: /images/css.svg
+          - title: مبتنی بر HTML
+            text: به راحتی از هر یک از اجزای وب استفاده کنید
+            icon: /images/html.svg
+          - title: همکاری
+            text: از همکاران ، مترجمان ، کتابخوانی دعوت کنید
+            icon: /images/collaborate-features.png
+          - title: صادرات PDF
+            text: آماده برای چاپ؟ ما PDF آماده هستیم.
+            icon: /images/pdf-translate.svg
+          - title: پرونده های گوگل
+            text: با حساب Google Docs خود همگام شوید
+            icon: /images/docs.svg
+          - title: Microsoft Word
+            text: محتوای Word را با سهولت بارگذاری کنید
+            icon: /images/word.svg
+          - title: ترجمه ماشین
+            text: ترکیبی از بهترین موتورها
+            icon: /images/languages.svg
+          - title: 136+ زبان
+            text: شما در سطح جهان پوشیده هستید
+            icon: /images/globe.svg
+      froalaBlock:
+        enable: true
+        title: >-
+          Aligner برای بازاریابان و سازندگان که به تولیدی خود اهمیت می دهند ساخته
+          شده است.
+        text: >-
+          زمان. این همه در مورد موثر بودن است. فرار از ارسال نامه الكترونیكی و مهلت
+          طولانی. آلینگر ساخته شده است تا اتفاقات فوری رخ دهد.
+        linktext: شروع به کاوش در مورد تمام احتمالات کنید <i class='fa fa-angle-right'></i>
+        linkurl: 'https://app.aligner.io'
+        list:
+          - title: به مخاطبان جدید برسید
+            image: /images/crowd.png
+          - title: کارها را سریعتر انجام دهید
+            image: /images/rocket.svg
+          - title: کارت اعتباری لازم نیست
+            image: /images/no-credit-card.png
+          - title: ابر
+            image: /images/cloud.png
+      section2:
+        enable: false
+        title: چرا مردم از Aligner استفاده می کنند؟
+        subtitle: کاربران ما به مؤثر بودن اهمیت می دهند.
+        features:
+          - title: فرمول کارآمد
+            text: >-
+              ورودی انسانی + ترجمه ماشینی + نسخه برداری انسانی = ** 10 برابر نتایج
+              سریع تر **. فقط وارد سیستم شوید و شروع به کار کنید.
+            icon: کاربران
+          - title: سبک های خودکار
+            text: >-
+              هنگامی که سبک ها در هر یک از زبان ها اعمال شد ، همه دیگران همگام سازی
+              می شوند. ما ضرورت کلیک را کاهش داده ایم.
+            icon: zap
+          - title: افرادی را که با آنها کار می کنید انتخاب کنید
+            text: >-
+              احساس رایگان کنید تا هرکسی را بدون پیوست مالی به فرآیندهای خود اضافه
+              کنید.
+            icon: اشتراک گذاری
+      section4:
+        enable: false
+        title: چگونه احساس می شود 10 برابر سریعتر باشد؟
+        subtitle: مردم Aligner را از عمودی های مختلف دوست دارند.
+        clients:
+          - name: Merilin V.
+            quote: >-
+              انجام ترجمه‌ها در Aligner 10 برابر سریعتر است. سریعتر بودن بدان معنی
+              است که شما می خواهید سریعتر خدمات را وارد بازارهای جدید کنید. ما می
+              خواهیم از بهترین ابزارهایی استفاده کنیم که به ما کمک می کند تا
+              کارآمدتر باشیم
+            job: مدیر دفتر
+            img: 1
+          - name: اناری ح.
+            quote: >-
+              من می توانم مقالات را در Aligner ترجمه کنم و مطالب خود را در هر زمان
+              بهبود ببخشم ، دقیقاً مثل آنچه لازم دارم. با یادگیری ماشین انتظار دارم
+              Aligner بهترین ابزار در صنعت شود.
+            job: روزنامه نگار
+            img: 2
+          - name: فیلیپ س.
+            quote: >-
+              Aligner آهنگ سریع برای فهرست کردن لیست املاک و مستغلات و زبان های
+              مختلف است. استفاده از آن آسان است و در مقایسه با Google Translate می
+              توانیم بلافاصله لیست های ترجمه شده را ویرایش ، ذخیره و به اشتراک
+              بگذاریم.
+            job: دلال مسکن
+            img: 3
+      section5: false
+      footer:
+        logo: logo-new.svg
+        socialmediatitle: ما را دنبال کنید
+        socialmedia:
+          - link: 'https://www.facebook.com/align.and.scale/'
+            icon: فیس بوک
+          - link: 'https://www.instagram.com/align_and_scale/'
+            icon: اینستاگرام
+          - link: 'https://www.linkedin.com/company/aligner'
+            icon: پیوند
+        bulmalogo: false
+        quicklinks:
+          column1:
+            title: مجاز
+            links:
+              - text: سیاست حفظ حریم خصوصی
+                link: /سیاست حفظ حریم خصوصی
+              - text: خط مشی تحویل
+                link: / سیاست تحویل
+              - text: شرایط استفاده
+                link: /شرایط استفاده
+          column2:
+            title: تولید - محصول
+            links:
+              - text: برنامه ها
+                link: / قیمت گذاری
+              - text: وبلاگ
+                link: /وبلاگ
+              - text: امکانات
+                link: /امکانات
+          column3:
+            title: منابع
+            links:
+              - text: POOL را تراز می کند
+                link: 'https://pool.aligner.io'
+              - text: تراز GO
+                link: 'https://go.aligner.io'
+              - text: "به استونیایی \U0001F1EA\U0001F1EA"
+                link: / آره

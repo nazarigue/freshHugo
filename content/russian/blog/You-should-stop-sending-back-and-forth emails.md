@@ -1,7 +1,7 @@
 ---
 title: Becoming productive by shifting out from the email.
 date: 2020-04-02
-ogImage: "https://www.aligner.io/images/og_aligner.png"
+ogImage: "https://www.aligner.io/images/og_aligner.jpeg"
 description: "Aligner - Becoming productive by shifting out from the email"
 sidebar: false
 sidebarlogo: aligner-new.svg
@@ -25,7 +25,7 @@ People tend to be stuck in communication and information gaps all the time. Toda
 ## Current tools are not sufficient
 
 Some try to build string-like solutions in [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets") but it does not work either for non-string content. One of the options:
-![Solving translation with Google Sheets](https://www.labnol.org/images/2008/translate_spreadsheet_cells.png "Solving translation with Google Sheets").
+![Solving translation with Google Sheets](https://www.labnol.org/images/2008/translate_spreadsheet_cells.jpeg "Solving translation with Google Sheets").
 
 ## 3 main problems that Google Sheets can't handle
 - Style. You can't style and do preps for the web.

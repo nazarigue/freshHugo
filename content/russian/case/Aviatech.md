@@ -1,11 +1,11 @@
 ---
 title: Aviation technology on a scale 
 date: 2020-04-02
-ogImage: "https://www.aligner.io/images/case/avia.png"
+ogImage: "https://www.aligner.io/images/case/avia.jpeg"
 description: "Aligner - Aviation technology on a scale"
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: ../images/case/avia.png
+image: ../images/case/avia.jpeg
 caseLogo: false
 draft: false
 ---

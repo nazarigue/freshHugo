@@ -1,11 +1,11 @@
 ---
 title: Translate PDF file in Aligner for free
 date: 2020-06-02
-ogImage: https://www.aligner.io/images/pdf-aligner.png
+ogImage: https://www.aligner.io/images/pdf-aligner.jpeg
 description: "Aligner - Translate PDF file in Aligner for free"
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: "../images/pdf-aligner.png"
+image: "../images/pdf-aligner.jpeg"
 
 ---
 ### PDF is one of the most popular file formats

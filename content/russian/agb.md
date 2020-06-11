@@ -1,6 +1,6 @@
 ---
 title: AGB
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 description: "Aligner - AGB"
 include_footer: true
 ---

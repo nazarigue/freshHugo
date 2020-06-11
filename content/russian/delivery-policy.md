@@ -1,6 +1,6 @@
 ---
 title: Delivery Policy
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 description: "Aligner - Delivery Policy"
 include_footer: true
 ---

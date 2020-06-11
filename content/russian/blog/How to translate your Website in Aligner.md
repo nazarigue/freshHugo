@@ -26,25 +26,25 @@ In Aligner, it happens a lot easier, faster, and requires no programming skills.
 
 ## 1. Open your website and copy the text
 
-![](../aligner-website.png "aligner-website")
+![](../aligner-website.jpeg "aligner-website")
 
 ### Copy all content
 
-![](../aligner-website-copying.png "aligner-copy-website")
+![](../aligner-website-copying.jpeg "aligner-copy-website")
 
 ## 3. Paste to Aligner and click translate. Choose Machine Translation (we cover 140+ languages)
 
-![](../aligner-dual-editor.png "aligner-dual-editor")
+![](../aligner-dual-editor.jpeg "aligner-dual-editor")
 
 ## 4. Share to your colleague or a friend to do proofreading or use Fiverr
 
 Under action buttons, click sharing and enter the email of the person you want to share with. In Aligner, **it's free to share and free to collaborate**. Alternatively if you need to find an external proofreader, you can use services like Fiverr.
 
-![](../aligner-sharing.png "aligner-sharing")
+![](../aligner-sharing.jpeg "aligner-sharing")
 
 Alternatively if you need to find an external proofreader, you can use services like [Fiverr](https://www.fiverr.com/search/gigs?query=spanish%20proofread&source=top-bar&search_in=everywhere&search-autocomplete-original-term=spanish%20proofread).
 
-![](../fiverr-spanish-proofreading.png "aligner-fiverr-proofreading")
+![](../fiverr-spanish-proofreading.jpeg "aligner-fiverr-proofreading")
 
 Finally, add a new page on your website and use the translations, that just got ready.
 
