@@ -31,6 +31,7 @@ params:
   # Logo (from static/images/logos/___)
     image: logos/logo-new.svg
     link: /
+    alt: Aligner
   font:
     name: "Poppins"
     sizes: [400,600]
@@ -104,24 +105,28 @@ params:
     - title: Edit
       text: No hassle with tracking changes across your content in different languages.
       image: /images/textedit.svg
+      alt: Edit
       btnText: 
       btnURL: ""
       btnKlass: "" 
     - title: Translate
       text: Use machine translation to translate the whole document or selectively just a piece.
       image: /images/roboto-logo.svg
+      alt: Translate
       btnText: Call to Action
       btnURL: ""
       btnKlass: ""
     - title: Share
       text: Work with teams and let internal or external collaborators in.
       image: /images/team.svg
+      alt: Share
       btnText: 
       btnURL: ""
       btnKlass: ""
     - title: Publish
       text: Publish your content to your web, document or other resource.
       image: /images/reload.svg
+      alt: Publish
       btnText: 
       btnURL: ""
       btnKlass: ""
@@ -133,24 +138,28 @@ params:
     - title: Make changes to all languages
       text: No back and forth emails and files. In Aligner you get syncrhonised all languages automatically when updating pieces of the content.
       image: /images/ai-illustration.svg
+      alt: Make changes to all languages
       btnText: See it in action →
       btnURL: https://app.aligner.io
       btnKlass: "secondary-btn" 
     - title: Bring all people together in one place
       text: Assign languages, invite collaborators and always stay on the top of updates.
       image: /images/team-image.svg
+      alt: Bring all people together in one place
       btnText: Start working and invite people →
       btnURL: https://app.aligner.io
       btnKlass: "primary-btn"
     - title: Continuously a part of your workflows
       text: Get things syncrhonised with Google Docs and other services without leaving your favourite apps.
       image: /images/flags-illustration.svg
+      alt: Continuously a part of your workflows
       btnText: Syncronise Google Docs →
       btnURL: https://app.aligner.io
       btnKlass: "secondary-btn"
     - title: More clarity, faster communication
       text: Aligner help to organise communication between shareholders and deliver the right task. 
       image: /images/version-control.svg
+      alt: More clarity, faster communication
       btnText: Use Aligner now →
       btnURL: https://app.aligner.io
       btnKlass: "accent-btn"
@@ -165,6 +174,7 @@ params:
     - title: Premium
       price: $9 / mo
       icon: /images/plane.svg
+      alt: Premium
       heighlight: Get things done yourself fast
       btnText: Learn more
       btnURL: /pricing
@@ -177,6 +187,7 @@ params:
     - title: Freemium
       price: FREE
       icon: /images/hot-air-balloon.svg
+      alt: Freemium
       heighlight: Basics that will amaze you
       btnText: Start now
       btnURL: https://app.aligner.io
@@ -189,6 +200,7 @@ params:
     - title: Team
       price: $29.90 / mo
       icon: /images/sun.svg
+      alt: Team
       heighlight: Extra team functionality
       btnText: Learn more
       btnURL: "/pricing"
@@ -207,6 +219,7 @@ params:
     btnURL: https://calendly.com/aligner/15min
     btnKlass: "btn-aligner rounded"
     clientlogos: 
+    ctaAlt: 
   testimonials:
     enable: false
     title: Testimonials
@@ -225,6 +238,7 @@ params:
     - title: Freemium
       price: $0
       icon: /images/plane.svg
+      alt: Freemium
       heighlight: Get things done quick
       btnText: Start now →
       btnURL: https://app.aligner.io
@@ -232,6 +246,7 @@ params:
     - title: Premium
       price: $8.99/mo
       icon: /images/hot-air-balloon.svg
+      alt: Premium
       heighlight: For medium companies
       btnText: Coming soon
       btnURL: "#"
@@ -239,6 +254,7 @@ params:
     - title: Team
       price: $29.99/mo
       icon: /images/sun.svg
+      alt: Team
       heighlight: For large companies
       btnText: Coming soon
       btnURL: "#"
@@ -388,6 +404,7 @@ params:
   footer:
     # Logo (from /images/logos/___)
     logo: logo-new.svg
+    alt: Aligner
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
@@ -430,6 +447,11 @@ params:
           link: /ee
        # - text: Getting Started
        #   link: 
+  caseTitle:  Case Studies
+  caseBtn:  Read case study
+  latestTitle: Latest Blog
+  moreBtn: Read More
+  checkBlog: Check out our blog
 
 
 ################################### English language #####################################

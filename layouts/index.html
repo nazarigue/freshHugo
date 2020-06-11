@@ -28,7 +28,7 @@
     <div class="hero-body">
       <div class="container">
         <div class="title-wrapper has-text-centered pb-20">
-            <h2 class="title is-2">{{ i18n "latestBlog" }}</h2>
+            <h2 class="title is-2">{{ .Site.Params.latestTitle  }}</h2>
           </div>
         <section class="section">
           <div class="columns is-variable is-8">
@@ -43,7 +43,7 @@
                     <p class="has-text-dark">{{.Summary | safeHTML | truncate 150}}</p>                        
                     <a href="{{.Permalink}}">
                         <span class="button signup-button rounded secondary-btn btn-aligner ">
-                          {{ i18n "read_more" }} →
+                          {{ .Site.Params.moreBtn  }} →
                         </span>
                     </a>
                 </div>
@@ -57,7 +57,7 @@
         <div class="column is-full has-text-centered mt-20">          
         <p>
           <a class="button cta secondary-btn  btn-aligner rounded" href="/blog">
-            {{ i18n "check_blog" }}  
+            {{ .Site.Params.checkBlog  }}  
           </a>
           </p>
         </div>

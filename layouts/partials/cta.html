@@ -3,6 +3,8 @@
 {{- $text   := index $cta "text" }}
 {{- $subtitle   := index $cta "subtitle" }}
 {{- $clientLogos   := index $cta "clientlogos" }}
+{{- $ctaAlt   := index $cta "ctaAlt" }}
+
 <section class="section  is-medium cta">
   <div class="container"> 
     <div class="title-wrapper has-text-centered ">
@@ -20,7 +22,7 @@
             <ul style="border: 0px;">
               {{- range $clientLogos }}
               <li>
-                  <img class="partner-logo" src="{{ printf "/images/logos/clients/" . | relURL }}">               
+                  <img class="partner-logo" alt="{{$ctaAlt}}" src="{{ printf "/images/logos/clients/" . | relURL }}">               
               </li>
               {{- end }}
             </ul>
