@@ -1,11 +1,11 @@
 ---
 title: International journalism with Aligner
 date: 2020-04-02
-ogImage: "https://www.aligner.io/images/case/ap.png"
+ogImage: "https://www.aligner.io/images/case/ap.jpeg"
 description: "Aligner - International journalism with Aligner"
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: ../images/case/ap.png
+image: ../images/case/ap.jpeg
 caseLogo: false
 draft: false
 ---
