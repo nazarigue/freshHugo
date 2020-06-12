@@ -1,25 +1,25 @@
 ---
 title: How to translate from Ukrainian to Japanese for free in Aligner Editor
 description: Aligner Dual Editor Tutorial. How to translate for free from Ukrainian to Japanese. Aligner is multilingual document management platform. 
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 date: 2020-05-06T07:09:21+03:00
-image: ../images/aligner-logo.png
+image: ../images/aligner-logo.jpeg
 onBlog: true
 ---
 
 1. Go to editor at [app.aligner.io](https://app.aligner.io "Aligner App web page")
 
-![translate from Ukrainian to Japanese](../aligner-blank-editor.png "translate from Ukrainian to Japanese")
+![translate from Ukrainian to Japanese](../aligner-blank-editor.jpeg "translate from Ukrainian to Japanese")
 
 Copy-paste content or upload content
 
-![upload content from Ukrainian to Japanese](../aligner-uploaded-document.png "upload content from Ukrainian to Japanese")
+![upload content from Ukrainian to Japanese](../aligner-uploaded-document.jpeg "upload content from Ukrainian to Japanese")
 
 Choose desired language
 
-![choose machine translation from Ukrainian to Japanese](../aligner-language-dropdown.png "choose machine translation from Ukrainian to Japanese")
+![choose machine translation from Ukrainian to Japanese](../aligner-language-dropdown.jpeg "choose machine translation from Ukrainian to Japanese")
 
 Work and edit 2 documents in parallel
 
-![edit translation from Ukrainian to Japanese](../aligner-double-sitded-editor.png "edit translation from Ukrainian to Japanese")
+![edit translation from Ukrainian to Japanese](../aligner-double-sitded-editor.jpeg "edit translation from Ukrainian to Japanese")
 

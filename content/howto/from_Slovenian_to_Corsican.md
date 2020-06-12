@@ -1,25 +1,25 @@
 ---
 title: How to translate from Slovenian to Corsican for free in Aligner Editor
 description: Aligner Dual Editor Tutorial. How to translate for free from Slovenian to Corsican. Aligner is multilingual document management platform. 
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 date: 2020-05-06T07:09:21+03:00
-image: ../images/aligner-logo.png
+image: ../images/aligner-logo.jpeg
 onBlog: true
 ---
 
 1. Go to editor at [app.aligner.io](https://app.aligner.io "Aligner App web page")
 
-![translate from Slovenian to Corsican](../aligner-blank-editor.png "translate from Slovenian to Corsican")
+![translate from Slovenian to Corsican](../aligner-blank-editor.jpeg "translate from Slovenian to Corsican")
 
 Copy-paste content or upload content
 
-![upload content from Slovenian to Corsican](../aligner-uploaded-document.png "upload content from Slovenian to Corsican")
+![upload content from Slovenian to Corsican](../aligner-uploaded-document.jpeg "upload content from Slovenian to Corsican")
 
 Choose desired language
 
-![choose machine translation from Slovenian to Corsican](../aligner-language-dropdown.png "choose machine translation from Slovenian to Corsican")
+![choose machine translation from Slovenian to Corsican](../aligner-language-dropdown.jpeg "choose machine translation from Slovenian to Corsican")
 
 Work and edit 2 documents in parallel
 
-![edit translation from Slovenian to Corsican](../aligner-double-sitded-editor.png "edit translation from Slovenian to Corsican")
+![edit translation from Slovenian to Corsican](../aligner-double-sitded-editor.jpeg "edit translation from Slovenian to Corsican")
 

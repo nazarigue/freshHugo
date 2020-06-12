@@ -1,6 +1,6 @@
 ---
 title: Aligner teenuste kirjeldus Eesti Keeles
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 description: "Aligner - Aligner teenuste kirjeldus Eesti Keeles"
 include_footer: true
 ---

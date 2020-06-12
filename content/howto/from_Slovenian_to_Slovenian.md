@@ -1,25 +1,25 @@
 ---
 title: How to translate from Slovenian to Slovenian for free in Aligner Editor
 description: Aligner Dual Editor Tutorial. How to translate for free from Slovenian to Slovenian. Aligner is multilingual document management platform. 
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 date: 2020-05-06T07:09:21+03:00
-image: ../images/aligner-logo.png
+image: ../images/aligner-logo.jpeg
 onBlog: true
 ---
 
 1. Go to editor at [app.aligner.io](https://app.aligner.io "Aligner App web page")
 
-![translate from Slovenian to Slovenian](../aligner-blank-editor.png "translate from Slovenian to Slovenian")
+![translate from Slovenian to Slovenian](../aligner-blank-editor.jpeg "translate from Slovenian to Slovenian")
 
 Copy-paste content or upload content
 
-![upload content from Slovenian to Slovenian](../aligner-uploaded-document.png "upload content from Slovenian to Slovenian")
+![upload content from Slovenian to Slovenian](../aligner-uploaded-document.jpeg "upload content from Slovenian to Slovenian")
 
 Choose desired language
 
-![choose machine translation from Slovenian to Slovenian](../aligner-language-dropdown.png "choose machine translation from Slovenian to Slovenian")
+![choose machine translation from Slovenian to Slovenian](../aligner-language-dropdown.jpeg "choose machine translation from Slovenian to Slovenian")
 
 Work and edit 2 documents in parallel
 
-![edit translation from Slovenian to Slovenian](../aligner-double-sitded-editor.png "edit translation from Slovenian to Slovenian")
+![edit translation from Slovenian to Slovenian](../aligner-double-sitded-editor.jpeg "edit translation from Slovenian to Slovenian")
 

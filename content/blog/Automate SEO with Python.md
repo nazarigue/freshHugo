@@ -2,10 +2,10 @@
 title: Automate SEO with Python
 description: Compress images with few lines of Python to improve the SEO. Reduce images size 10 times. Automate multilingual processes with Aligner.
 sidebar: false
-ogImage: "https://www.aligner.io/images/Automate-with-Python.png" 
+ogImage: "https://www.aligner.io/images/aAutomate-with-Python.jpeg" 
 date: 2020-06-12
 sidebarlogo: 
-image: ../images/Automate-with-Python.png
+image: ../images/Automate-with-Python.jpeg
 ---
 #### How to optimize web page image size with python?
 
@@ -28,7 +28,7 @@ import os
 This is a code piece that we will use.
 
 ``` python 
-for file in glob.glob("website/**/*.png", recursive=True):
+for file in glob.glob("website/**/*.jpeg", recursive=True):
     im = Image.open(file)
     rgb_im = im.convert('RGB')
     rgb_im.save(file.replace("png", "jpeg"), quality=95)
@@ -39,9 +39,9 @@ for file in glob.glob("website/**/*.png", recursive=True):
 Let’s break it down.
 
 
-    for file in glob.glob(“website/**/*.png", recursive=True):
+    for file in glob.glob(“website/**/*.jpeg", recursive=True):
 
-For loop is looking for patterns in all directories and subdirectories, where we want to find all .png files.
+For loop is looking for patterns in all directories and subdirectories, where we want to find all .jpeg files.
 
 Next step, open the files and assign a variable.
 
@@ -112,14 +112,14 @@ In Aligner editor you can update ALL LANGUAGES at once.
 Here we have a document in 4 languages. **English**, **Belarusian**, **Arabic** and **Armenian**.
 
 
-![aligner-parallel-view-editor](../alinger-python-editor.png)
+![aligner-parallel-view-editor](../alinger-python-editor.jpeg)
 
 ### Styles and numbering are applied to all languages
-![alinger-editor-numbering](../aligner-numbering-python.png)
+![alinger-editor-numbering](../aligner-numbering-python.jpeg)
 
 ### Invite collaborators or use selective machine translation to update other languages.
 
-![alinger-selective-machine-translation](../selective-aligner-python.png)
+![alinger-selective-machine-translation](../selective-aligner-python.jpeg)
 
 [Read how companies use Aligner Daily](/case/)
 

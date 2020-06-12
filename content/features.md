@@ -1,6 +1,6 @@
 ---
 title: Features
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 description: "Aligner - Features"
 include_froala: false
 include_featuresList: true
