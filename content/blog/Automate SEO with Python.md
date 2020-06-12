@@ -2,7 +2,7 @@
 title: Automate SEO with Python
 description: Compress images with few lines of Python to improve the SEO. Reduce images size 10 times. Automate multilingual processes with Aligner.
 sidebar: false
-ogImage: "https://www.aligner.io/images/aAutomate-with-Python.jpeg" 
+ogImage: "https://www.aligner.io/images/Automate-with-Python.jpeg" 
 date: 2020-06-12
 sidebarlogo: 
 image: ../images/Automate-with-Python.jpeg
