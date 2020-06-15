@@ -23,12 +23,12 @@ Our goal is to find all PNG files and convert them to JPEG. We will reduce appro
 from PIL import Image
 import glob
 import os
-````
+```
 
 This is a code piece that we will use.
 
 ``` python 
-for file in glob.glob("website/**/*.jpeg", recursive=True):
+for file in glob.glob("website/**/*.png", recursive=True):
     im = Image.open(file)
     rgb_im = im.convert('RGB')
     rgb_im.save(file.replace("png", "jpeg"), quality=95)
@@ -39,9 +39,9 @@ for file in glob.glob("website/**/*.jpeg", recursive=True):
 Let’s break it down.
 
 
-    for file in glob.glob(“website/**/*.jpeg", recursive=True):
+    for file in glob.glob(“website/**/*.png", recursive=True):
 
-For loop is looking for patterns in all directories and subdirectories, where we want to find all .jpeg files.
+For loop is looking for patterns in all directories and subdirectories, where we want to find all .png files.
 
 Next step, open the files and assign a variable.
 
