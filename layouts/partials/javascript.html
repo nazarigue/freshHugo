@@ -1,0 +1,91 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://unpkg.com/feather-icons"></script>
+<script src="{{ "js/fresh.js" | relURL }}"></script>
+<script src="{{ "js/jquery.panelslider.min.js" | relURL }}"></script>
+
+<script src="{{ "js/msdropdown/jquery.dd.min.js" | relURL }}"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script src="//code.tidio.co/ekt1nzvdsaiadmycyp05awiv70frfa7c.js" async></script>
+
+
+<script>
+
+    
+    // =================== section menu collapse ==================
+    document.querySelectorAll('.menu__list').forEach(function(elem) {
+      if (elem.classList.contains('active')) {
+        elem.style.maxHeight = elem.scrollHeight + "px"; 
+      }
+    });
+    
+    document.querySelectorAll('.menu__title--collapse').forEach(function(elem) {
+      elem.addEventListener('click', function (e) {
+        var content = this.nextElementSibling;
+        var menuTitleIcon = this.querySelector('.menu__title--icon');
+        if (!content) {
+          return null;
+        }
+
+        var parent = elem.parentNode;
+        while (parent.classList.contains('menu__list') && parent.classList.contains('active')) {
+          console.log('parent');
+          parent.style.maxHeight = 100 * parent.children.length + "px";
+          parent = parent.parentNode;
+        }
+
+        if (content.style.maxHeight) {
+          console.log('null');
+          content.style.maxHeight = null;
+          content.classList.remove('active');
+          menuTitleIcon.classList.add('right');
+          
+          if (languagedir === 'rtl') {
+            menuTitleIcon.classList.remove('downrtl');
+          } else {
+            menuTitleIcon.classList.remove('down');
+          }
+        } else {
+          console.log('scrollHeight');
+          content.style.maxHeight = content.scrollHeight + "px";
+          content.classList.add('active');
+          menuTitleIcon.classList.remove('right');
+          
+          if (languagedir === 'rtl') {
+            menuTitleIcon.classList.add('downrtl');
+          } else {
+            menuTitleIcon.classList.add('down');
+          }
+        }
+      });
+    });
+    // ============================================================
+
+    
+    var menuTitle = document.querySelectorAll('.menu__title');
+    var modal = document.getElementById("myModal");
+    var drawer = document.getElementById('myDrawer');
+  
+    var closeDrawer = function () {
+      setTimeout(function () {
+        modal.style.opacity = 0;
+        drawer.style.left = '-100%';
+        modal.style.left = '-100%';
+      }, 250);
+    }
+  
+    menuTitle ? 
+    menuTitle.forEach(function(elem) {
+      elem.onclick = function() {
+        closeDrawer();
+        localStorage.setItem('isDrawerOpen', 'false');
+      }
+    }) : null;
+  </script>
+
+  
+<script>
+  $(document).ready(function() {
+    $("#countries").msDropdown();
+  })
+  </script>

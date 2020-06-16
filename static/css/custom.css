@@ -166,6 +166,143 @@ menu{position:-webkit-sticky;position:sticky;top:50px;padding:.5rem;margin:.5rem
 .img{
     display: block !important;
 }
+.language-selector .select select{
+    width:100%;
+    border:0px;
+}
+
+
+
+/* language selector */
+.language-selector{
+    /* Auto Layout */
+    display: flex;
+    flex-direction: column;
+    padding: 30px 24px;
+
+    position: relative;
+    width: 315px;
+    height: auto;
+
+    /* white /
+    background: #FFFFFF;
+    / dark/grey-light-2 /
+    border: 1px solid #F2F4F7;
+    box-sizing: border-box;
+    / shadow-main */
+    box-shadow: 0px 8px 24px rgba(27, 37, 55, 0.08);
+
+}
+
+.Select-language{
+    
+/* Select language */
+
+position: static;
+width: 267px;
+height: 31px;
+left: 24px;
+top: 30px;
+
+/* H5 - Heading 5 /
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 30px;
+/ identical to box height, or 160% */
+letter-spacing: 0.005em;
+
+color: #000000;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: flex-start;
+margin: 0px 24px;
+
+}
+
+/* search input */
+.search-input{
+    /* Auto Layout */
+    display: flex;
+    flex-direction: row;
+    padding: 8px 16px;
+
+    position: static;
+    display: none;
+    width: 251px;
+    height: 42px;
+    left: 32px;
+    top: 115px;
+}
+
+
+/* dark/grey-light-2 */
+background: #F2F4F7;
+border-radius: 8px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: center;
+margin: 0px 24px;
+
+.item-list{
+    position: static;
+width: 251px;
+height: 32px;
+left: 32px;
+top: 151px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: center;
+margin: 0px 24px;
+}
+.algeria{
+    /* algeria */
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 32px;
+    top: 151px;
+}
+.Vector{
+    /* Vector */
+
+    position: absolute;
+    left: 43.48%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #F0F0F0;
+}
+
+.country-number {
+  
+
+position: absolute;
+width: 203px;
+height: 26px;
+left: 80px;
+top: 88px;
+
+/* Paragraph /
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 26px;
+/ identical to box height, or 186% */
+letter-spacing: 0.005em;
+
+color: #000000;
+}
 
 
 /*

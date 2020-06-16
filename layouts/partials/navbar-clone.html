@@ -80,27 +80,55 @@
         {{- end }}
         <!-- Language List -->
         {{ if .IsTranslated }}
-        <div class="select">
-          <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
+        <div class="">
+          
+        <div class="language-selector1">
+          <select name="countries" id="countries" style="width:300px;"  onchange="location = this.value;">
             {{ $siteLanguages := .Site.Languages}}
             {{ $pageLang := .Page.Lang}}
             {{ range .Page.AllTranslations }}
-            {{ $translation := .}}
-            {{ range $siteLanguages }}
-            {{ if eq $translation.Lang .Lang }}
-            {{ $selected := false }}
-            {{ if eq $pageLang .Lang}}
-            <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
-            </option>
-            {{ else }}
-            <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+              {{ $translation := .}}
+              {{ range $siteLanguages }}
+                {{ if eq $translation.Lang .Lang }}
+                  {{ $selected := false }}
+                    {{ if eq $pageLang .Lang}}
+                      <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" data-image="/images/msdropdown/icons/{{ $translation.Language }}.jpg" data-imagecss="flag {{ $translation.Language }}" data-title="{{ .LanguageName }}" selected>{{ .LanguageName }}
+                      </option>
+                      {{ else }}
+                      <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" data-image="/images/msdropdown/icons/{{ $translation.Language }}.jpg" data-imagecss="flag {{ $translation.Language }}" data-title="{{ .LanguageName }}">{{ .LanguageName }}</option>
+                    {{ end }}
+                {{ end }}
+              {{ end }}
             {{ end }}
-            {{ end }}
-            {{ end }}
-            {{ end }}
+
           </select>
       </div>
+        </div>
         {{ end }}
+
+<!-- 
+        <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
+          {{ $siteLanguages := .Site.Languages}}
+          {{ $pageLang := .Page.Lang}}
+          {{ range .Page.AllTranslations }}
+          {{ $translation := .}}
+          {{ range $siteLanguages }}
+          {{ if eq $translation.Lang .Lang }}
+          {{ $selected := false }}
+          {{ if eq $pageLang .Lang}}
+          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
+          </option>
+          {{ else }}
+          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+          {{ end }}
+          </select> -->
+          
+
+
+
       </div>
     </div>
 </div>
