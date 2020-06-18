@@ -43,14 +43,14 @@ img.fnone{float:none !important}
 .ddcommon .noBorderTop{border-top:none 0  !important; padding:0; margin:0;}
 
 /*************** default theme **********************/
-.dd{border:0px solid #c3c3c3;}
+.dd{border:0px solid #c3c3c3; width: 200px !important;}
 /* .dd .divider{border-left:1px solid #c3c3c3; border-right:1px solid #fff;; right:24px;}
 .dd .arrow{width:16px;height:16px; margin-top:-8px; background:url(../../images/msdropdown/skin1/dd_arrow.gif) no-repeat;}
 .dd .arrow:hover{background-position:0 100%;} */
 .dd .ddTitle{
-    color:#000;background:#fff;
-    box-shadow: 0px 8px 24px rgba(27, 37, 55, 0.08);
-    padding-left: 24px;
+    color:#000;
+    background:transparent;
+    /* box-shadow: 0px 8px 24px rgba(27, 37, 55, 0.08); */
 }
     
 /* .dd .ddTitle{color:#000;background:#e2e2e4 url(../../images/msdropdown/skin1/title-bg.gif) repeat-x left top;} */
@@ -62,7 +62,7 @@ img.fnone{float:none !important}
 .dd .ddChild {
     display: flex;
     flex-direction: column;
-    padding: 10px 24px;
+    padding: 5px;
 
     position: relative;
     height: auto;
