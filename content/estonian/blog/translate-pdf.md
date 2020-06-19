@@ -1,5 +1,5 @@
 ---
-title: Translate PDF file in Aligner for free
+title: Tõlgi tasuta PDF fail Aligneris
 date: 2020-06-02
 ogImage: https://www.aligner.io/images/pdf-aligner.jpeg
 description: "Aligner - Translate PDF file in Aligner for free"

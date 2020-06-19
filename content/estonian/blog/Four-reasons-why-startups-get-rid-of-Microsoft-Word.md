@@ -1,5 +1,5 @@
 ---
-title: Aligner approach to structural document management.
+title: Aligneri lähenemine dokumentide korrastusele
 sidebar: false
 ogImage: "https://www.aligner.io/images/og_aligner.jpeg"
 description: "Aligner - approach to structural document management"

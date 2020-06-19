@@ -1,5 +1,5 @@
 ---
-title: Translate website in Aligner for free.
+title: Kuidas tõlkida tasuta veebileht
 sidebar: false
 ogImage: "../blog/image-computer.jpg"
 description: "Aligner - Translate website in Aligner for free"
