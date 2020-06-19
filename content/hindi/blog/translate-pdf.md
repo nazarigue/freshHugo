@@ -1,37 +1,37 @@
 ---
-title: Translate PDF file in Aligner for free
+title: मुक्त करने के लिए Aligner में पीडीएफ फाइल का अनुवाद करें
 date: 2020-06-02
 ogImage: https://www.aligner.io/images/pdf-aligner.jpeg
-description: "Aligner - Translate PDF file in Aligner for free"
+description: "Aligner - मुफ्त में Aligner में पीडीएफ फाइल का अनुवाद करें"
 sidebar: false
 sidebarlogo: aligner-new.svg
 image: "../images/pdf-aligner.jpeg"
 
 ---
-### PDF is one of the most popular file formats
+### पीडीएफ सबसे लोकप्रिय फ़ाइल स्वरूपों में से एक है
 
-PDF means a portable document format that was developed in the '90s by Adobe. Key-value of having PDF was to be able to share files without an editor and keep the formatting beautiful. 
+पीडीएफ का मतलब एक पोर्टेबल दस्तावेज़ प्रारूप है जिसे 90 के दशक में एडोब द्वारा विकसित किया गया था। पीडीएफ रखने का मुख्य मूल्य एक संपादक के बिना फ़ाइलों को साझा करने और प्रारूपण को सुंदर बनाए रखने में सक्षम होना था।
 
-Aligner now enables adding PDF files, and translating all the extracted text from your document into 140+ languages. Here's how it works: 
+Aligner अब PDF फ़ाइलों को जोड़ने और आपके दस्तावेज़ से सभी निकाले गए पाठ को 140+ भाषाओं में अनुवाद करने में सक्षम बनाता है। यहां देखिए यह कैसे काम करता है:
 
-### Uploading PDF to Aligner
+### संरेखित करने के लिए पीडीएफ अपलोड करना
 
-To upload PDF in Aligner, go do editor or "+ New Document" then drag and drop PDF file to the area.
+एलिग्नर में पीडीएफ अपलोड करने के लिए, संपादक या "+ नया दस्तावेज़" पर जाएं फिर पीडीएफ फाइल को क्षेत्र में खींचें और छोड़ें।
 
 ![](../aligner-pdf.gif)
 
-### Adding a language
+### भाषा जोड़ना
 
-When you have text extracted from PDF file, click on "Translate" and choose Machine Translate. As the next step choose a language you need it to be translated into.
+जब आपके पास पीडीएफ फाइल से निकाला गया टेक्स्ट हो, तो "ट्रांसलेट" पर क्लिक करें और मशीन ट्रांसलेट चुनें। अगले चरण के लिए एक ऐसी भाषा का चयन करें, जिसका आपको अनुवाद करने की आवश्यकता हो।
 
 ![](../aligner-add-language.gif)
 
-### When you're done with translation use export PDF from Aligner
+### जब आप Aligner से अनुवाद उपयोग निर्यात PDF के साथ कर रहे हैं
 
-Export back to PDF if needed. Click on "Actions" and choose "Preview PDF". Active editing language will appear as a PDF.
+यदि आवश्यक हो तो पीडीएफ को वापस निर्यात करें। "कार्रवाई" पर क्लिक करें और "पूर्वावलोकन पीडीएफ" चुनें। सक्रिय संपादन भाषा एक पीडीएफ के रूप में दिखाई देगी।
 
 ![](../aligner-export-pdf.gif)
 
-Now it's your turn to upload PDFs and translate them into different languages. In addition to Machine Translation, we provide a pool of freelance translators, so if you need external help, it's there for you. To see the price quote and delivery time, select "Human Translation" and if all sounds great for you, confirm your order online.
+अब पीडीएफ अपलोड करने और उन्हें विभिन्न भाषाओं में अनुवाद करने की आपकी बारी है। मशीन अनुवाद के अलावा, हम फ्रीलान्स अनुवादकों का एक पूल प्रदान करते हैं, इसलिए यदि आपको बाहरी सहायता की आवश्यकता है, तो यह आपके लिए है। मूल्य उद्धरण और वितरण समय देखने के लिए, "मानव अनुवाद" का चयन करें और यदि सभी आपके लिए बहुत अच्छा लगता है, तो ऑनलाइन अपने आदेश की पुष्टि करें।
 
-[Start translating for free here](https://app.aligner.io)!
+[यहां मुफ्त में अनुवाद करना शुरू करें](https://app.aligner.io)!
