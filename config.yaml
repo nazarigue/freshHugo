@@ -467,7 +467,8 @@ Languages:
     home: Kodu
     languageCode: hi
     languageName: Hindi
-    weight: 2
+    weight: 2    
+    moreBtn: अधिक पढ़ें
   et:
     contentDir: content/estonian
     home: Kodu
