@@ -451,7 +451,8 @@ params:
   caseBtn:  Read case study
   latestTitle: Latest Blog
   moreBtn: Read More
-  checkBlog: Check out our blog
+  checkBlog: Check out our blog  
+  checkBlogUrl: "/blog"
 
 
 ################################### English language #####################################
@@ -469,6 +470,8 @@ Languages:
     languageName: Hindi
     weight: 2    
     moreBtn: अधिक पढ़ें
+    checkBlog: Check out our blog  
+    checkBlogUrl: "/hi/blog/"
   et:
     contentDir: content/estonian
     home: Kodu
@@ -817,3 +820,4 @@ Languages:
       latestTitle: Blogi
       moreBtn: Vaata rohkem
       checkBlog: Uurige meie blogi
+      checkBlogUrl: "/et/blog/"

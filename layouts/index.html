@@ -56,8 +56,12 @@
       <div class="columns">
         <div class="column is-full has-text-centered mt-20">          
         <p>
-          <a class="button cta secondary-btn  btn-aligner rounded" href="/blog">
+          
+          {{ $pageLang := .Page.Lang}}
+          <a class="button cta secondary-btn  btn-aligner rounded" href='{{.Site.Params.checkBlogUrl}}'>
             {{ .Site.Params.checkBlog  }}  
+
+
           </a>
           </p>
         </div>
