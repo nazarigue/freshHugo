@@ -1,8 +1,8 @@
 ---
-title: Aviation technology on a scale 
+title: एक पैमाने पर विमानन प्रौद्योगिकी 
 date: 2020-04-02
 ogImage: "https://www.aligner.io/images/case/avia.jpeg"
-description: "Aligner - Aviation technology on a scale"
+description: "एलाइनर - एक पैमाने पर विमानन प्रौद्योगिकी"
 sidebar: false
 sidebarlogo: aligner-new.svg
 image: ../images/case/avia.jpeg
@@ -11,31 +11,31 @@ draft: false
 ---
 
 
-## Aviatech using Aligner in Aviation hangars industry
+## एविएशन हैंगर उद्योग में एलाइनर का उपयोग करते हुए एविएटेक
 
-Aviatech manufactures custom-built inflatable structures. Environmentally friendly hangars leave no environmental footprint to surrounding nature after their customers move their facilities. The reinforced PVC materials used in production are fully recyclable and reusable.
-
-
-
-They offer comprehensive solutions across different industries, including construction, oil & gas, mining, aviation, and defense. their portfolio counts over 250 successfully executed **projects all over the world**, covering most terrains and climatic zones.
+Aviatech कस्टम-निर्मित inflatable संरचनाओं का निर्माण करता है। पर्यावरण के अनुकूल हैंगर अपने ग्राहकों को उनकी सुविधाओं को स्थानांतरित करने के बाद आसपास के प्रकृति के लिए कोई पर्यावरणीय पदचिह्न नहीं छोड़ते हैं। उत्पादन में प्रयुक्त प्रबलित पीवीसी सामग्री पूरी तरह से पुन: प्रयोज्य और पुन: प्रयोज्य है।
 
 
 
-### Challenge
-
-As the team behind Aviatech provides warehousing facilities for a broad array of industries across the world, they communicate their value proposition in a variety of languages. Their **website is in 5 languages** and communication with customers even in more languages. Aviatech is **active in Europe, Middle-East as well as Asia, and Africa**. Well-translated content is an important aspect of the sales process. Aviatech team was looking for a translation tool to maximize the efficiency of the process when working with their multilingual content. 
+वे निर्माण, तेल और गैस, खनन, विमानन और रक्षा सहित विभिन्न उद्योगों में व्यापक समाधान प्रदान करते हैं। 250 से अधिक सफलतापूर्वक निष्पादित किए गए उनके पोर्टफोलियो की गणना की जाती है **दुनिया भर में**, अधिकांश इलाकों और जलवायु क्षेत्रों को कवर करते हुए।
 
 
 
-> “I’ve translated 100+ of files in Aligner by using machine translation and very convenient parallel editor. Translating is now an exciting task!”  **Berkay Ergintan - Regional Manager**
+### चुनौती
+
+जैसे ही एवेटेक के पीछे की टीम दुनिया भर में उद्योगों की एक विस्तृत सरणी के लिए भंडारण की सुविधा प्रदान करती है, वे विभिन्न भाषाओं में अपने मूल्य प्रस्ताव का संचार करते हैं। उनकी **वेबसाइट 5 भाषाओं में है** और अधिक भाषाओं में भी ग्राहकों के साथ संचार। Aviatech **यूरोप, मध्य-पूर्व के साथ-साथ एशिया और अफ्रीका** में सक्रिय है। अच्छी तरह से अनुवादित सामग्री बिक्री प्रक्रिया का एक महत्वपूर्ण पहलू है। Aviatech टीम अपने बहुभाषी सामग्री के साथ काम करते समय प्रक्रिया की दक्षता को अधिकतम करने के लिए एक अनुवाद उपकरण की तलाश में थी।
 
 
 
-## Why and how Aligner is used:
+> “मैंने मशीन ट्रांसलेशन और बहुत सुविधाजनक समानांतर संपादक का उपयोग करके एलिग्नर में 100+ फ़ाइलों का अनुवाद किया है। अनुवाद करना अब एक रोमांचक काम है! ” **बर्कए एर्गिंटन - क्षेत्रीय प्रबंधक**
 
-Aligner is used because it helps Aviatech to translate and publish content in English, French and Turkish **much faster compared to Google Translate and traditional translation flow**. Translating and keeping web content aligned in different languages is now much easier and well-organized. 
-> *We keep on discovering new features and Aligner just keeps opening up new opportunities for us*.  
 
-Aligner team thanks Aviatech for the collaboration!
 
-Read more about [Aviatech](http://aviatech.com/ "Aviatech").
+## Aligner का उपयोग क्यों और कैसे किया जाता है:
+
+Aligner का उपयोग किया जाता है क्योंकि यह Aviatech को Google अनुवाद और पारंपरिक अनुवाद प्रवाह **की तुलना में अंग्रेजी, फ्रेंच और तुर्की** में सामग्री का अनुवाद और प्रकाशित करने में मदद करता है। वेब सामग्री को विभिन्न भाषाओं में संरेखित करना और रखना अब बहुत आसान और सुव्यवस्थित है।
+> *हम नई सुविधाओं की खोज करते रहते हैं और एलाइनर हमारे लिए नए अवसरों को खोलते रहते हैं।*  
+
+सहयोगी टीम ने सहयोग के लिए Aviatech को धन्यवाद दिया!
+
+पर और अधिक पढ़ें [Aviatech](http://aviatech.com/ "Aviatech").
