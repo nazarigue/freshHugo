@@ -1,5 +1,5 @@
 ---
-title: Becoming productive by shifting out from the email.
+title: Välju e-postist ja ole produktiivsem
 date: 2020-04-02
 ogImage: "https://www.aligner.io/images/og_aligner.jpeg"
 description: "Aligner - Becoming productive by shifting out from the email"

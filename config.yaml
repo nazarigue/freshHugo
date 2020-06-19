@@ -490,7 +490,7 @@ Languages:
           - 600
       hero:
         title: Looge ja jagage sisu mitmes keeles. Sujuvalt.
-        subtitle: Tasuta mitmekeelse sisu halduse platvorm
+        subtitle: Tasuta mitmekeelse sisu töötluse platvorm
         buttontext: Alusta siin →
         buttonlink: https://app.aligner.io
         buttontext2: null
@@ -548,7 +548,7 @@ Languages:
             btnURL: ""
       froalaDesign:
         enable: true
-        title: Mitmekeelse dokumendiga töötamine on nüüd lihtne.
+        title: Tööta dokumentidega omas keeles.
         subtitle: Loodud turundajatele ja sisuloojatele.
         features:
           - title: Muutke kõiki keeli korraga
@@ -567,13 +567,13 @@ Languages:
             text: Ühendage oma dokumendid Google Docs või teiste süsteemidega ning jätkake oma tööprotsesse tavapäraselt.
             image: /images/flags-illustration.svg
             alt: Pidevalt osa teie töövoogudest
-            btnText: Google'i dokumentide sünkroonimine →
+            btnText: Google'i dokumentidega ühendamine →
             btnURL: https://app.aligner.io
           - title: Rohkem selgust, kiirem tulemus
             text: Aligner aitab korraldada kõikide osapoolte vahelist suhtlust ja teavitab kõikidest uuendustest.
             image: /images/version-control.svg
             alt: Rohkem selgust, kiirem suhtlus
-            btnText: Kasutage Alignert kohe →
+            btnText: Kasutage Alignerit kohe →
             btnURL: https://app.aligner.io
       pricing:
         enable: true
@@ -586,12 +586,12 @@ Languages:
             price: 9 eurot kuus
             icon: /images/plane.svg
             alt: Premium
-            heighlight: Laiendatud fukntsionaalsus
+            heighlight: Laiendatud funktsionaalsus
             btnText: Lisateave
             btnKlass: "btn-aligner rounded"
             btnURL: /et/plaanid
             features:
-              - text: Kahekordne toimetaja
+              - text: Tekstitöötlus
               - text: Google Drive'i integratsioonid
               - text: Dokumentide eksport
               - text: Valikuline masintõlge
@@ -599,12 +599,12 @@ Languages:
             price: TASUTA
             icon: /images/hot-air-balloon.svg
             alt: Freemium
-            heighlight: Põhifuktsioonid mis lihtsustavad teie tööd
+            heighlight: Põhifunktsioonid
             btnText: Alusta siin
             btnURL: https://app.aligner.io
             btnKlass: "btn-aligner rounded"
             features:
-              - text: Peegelredaktor
+              - text: Tekstitöötlus
               - text: Piiratud masintõlge
               - text: Piiramatu jagamine
               - text: Wordi ja PDF-i import
@@ -739,10 +739,10 @@ Languages:
             icon: /images/css.svg
           - title: HTML-põhine
             text: Kasutage tuntud veebikomponente
-            icon: /kujutised/html.svg
+            icon: /images/html.svg
           - title: Koostöö
             text: Kutsuge kolleege, tõlke, korrektorit
-            icon: /kujutised/kollaboraat-omadused.png
+            icon: /images/collaborate-features.png
           - title: PDF eksport
             text: Dokument valmis printimiseks .
             icon: /images/pdf-translate.svg

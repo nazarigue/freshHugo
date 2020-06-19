@@ -1,5 +1,5 @@
 ---
-title: Manage food menus in multiple languages in Aligner.
+title: Korralda toidumenüüd mitmes keeles Aligneris
 description: "Aligner - Manage food menus in multiple languages in Aligner"
 sidebar: false
 ogImage: "https://www.aligner.io/images/og_aligner.jpeg" 
