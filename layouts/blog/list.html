@@ -22,7 +22,7 @@
                         <p class="has-text-dark">{{.Summary | safeHTML | truncate 100}}</p>                        
                         <a href="{{.Permalink}}">
                             <span class="button signup-button rounded secondary-btn btn-aligner ">
-                            Read More →
+                              {{.Site.Params.moreBtn}}  →
                             </span>
                         </a>
                     </div>
