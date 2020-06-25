@@ -9,6 +9,12 @@
 <meta property="og:image" content="{{ if .Params.ogImage }} {{.Params.ogImage}} {{else }} https://www.aligner.io/images/og_aligner.png {{end}}">
 <meta property="og:url" content="https://www.aligner.io">
 <meta name="ahrefs-site-verification" content="494192760e3e8abd076de384e0a621ab5c38b76ec08b40844808ce5d998b7c5d">
+
+{{ range .Site.Languages }}
+   
+    <link rel="alternate" hreflang="{{.}}" href="{{ $.Site.BaseURL }}{{.}}/" />
+    
+{{ end }}
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
