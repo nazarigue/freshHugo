@@ -1,150 +1,154 @@
 ---
-title: Terms of Use
+title: Kasutustingimused
 ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-description: "Aligner - Terms of Use"
+description: "Aligner - Kasutustingimused"
+url: /et/kasutustingimused
 include_footer: true
 
 ---
-### Introduction
 
-Thanks for using Aligner!
-We help companies to keep their multilingual content easily up to date and therefore spread your word much faster.
+### Sissejuhatus
 
-Following we describe how the terms of service (“Terms”) cover your use and access to our services, software and websites ("Services"). Despite of the reside your agreement is with Aligner OÜ Company.
+Täname teid Aligneri kasutamise eest!
 
-By using our Services, you’re agreeing to be bound by these Terms, Refund Policy, Delivery Policy and our Privacy Policy. If you’re using our Services for an organization, you’re agreeing to these Terms on behalf of that organization.
+Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti ajakohasena ja levitame teie sõna seetõttu palju kiiremini.
 
-### Permissions
+Järgnevalt kirjeldame, kuidas teenusetingimused (“Tingimused”) hõlmavad teie kasutamist ja juurdepääsu meie teenustele, tarkvarale ja veebisaitidele (“Teenused”). Vaatamata elukohale on teie leping sõlmitud Aligner OÜ Company-ga.
 
-When you use our Services, you upload or add your files, content, messages, contacts (“Your Items”). Your Items are yours. These Terms don’t give us any rights to Your Items except for the limited rights that enable us to offer the Services.
+Meie teenuseid kasutades nõustute järgima neid tingimusi, tagasimakse poliitikat, kohaletoimetamise poliitikat ja meie privaatsuseeskirju. Kui kasutate meie teenuseid organisatsiooni jaoks, nõustute nende organisatsiooni nimel nende tingimustega.
 
-We need your permission to do things like hosting Your Items, backing it up, and sharing it when you ask us to. Our Services also provide you with features like document sharing, commenting, easy sorting, editing, and searching. These and other features may require our systems to access, store, and scan Your Items. You give us permission to do those things, and this permission extends to our affiliates and trusted third parties we work with.
+### Õigused
 
-We use Cloud Machine Learning API and Translation API by Google to provide certain features of the Service, and, thus, we are contractually obligated to make our users aware of certain terms related to the use of such features. Therefore, you acknowledge and agree that by signing up for an account and using the Service, you are also bound by the Google Terms of Service (including the Google Privacy Policy).
+Kui kasutate meie teenuseid, laadite üles või lisate oma faile, sisu, sõnumeid, kontakte („Teie üksused”). Teie esemed on teie oma. Need tingimused ei anna meile teie esemetele mingeid õigusi, välja arvatud piiratud õigused, mis võimaldavad meil teenuseid pakkuda.
 
-Our Services let you share Your Items with others and collaborate with the third parties at your command, so please think carefully about what you share and with whom. We aren’t responsible for the behavior of any third parties, partners either linked websites.
+Vajame teie luba, et teha selliseid asju nagu teie üksuste hostimine, varundamine ja jagamine, kui te seda küsite. Meie teenused pakuvad teile ka selliseid funktsioone nagu dokumentide jagamine, kommenteerimine, lihtne sortimine, redigeerimine ja otsimine. Need ja muud funktsioonid võivad vajada meie süsteemide juurdepääsu teie üksustele, nende salvestamiseks ja skannimiseks. Sa annad meile loa nende toimingute tegemiseks ja see luba laieneb meie sidusettevõtetele ja usaldusväärsetele kolmandatele isikutele, kellega me koostööd teeme.
 
-Terms, we give you a limited, non-exclusive, non-transferable, revocable license to use the Software, solely to access the Services.
+Kasutame teenuse Google'i teenuse Cloud Machine Learning API ja tõlke API-sid, et pakkuda teenuse teatud funktsioone, ning seetõttu oleme lepinguliste kohustustega teavitada oma kasutajaid teatavatest selliste funktsioonide kasutamisega seotud tingimustest. Seetõttu tunnistate ja nõustute, et kontole registreerumisel ja teenuse kasutamisel seote teid ka Google'i teenusetingimustega (sealhulgas Google'i privaatsuseeskirjadega).
 
-### Responsibilities
+Meie teenused võimaldavad teil jagada oma esemeid teistega ja teha teie käsul koostööd kolmandate osapooltega, seega mõelge hoolikalt läbi, mida ja kellega jagate. Me ei vastuta ühegi kolmanda osapoole käitumise eest, partnerid on kas linginud veebisaidid.
 
-You’re responsible for keeping your user account name and password confidential. You’ll have to immediately notify us of any unauthorized access or use of your accounts.
-Please don’t copy, upload, download, or share content unless you have the right to do so.
-Some parts of our Services might be protected by intellectual property rights.
-We may review your conduct and content for compliance with these Terms. With that said, we have no obligation to do so. We aren’t responsible for the content people post and share via the Services.
+Tingimustega anname teile piiratud, mitteeksklusiivse, mitte üleantava ja tühistatava litsentsi tarkvara kasutamiseks ainult teenustele juurdepääsu saamiseks.
 
-You’re also responsible for determining whether our Services are suitable for you to use considering your obligations under any regulations like HIPAA, GLB, EU data privacy laws (including the General Data Protection Regulation) (collectively, “EU Data Privacy Laws”), United States export control laws and regulations and economic sanctions laws and regulations (“U.S. Export Control Laws and Regulations”), or other applicable laws.
+### Kohustused
 
-You may use our Services only as permitted by applicable law, including export control laws and regulations. To use our Services, you must be at least 13, or in some cases, even older. If you live in Ireland, Germany, or the Netherlands, you must be at least 1 Please check your local law for the age of digital consent. If you don’t meet these age requirements, you may not use the Services.
+Teie vastutate oma kasutajakonto nime ja parooli konfidentsiaalse hoidmise eest. Peate meile viivitamatult teatama oma kontode loata juurdepääsu või kasutamise kohta.
 
-The Terms will continue for as long as you have a Service account or until you or we terminate the Agreement in accordance with these Terms, whichever happens first.
+Ärge kopeerige, laadige üles, laadige alla ega jagage sisu, välja arvatud juhul, kui teil on selleks õigus.
 
-### Beta testing
+Mõnda meie teenuse osa võib kaitsta intellektuaalomandi õigused.
 
-We sometimes release products and features that we are still testing and evaluating. Those Services have been marked beta, preview, early access, or evaluation (or with words or phrases with similar meanings) and may not be as reliable as Aligner’s other services, so please keep that in mind.
+Võime teie käitumise ja sisu üle vaadata nende tingimuste järgimise osas. Seda öeldes ei ole meil mingit kohustust seda teha. Me ei vastuta sisu eest, mida inimesed teenuste kaudu postitavad ja jagavad.
 
-​
+Samuti vastutate teie otsustamise eest, kas meie teenused sobivad teie kasutamiseks, arvestades teie kohustusi, mis tulenevad sellistest määrustest nagu HIPAA, GLB, EL-i andmekaitse seadused (sealhulgas üldine andmekaitse määrus) (koos „EL-i andmete privaatsuse seadused“), Ameerika Ühendriikide ekspordikontrolli seadused ja määrused ning majandussanktsioonide seadused ja määrused (“USA ekspordikontrolli seadused ja määrused”) või muud kohaldatavad seadused.
 
-### Intellectual property and copyright
+Võite meie teenuseid kasutada ainult kohaldatavate seaduste, sealhulgas ekspordikontrolli seaduste ja määruste kohaselt. Meie teenuste kasutamiseks peate olema vähemalt 13-aastane või mõnel juhul isegi vanem. Kui elate Iirimaal, Saksamaal või Hollandis, peate olema vähemalt 1 Palun kontrollige digitaalse nõusoleku vanuse osas oma kohalikke seadusi. Kui te ei vasta nendele vanuse nõuetele, ei pruugi te teenuseid kasutada.
 
-The Services are protected by copyright, trademark, and other EU and foreign laws. These Terms don’t grant you any right, title, or interest in the Services, others’ content in the Services, Aligner trademarks, logos and other brand features. We welcome feedback but note that we may use comments or suggestions without any obligation to you.
+Tingimused kehtivad seni, kuni teil on teenuskonto või kuni teie lõpetame lepingu vastavalt käesolevatele tingimustele, olenevalt sellest, kumb juhtub varem.
 
-We respect the intellectual property of others and ask that you do too. You may not distribute, exchange, modify, sell or transmit anything you copy from our Services, including but not limited to any text, images, audio, and video, for any business, commercial or public purposes. We reserve the right to delete or disable content alleged to be infringing and terminate accounts of repeat infringers.
+### Beetatestid
 
-### Paid Accounts and Services
+Mõnikord anname välja tooteid ja funktsioone, mida alles katsetame ja hindame. Need teenused on tähistatud beetaversioonina, eelvaatena, varase juurdepääsuga või hindamisega (või sarnaste tähendustega sõnade või fraasidega) ja need ei pruugi olla nii usaldusväärsed kui Aligneri muud teenused, seega pidage seda meeles.
 
-You can widen your scope of work by adding paid features to your account (turning your account into a "Paid Account" or by ordering “Translation Services”).
 
-Ordering of the Translation Services can be executed after the content upload or creation within app.aligner.io.
+### Intellektuaalomand ja autoriõigused
 
-Order will be formed after selecting the target language, Translation Service level and delivery time. Order will be confirmed after the successful payment.  The Pricing structure described in the following chapter.
+Teenused on kaitstud autoriõiguse, kaubamärgi ning muude EL ja välismaiste seadustega. Need tingimused ei anna teile õigusi, pealkirju ega huvi teenuste, teiste teenuste sisu, Aligneri kaubamärkide, logode ja muude kaubamärgiomaduste vastu. Me tervitame tagasisidet, kuid pange tähele, et võime kasutada kommentaare või ettepanekuid ilma mingite kohustusteta teie ees.
 
-### Ordering Process
+Austame teiste intellektuaalset omandit ja palume ka teil seda teha. Te ei tohi levitada, vahetada, muuta, müüa ega edastada meie teenustest kopeeritud asju, sealhulgas, kuid mitte ainult, teksti, pilte, heli ja videot, ärilisel, ärilisel või avalikel eesmärkidel. Jätame endale õiguse kustutada või keelata väidetavalt rikkuv sisu ja lõpetada korduvate rikkujate kontod.
 
-The process of ordering Services contains the following actions:
+### Tasulised kontod ja teenused
 
-a) upload or creating of the text-content in Aligner
+Oma töö ulatust saate laiendada, lisades oma kontole tasulisi funktsioone (muutes oma konto tasuliseks kontoks või tellides tõlketeenused).
 
-b) choice of the target language(s)
+Tõlketeenuseid saab tellida pärast sisu üleslaadimist või loomist saidil app.aligner.io.
 
-c) instant word-count
+Tellimus vormistatakse pärast sihtkeele, tõlketeenuse taseme ja tarneaja valimist. Tellimus kinnitatakse pärast edukat makset. Järgmises peatükis kirjeldatud hinnastruktuur.
 
-d) instant delivery time and price quote for the Translation Service
+### Tellimisprotsess
 
-e) selection of the suitable Translation Service and delivery time or cancellation of the quote
+Teenuste tellimise protsess sisaldab järgmisi toiminguid:
 
-f) in case of selecting the suitable Translation Service you'll be automatically directed to "Orders" page that contains the details of your order, such as name of the document being translated, language selection "From and To", delivery time, a price that includes all applicable taxes,  currency (euro) and terms of use, Delivery Policy and Refund Policy.
+a) teksti sisu üleslaadimine või loomine Aligneris
 
-g) Reading and accepting the Terms of Use, Refund Policy, and Delivery Policy and confirming the order
+b) sihtkeele (keelte) valik
 
-h) Proceeding to the payment execution
+c) kohene sõnaarvestus
 
-i) Once payment is successful, the Translation Service is activated and executed within the delivery time
+d) tõlketeenuse viivitamatu kohaletoimetamise aeg ja hinnapakkumine
 
-j) The user receives a notification once the  Translation Service is delivered and can be downloaded from app.aligner.io
+e) sobiva tõlketeenuse valimine ja kohaletoimetamise aeg või pakkumise tühistamine
 
-k) All the receipts are being available on the "Orders" page within app.aligner.io
+f) sobiva tõlketeenuse valimisel suunatakse teid automaatselt lehele "Tellimused", mis sisaldab teie tellimuse üksikasju, näiteks tõlgitava dokumendi nimi, keelevalik "Alates ja saaja", tarneaeg, hind, mis sisaldab kõiki kohaldatavaid makse, valuutat (eurot) ja kasutustingimusi, tarne- ja tagasimaksepoliitikat.
 
-### Pricing Structure
+g) Kasutustingimuste, tagasimaksepoliitika ja tarnepoliitika tutvumine ja nendega nõustumine ning tellimuse kinnitamine
 
-For the Translation Services, the user will be asked to confirm the quote and accept the Terms and Conditions prior to processing the Order. The quote is made instantly based on the amount of words, source and target languages, delivery date and desired quality of translations.
+h) makse täitmise jätkamine
 
-Translation Services indicative pricing is publicly available on our Website.
+i) Kui makse on edukas, aktiveeritakse ja täidetakse tõlketeenus kättetoimetamise aja jooksul
 
-We may change the fees in effect but will give you advance notice of these changes via a message to the email address associated with your account.
+j) Pärast tõlketeenuse osutamist saab kasutaja sellekohase teatise ja selle saab alla laadida saidilt app.aligner.io
 
-​
+k) Kõik kviitungid on saadaval rakenduse app.aligner.io lehel „Tellimused”
 
-Quoted fees include applicable taxes and payment processing fees.
+### Hinnakujunduse struktuur
 
-### Payment Methods
+Tõlketeenuste puhul palutakse kasutajal enne tellimuse töötlemist kinnitada pakkumine ja nõustuda tingimustega. Pakkumine tehakse koheselt vastavalt sõnade hulgale, lähte- ja sihtkeeltele, tarnekuupäevale ja soovitud tõlgete kvaliteedile.
 
-All transactions are executed in EUR (euro).
+Tõlketeenuste soovituslikud hinnad on avalikult saadaval meie veebisaidil.
 
-Provided payment methods include MasterCard, Maestro and/or VISA cards.
+Võime kehtivaid tasusid muuta, kuid teatame teile nendest muudatustest eelnevalt, teatades oma kontoga seotud e-posti aadressile.
 
-Aligner OÜ also enables payments via bank links actively used in Finland, Estonia, Latvia, and Lithuania.
 
-Payment methods are provided in cooperation with Maksekeskus AS.
+Noteeritud tasud sisaldavad kehtivaid makse ja makse töötlemise tasusid.
 
-### Refunds
+### Makseviisid
 
-If not satisfied with the quality of the provided Translation Service, we will do our best to provide you a new delivery of the Translation Services. We may offer a full refund if a user requests one. Please follow the procedure described in the Refund Policy.
+Kõik tehingud teostatakse eurodes (eurodes).
 
-### Identification
+Pakutavate makseviiside hulka kuuluvad MasterCard, Maestro ja / või VISA kaardid.
 
-Upon establishment of a business relationship, We and/or the Payment Institution are obliged to identify the user. The method used by us and/or the Payment Institution for identifying a user can vary based on requirements stemming from the jurisdiction existing in the country where the user concludes the business relationship with us (e.g. online identification, face-to-face identification).
+Aligner OÜ võimaldab makseid ka pankade linkide kaudu, mida kasutatakse aktiivselt Soomes, Eestis, Lätis ja Leedus.
 
-The user is obligated to submit to us any data and documents requested for identification reasons. If we have any doubts about the veracity of the user’s data or documents, then we may ask the user to specify its data, provide additional information or documentation needed to duly prove its identity, or if necessary, to re-do the identification process.
+Makseviisid pakutakse koostöös Maksekeskus AS-iga.
 
-By confirming the Terms, the Customer gives to us an irrevocable right to provide information and data (related to identification and authentication) about the user in any format to the Payment Institution.
+### Tagasimaksed
 
-Because of security and legal reasons we do not store or process bank and credit card details of the user itself. We have a right to change or add Payment institutions in cooperation with payment solutions are provided.
+Kui te pole pakutud tõlketeenuse kvaliteediga rahul, anname endast parima, et pakkuda teile tõlketeenused uuesti. Kui kasutaja seda soovib, võime pakkuda täielikku tagasimakset. Järgige tagasimaksepoliitikas kirjeldatud protseduuri.
 
-### Organization Accounts
+### Identifitseerimine
 
-If you sign up for our Services with an email address provisioned by your organization and use Services to improve the workflows of your organization, be aware that your organization may be able to block your access to Aligner. You must use it in compliance with your organization's terms and policies. Please note that such accounts are subject to your organization's control. Your administrators may be able to access, disclose, restrict, or remove information in or from your Aligner account. They may also be able to restrict or terminate your access to Aligner.
-The organization accounts have owners and administrator(s), who must act in accordance with Roles and Permissions in Aligner (under your account Settings).
+Ärisuhte loomisel oleme meie ja / või makseasutus kohustatud kasutaja tuvastama. Meie ja / või makseasutuse kasutatav meetod kasutaja tuvastamiseks võib varieeruda sõltuvalt nõuetest, mis tulenevad selle riigi jurisdiktsioonist, kus kasutaja meiega ärisuhte sõlmib (nt võrgutuvastus, näost näkku tuvastamine).
 
-### Termination
+Kasutaja on kohustatud esitama meile kõik tuvastamise huvides nõutavad andmed ja dokumendid. Kui meil on kahtlusi kasutaja andmete või dokumentide õigsuses, võime paluda kasutajal täpsustada oma andmed, esitada lisateavet või dokumentatsiooni, mis on vajalik tema identiteedi nõuetekohaseks tõestamiseks või vajadusel tuvastamisprotsessi uuesti teha.
 
-You’re free to stop using our Services at any time. We reserve the right to suspend or terminate your access to the Services with notice to you if:
+Tingimuste kinnitamisega annab klient meile tühistamatu õiguse edastada makseasutusele kasutaja kohta teavet ja andmeid (tuvastamise ja autentimisega) mis tahes vormis.
 
-you’re in breach of these Terms,
-you’re using the Services in a manner that would cause a real risk of harm or loss to us or other users, or
+Turvalisuse ja juriidiliste põhjuste tõttu ei salvesta ega töötle me kasutaja enda panga- ja krediitkaardiandmeid. Meil on õigus makseasutusi muuta või lisada koostöös pakutavate makselahendustega.
 
-you don’t have a Paid Account and haven't accessed our Services for 12 (twelve) consecutive months.
+### Organisatsiooni kontod
 
-### Discontinuation of Services
+Kui registreerute meie teenuste jaoks oma organisatsiooni e-posti aadressiga ja kasutate teenuseid oma organisatsiooni töövoogude parandamiseks, pidage meeles, et teie organisatsioon võib blokeerida teie juurdepääsu Alignerile. Peate seda kasutama vastavalt oma organisatsiooni tingimustele ja poliitikale. Pange tähele, et sellised kontod on teie organisatsiooni kontrolli all. Teie administraatoritel võib olla juurdepääs teie Aligneri konto teabele, selle avaldamiseks, piiramiseks või eemaldamiseks. Samuti võivad nad olla võimelised teie juurdepääsu Alignerile piirama või lõpetama.
 
-We may decide to discontinue the Services in response to unforeseen circumstances beyond Aligner’s control or to comply with a legal requirement. If we do so, we’ll give you reasonable prior notice so that you can export Your Items from our systems. If we discontinue Services in this way before the end of any fixed or minimum term you have paid us for, we’ll refund the portion of the fees you have pre-paid but haven't received Services for.
+Organisatsiooni kontodel on omanikud ja administraatorid, kes peavad tegutsema vastavalt joondaja rollidele ja õigustele (teie konto seadetes).
 
+### Lõpetamine
 
+Võite meie teenuste kasutamise igal ajal lõpetada. Jätame endale õiguse peatada või lõpetada teie juurdepääs teenustele, teatades teile sellest, kui:
 
-### Resolving Disputes
+- rikute neid tingimusi,
 
-We want to address your concerns without needing a formal legal case. Before filing a claim against Aligner, you agree to try to resolve the dispute informally by contacting feedback@aligner.io. We’ll try to resolve the dispute informally by contacting you via email. If a dispute is not resolved within 30 (thirty) days of submission, you or Aligner may bring a formal proceeding.
+- kasutate Teenuseid viisil, mis tekitaks meile või teistele kasutajatele reaalse kahju või kaotuse riski, või
 
-You and Aligner agree that any judicial proceeding to resolve claims relating to these Terms or the Services will be brought in the administration of justice in civil matters, federal or state courts of Estonia. Both you and Aligner consent to venue and personal jurisdiction in such courts. If you reside in a country (for example, United States of America) with laws that give consumers the right to bring disputes in their local courts, this paragraph doesn’t affect those requirements.
+- teil pole tasulist kontot ja te pole 12 (kaheteistkümne) kuu jooksul järjest meie teenustega pääsenud.
 
-You and Aligner agree that any dispute arising from the relationships between the parties to this contract shall be determined by one arbitrator who will be chosen in accordance with the Arbitration and Internal Rules of the European Court of Arbitration being part of the European Centre of Arbitration having its seat in Strasbourg, and which are in force at the time the application for arbitration is filed, and of which adoption of this clause constitutes acceptance. The seat of arbitration shall be the Arbitration Court of the Estonian Chamber of Commerce and Industry. The language of the proceedings shall be English. The substantive rules of Estonian law will be applied.
+### Teenuste katkestamine
+
+Võime otsustada teenuste katkestamise reageerida ettenägematutele asjaoludele, mida Aligner ei saa mõjutada, või täita juriidilisi nõudeid. Kui teeme seda, anname teile mõistliku eelteate, et saaksite oma üksused meie süsteemidest eksportida. Kui me katkestame Teenused sel viisil enne mis tahes tähtajalise või minimaalse tähtaja lõppu, mille eest olete meile tasunud, tagastame teile osa tasudest, mille olete ette maksnud, kuid mille eest te pole Teenuseid saanud.
+
+### Vaidluste lahendamine
+
+Tahame teie muredega tegeleda ilma ametlikku kohtuasja nõudmata. Enne Aligneri vastu nõude esitamist nõustute proovima vaidluse mitteametlikult lahendada, saates ühendust aadressil tagasiside@aligner.io. Püüame vaidluse mitteametlikult lahendada, võttes teiega e-posti teel ühendust. Kui vaidlust ei lahendata 30 (kolmekümne) päeva jooksul pärast selle esitamist, võite teie või Aligner algatada ametliku menetluse.
+
+Teie ja Aligner nõustute, et kõik käesolevate tingimuste või teenustega seotud nõuete lahendamise kohtumenetlused algatatakse õigusemõistmisel tsiviilasjades, Eesti föderaalses või osariigi kohtus. Nii teie kui ka Aligner nõustuvad kohtute toimumispaiga ja isikliku jurisdiktsiooniga. Kui elate riigis (näiteks Ameerika Ühendriikides), kus kehtivad seadused, mis annavad tarbijatele õiguse esitada vaidlusi oma kohalikes kohtutes, ei mõjuta see lõige neid nõudeid.
+
+Teie ja Aligner nõustute, et kõik käesoleva lepingu poolte suhetest tulenevad vaidlused lahendab üks vahekohtunik, kes valitakse vastavalt Euroopa Arbitraažikeskusesse kuuluva Euroopa Vahekohtu vahekohtu ja sisekorraeeskirjadele, kellel on mille asukoht on Strasbourg ja mis kehtivad vahekohtu taotluse esitamise ajal ja mille selle klausli vastuvõtmine kujutab endast aktsepteerimist. Vahekohtu asukoht on Eesti Kaubandus-Tööstuskoja Arbitraažikohus. Menetluse keel on inglise keel. Kohaldatakse Eesti õiguse materiaalõigusnorme.

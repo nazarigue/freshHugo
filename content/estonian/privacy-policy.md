@@ -1,183 +1,175 @@
 ---
-title: Privacy Policy
+title: Privaatsuspoliitika
 ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-description: "Aligner - Privacy Policy"
+description: "Aligner - Privaatsuspoliitika"
+url: /et/privaatsuspoliitika
 include_footer: true
 ---
 
-{{% title4 "1. Introduction" %}} 
+# Privaatsuspoliitika
 
+1. Sissejuhatus
 
-Thanks for using Aligner! We help companies to keep their multilingual content easily up to date and therefore spread your word much faster.
+Täname teid Aligneri kasutamise eest! Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti ajakohasena ja levitame teie sõna seetõttu palju kiiremini.
 
-Following we describe how we collect, use, and keep your data when you use our websites, software, and services (“Services”).
+Järgnevalt kirjeldame, kuidas me teie veebisaite, tarkvara ja teenuseid („Teenused”) kasutades kogume, kasutame ja säilitame teie andmeid.
 
-{{% title4 "2. What type of data do we collect?" %}}
+2. Millist tüüpi andmeid me kogume?
 
-We may collect and use the following data to provide, improve, and protect our Services:
-General information and contacts – we collect your name, address, date of birth, phone number, e-mail address, etc. and associate this data with your account;
+Oma teenuste osutamiseks, parendamiseks ja kaitsmiseks võime koguda ja kasutada järgmisi andmeid:
 
-Your Items – our Services enable you to manage your multilingual files, documents and other data (“Your Items”) and collaborate with others to achieve your goals. We protect Your Items as well as information related to it;
+Üldteave ja kontaktid - kogume teie nime, aadressi, sünnikuupäeva, telefoninumbri, e-posti aadressi jne ja seostame need andmed teie kontoga;
 
-Usage information – related to your usage pattern of the Services, for example, actions you take in your account (like sharing, editing, viewing, and moving files or folders) and use this to improve our Services and protect our users.
+Teie üksused - meie teenused võimaldavad teil hallata oma mitmekeelseid faile, dokumente ja muid andmeid (“Teie üksused”) ning teha oma eesmärkide saavutamiseks teistega koostööd. Kaitseme teie esemeid ja ka sellega seotud teavet;
 
-Device information – related to the devices you use to access the Services, including IP addresses, type of browser, the device you use, and so on.
+Kasutusteave - seotud teie teenuste kasutusharjumusega, näiteks toimingutega, mida teete oma kontol (nt failide või kaustade jagamine, muutmine, vaatamine ja teisaldamine) ja mida saate kasutada meie teenuste parendamiseks ja kasutajate kaitsmiseks.
 
-We also collect other types of information through cookies like browser information, time of visit, referring site etc. 
+Seadme teave - seotud seadmetega, mida kasutate teenustele juurdepääsuks, sealhulgas IP-aadressid, brauseri tüüp, kasutatav seade jne.
 
+Kogume küpsiste kaudu ka muud tüüpi teavet, näiteks brauseriteavet, külastuse aega, viidavat saiti jne.
 
+3. Kuidas kogume isikuandmeid?
 
-{{% title4 "3. How do we collect personal data?" %}}
+Isiklikku teavet võime koguda mitmel viisil, näiteks:
 
-We may collect personal information in a variety of ways, for example:
+Veebikanalid: võime koguda isiklikke andmeid oma digitaalkanalite kaudu, nt kui tellite uudiskirja, registreerute veebiseminariks, võtate meiega ühendust, laadite meie kanalitest sisu alla või registreerute teenuse kasutamiseks.
 
-Online channels: We may collect personal data through our Digital Channels, e.g., when you subscribe to a newsletter, register for a webinar, contact us, download content from our channels, or register to use a Service.
+Võrguühenduseta: võime koguda isikuandmeid, kui külastate meie boksi ühel üritusel, telefonikõnede ajal või kui võtate ühendust meie klienditeenindusega.
 
-Offline: We may collect personal data when you visit our booth at one of the events, during phone calls, or when you contact our customer service.
+Teave kolmandatelt osapooltelt: meie eesmärk on pakkuda teile asjakohast turundust, pakkumisi ja teenuseid, võime hankida teie kohta teavet kolmandatest allikatest.
 
-Information from third parties: we aim to provide relevant marketing, offers, and services to you, we may obtain information about you from third sources.
+4. Miks me teie andmeid kogume?
 
-{{% title4 "4. Why we collect your data?" %}}
+Kogume ülalkirjeldatud andmeid, et pakkuda teile Teenuseid usaldusväärsel ja turvalisel viisil, samuti meie õigustatud ärivajaduste jaoks.
 
-We collect the data described above to provide you with the Services in a reliable and secure manner, as well as for our legitimate business needs.
+Anname kasutajatele võimaluse kasutada mõnda meie teenust tasuta. Kui kasutate meie tasuta teenuseid, jätame endale õiguse saata teile teavet versiooniuuenduste ja plaanide kohta. Oma konto teatiste jaotises saate igal ajal loobuda.
 
-We give users the option to use some of our Services free of charge. In case you use our free Services, we leave the right to send you information about upgrades and plans. You can opt-out at any time in the notifications section of your account.
+Võime koguda ja jagada teie isikuandmeid teiste ettevõtetega järgmistel eesmärkidel:
 
-We may collect and share your personal data with other companies for the purposes of:
+meie lepinguliste ja kehtivate seaduste ning reguleerivate asutuste kehtestatud kohustuste täitmine;
 
-performing our contractual obligations and the obligations set forth by applicable law and regulatory authorities;
+täiustada oma kasutajakogemust ja pakkuda teile kasutajasõbralikumaid teenuseid;
 
-enhance your user experience and provide you with more user-friendly services;
+juurdepääsu pakkumine ja haldamine teie poolt soovitud teenustele;
 
-providing and administering access to services that you have requested;
+klienditeeninduse küsimustele vastamine ja vigade parandamine;
 
-answering customer service matters and correcting mistakes;
+isikupärastatud pakkumiste, soovituste ja reklaamide pakkumine teie andmete põhjal;
 
-providing personalized offerings, recommendations, and advertisements based on data we have about you;
+turusuundumuste ja tulevaste nõudmiste analüüsimine;
 
-analyzing market trends and future demands;
+meie kanalite erinevat tüüpi kuritarvitamise vältimiseks, piiramiseks ja uurimiseks.
 
-to prevent, limit, and investigate various types of abuse of our channels.
+5. Kellega me teie andmeid jagame?
 
-{{% title4 "5. Who we share your data with?" %}}
+Oleme teie andmete peamine töötleja ja jagame neid kolmandate osapooltega.
 
-We are the main processor of your data and share it with third parties.
+Aligner kasutab teie makse töötlemiseks teatud usaldusväärseid kolmandaid isikuid, näiteks Maksekeskus AS. Need kolmandad isikud pääsevad teie andmetele juurde ainult selleks, et täita meie nimel ülesandeid vastavalt käesolevale privaatsuspoliitikale.
 
-Aligner uses certain trusted third parties such as Maksekeskus AS for automated payment for the purposes of processing your payment. These third parties will access your data only to perform tasks on our behalf in compliance with this Privacy Policy.
+Võime avaldada teie andmeid ka kolmandatele isikutele, kui seda nõuab seadus või kohtumäärus, kuid me ei müü seda reklaamijatele ega muudele kolmandatele isikutele. Meie tegevuse eesmärk on kaitsta kõiki oma kasutajaid ja pakkuda usaldusväärseid teenuseid.
 
-We may also disclose your data to third parties when required by law or court order, but we do not sell it to advertisers or other third parties. Our actions have a purpose to protect all our users and provide trusted services.
+Meie meeskond on pühendunud teie teabe turvalisele hoidmisele ja turvaaukude testimisele. Samuti jätkame funktsioonide väljatöötamist, et teie teave oleks turvaline.
 
-Our team is dedicated to keeping your information secure and testing for vulnerabilities. We also continue to work on features to keep your information safe.
+6. Kui kaua me teie andmeid säilitame?
 
- {{% title4 "6. For how long we store your data?" %}}
+Me säilitame teie andmeid nii kaua, kui on vaja käesolevas privaatsuseeskirjas toodud eesmärkide saavutamiseks. Kui teie andmed ei ole enam asjakohased eesmärkidel, milleks neid koguti, kustutame need või muutume nende anonüümseks.
 
-We will retain your data for the period necessary to fulfill the purposes outlined in this Privacy Policy. When your data is no longer relevant for the purposes for which it has been collected, we will erase or anonymize it.
+7. Milliseid meetodeid kasutame teie andmete turvamiseks?
 
+Oleme teie organisatsiooni siseste andmete kaitsmiseks rakendanud organisatsioonilisi, tehnilisi ja haldusmeetmeid.
 
-{{% title4 "7. What methods do we use to secure your data?" %}}
+Kuigi astume mõistlikke samme teie isikliku teabe turvamiseks, peaksite teadma, et ükski turvaprotseduur ega protokoll ei ole häkkimise või kolmandate osapoolte sekkumise eest 100 protsenti turvaline. Mõistame, et igasuguse teabe võrgus jagamise korral võib siiski esineda teatud oht.
 
-We have implemented organizational, technical, and administrative measures to protect your data within our organization.
+Kui teil on probleeme turvaprobleemide või teie andmete käsitlemise viisiga, võtke meiega kohe ühendust (vt allpool jaotist „Kontakt”).
 
-While we take reasonable steps to secure your personal information, you should be aware that no security procedures or protocols are guaranteed to be 100 percent secure from hacking or third party interruption. We realize there is still some risk occurring by sharing any information online.
+8. Võimalikud muudatused selles privaatsuspoliitikas.
 
+Vajaduse korral võime seda privaatsuseeskirju aeg-ajalt värskendada. Selle lehe alguses olevad kuupäevad näitavad, millal seda privaatsuspoliitikat viimati muudeti ja kinnitati.
 
+Mis tahes muudatused selles privaatsuspoliitikas jõustuvad, kui avaldame muudetud privaatsuseeskirjad saitidele. Meie privaatsuspoliitika olulistest muudatustest teatatakse vähemalt 14 päeva enne nende jõustumist.
 
-If you have any concerns related to security issues or the way we handle your data, please contact us immediately (see “Contact” details below).
+9. Kontaktid
 
+Võite turunduskommunikatsiooni vastuvõtmisest igal ajal loobuda, saates e-kirja aadressile support@aligner.io.
 
+Proovime teie taotlust (taotlusi) täita võimalikult kiiresti.
 
-{{% title4 " 8. Possible changes to this Privacy Policy. " %}}
-If necessary, we may update this Privacy Policy from time to time. The dates at the beginning of this page indicate when this Privacy Policy was last revised and confirmed.
+Kuid pange tähele:
 
-Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Sites. Substantial changes in our Privacy Policy will be notified at least 14 days before they become effective.
+teie andmete kustutamisel meie serveritest ja varukoopiatest võib olla teatav latentsus;
 
+võime seda teavet säilitada, kui see on vajalik oma juriidiliste kohustuste täitmiseks, vaidluste lahendamiseks või lepingute jõustamiseks.
 
-{{% title4 "9. Contacts" %}}
+Visiem, kas noklusina, tacu
 
-You may at any time opt-out of receiving marketing communication by sending an email to support@aligner.io.
-We will try to comply with your request(s) as soon as reasonably possible.
-
-But please note:
-
-there might be some latency in deleting your data from our servers and back-up storage;
-
-we may retain this information if necessary to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-​
-
-If you have any concerns, or complaints regarding the way we collect and handle your personal data, you can send them to feedback@aligner.io by mail:
+Kui teil on teie isikuandmete kogumise ja käitlemise kohta muret või kaebusi, võite saata need meiliaadressile tagasiside@aligner.io:
 
 Aligner OÜ
 
 Metro Plaza
-Viru valjak 2
+
+Viru väljak 2
+
 Tallinn 10111
 
-ESTONIA
+EESTI
 
-If we can’t answer your question, you have the right to contact your local data protection supervisory authority.
-
-<br>
-
-{{% title4 "Cookie Policy" %}}
-
-Aligner website uses cookies to give you access to various functions and features which simplify your use of the website and improves your experience. Cookies are small text files which are saved in your computer or mobile device when you visit a website.
-
-On re-visits, these can be fetched from the web browser for various types of applications.
+Kui me ei saa teie küsimusele vastata, on teil õigus pöörduda kohaliku andmekaitse järelevalveasutuse poole.
 
 
 
-This website uses cookies for the following applications:
+Küpsistepoliitika
 
-Analysis of how the website is used by its visitors
+Aligneri veebisait kasutab küpsiseid, et anda teile juurdepääs mitmesugustele funktsioonidele ja funktsioonidele, mis lihtsustavad veebisaidi kasutamist ja parandavad teie kogemust. Küpsised on väikesed tekstifailid, mis salvestatakse teie arvutisse või mobiilseadmesse veebisaidi külastamisel.
 
-Tailoring of content based on how users use the website
+Korduskülastuste korral saab neid eri tüüpi rakenduste jaoks veebibrauserist alla laadida.
 
-Tailoring of advertisements in various media channels based on how the website’s users use the website
+See veebisait kasutab küpsiseid järgmiste rakenduste jaoks:
 
-Customization of advertisements in various media channels based on how the website user’s search behavior
+Analüüs selle kohta, kuidas veebisaiti külastajad kasutavad
 
-<br>
+Sisu kohandamine vastavalt sellele, kuidas kasutajad veebisaiti kasutavad
 
-Example of data we might collect:
+Reklaamide kohandamine erinevates meediumikanalites vastavalt sellele, kuidas veebisaidi kasutajad veebisaiti kasutavad
 
-Browser Information
-
-Operating System Information
-
-IP Address
-
-Pixel tags and other technologies
-
-Page Accessed
-
-Geographic Location
-
-Demographic information
-
-Time of Visit
-
-Behavior of visit
-
-Referring Site, Application, or Service
-
-Aggregated information
-
-
-<br>
-
-This website utilizes third-party cookies (as listed above). If you don’t want the cookies to be saved in your web browser it is possible to partially or completely block cookies. It is also possible to remove cookies after they have already been saved to your web browser.
-
-Both actions are accessible through the settings in your web browser and exactly how you do it depends on which web browser you use.
-
-You can use the browser’s help function or read more on http://www.aboutcookies.org/ for more detailed information on how this is done in the web browser you are using.
+Reklaamide kohandamine erinevates meediumikanalites vastavalt sellele, kuidas veebisaidi kasutaja otsingukäitumine toimub
 
 
 
-As a visitor to a website, you should be aware that some parts of the website may not function if you choose not to save, or to remove cookies.
+Näide andmete kohta, mida võime koguda:
 
-Read more on http://www.aboutcookies.org/ for more detailed information about what cookies are, how they work, what they are used for and what you should do as a visitor if you would like to deny or revoke your consent to the use of cookies.
+Teave brauseri kohta
 
-​
+Teave opsüsteemi kohta
 
-If you have any specific questions about how cookies are used on this website you are welcome to contact us at feedback@aligner.io
+IP-aadress
+
+Pikslite sildid ja muud tehnoloogiad
+
+Lehele on juurdepääs
+
+Geograafiline asukoht
+
+Demograafiline teave
+
+Külastuse aeg
+
+Külaskäik
+
+Viitav sait, rakendus või teenus
+
+**Kogutud teave**
+
+See veebisait kasutab kolmandate osapoolte küpsiseid (nagu eespool loetletud). Kui te ei soovi, et küpsised teie veebibrauserisse salvestataks, on küpsised võimalik osaliselt või täielikult blokeerida. Küpsiseid on võimalik eemaldada ka pärast seda, kui need on juba teie veebibrauserisse salvestatud.
+
+Mõlemale toimingule pääseb juurde veebibrauseri seadete kaudu ja see, kuidas seda teete, sõltub sellest, millist veebibrauserit kasutate.
+
+Lisateavet selle kohta, kuidas seda teie kasutatavas veebibrauseris tehakse, saate kasutada brauseri abifunktsiooni või lugeda lisateavet saidilt http://www.aboutcookies.org/.
+
+Veebisaidi külastajana peaksite teadma, et mõned veebisaidi osad ei pruugi toimida, kui otsustate mitte salvestada või küpsiseid eemaldada.
+
+Lisateavet selle kohta, mis on küpsised, kuidas need töötavad, milleks neid kasutatakse ja mida peaksite tegema külastajana, mida soovite teha külastajana, kui soovite eitada või tühistada oma nõusolekut, lugege lähemalt saidil http://www.aboutcookies.org/ küpsiste kasutamine.
+
+Visiem, kas noklusina, tacu
+
+Kui teil on konkreetseid küsimusi küpsiste kasutamise kohta sellel veebisaidil, võtke meiega ühendust aadressil tagasiside@aligner.io

@@ -1,7 +1,7 @@
 ---
 title: Aligner
 ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-url: /et/paketid
+url: /et/hinnad
 description: "Aligner - Pricing"
 include_pricing: true
 include_testimonials: true

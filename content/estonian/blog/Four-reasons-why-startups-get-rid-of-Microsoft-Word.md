@@ -6,18 +6,23 @@ description: "Aligner - approach to structural document management"
 date: 2020-04-01
 sidebarlogo: 
 image: ../images/document-structure.svg
+url: /et/korrasta-dokumendid-aligneriga
 ---
 
-Today, a lot of companies shifted to new Platforms like [Notion](https://www.notion.so "Notion"), [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper") or [Atlassian Confluence](https://www.atlassian.com/software/confluence "Atlassin Confluence")
+Täna nihkusid paljud ettevõtted uute platvormide juurde, näiteks [Notion](https://www.notion.so "Notion"), [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper"). või [Atlassian Confluence](https://www.atlassian.com/software/confluence "Atlassin Confluence")
 
-## Four reasons why startups get rid of Microsoft Word
-- Collaboration is well organised, easy to share
-- A structure is never broken, clean and systematic approach
-- Mobile friendly
-- Connect to apps like [Slack](https://www.slack.com "Slack"), [Jira](https://www.slack.com "Jira"), [Discord](https://discordapp.com/ "Discord")
+## Neli põhjust, miks iduettevõtted Microsoft Wordist lahti saavad
 
-## Everyone has felt the pain working in Microsoft Word
+- Koostöö on hästi korraldatud, seda on lihtne jagada
 
-Lists messed up? Styles all over? Spend hours fixing structure? Yeah, that's Word. Especially it gets complicated when you manage multiple languages. It becomes endless hassle.
+- Struktuur pole kunagi katki, puhas ja süsteemne lähenemisviis
 
-Start using great apps like [Notion](https://www.notion.so "Notion"), [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper"), [Atlassian Confluence](https://www.atlassian.com/software/confluence "Atlassin Confluence") togehter with [Aligner App](https://app.aligner.io "Aligner"), tool built for seamlessly managing structured, perfect documents, without any waste of time.
+- mobiilisõbralikud
+
+- looge ühendus selliste rakendustega nagu [Slack](https://www.slack.com "Slack"), [Jira](https://www.slack.com "Jira"), [Discord](https://discordapp.com/ "Discord")
+
+## Kõik on Microsoft Wordis töötades valu tundnud
+
+Loendid on segamini? Stiilid üleüldse? Kas veedate tunde struktuuri kinnistamisel? Jah, see on Word. Eriti keeruliseks läheb see siis, kui haldate mitut keelt. Sellest saab lõputu vaeva.
+
+Alustage selliste suurepäraste rakenduste kasutamist nagu [Notion](https://www.notion.so "Notion"), [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper"), [Atlassian Confluence]( https://www.atlassian.com/software/confluence "Atlassin Confluence") koos [Aligneri rakendusega](https://app.aligner.io "Aligner") - tööriist, mis on loodud struktureeritud, täiuslike dokumentide sujuvaks haldamiseks ilma aja raiskamine.

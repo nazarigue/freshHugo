@@ -1,34 +1,36 @@
 ---
 title: Aligner aitab täita keelenõuded
 ogImage: https://www.aligner.io/images/og_aligner.jpeg
-description: "Aligner - helps to meet the language requirement"
+description: "Aligner - Aligner aitab täita keelenõuded"
 date: 2020-05-27
 sidebarlogo: 
-image: "../blog/law.jpeg"
+image: "/blog/law.jpeg"
+url: /et/keelenõude-täitmine
 
 ---
-Many countries regulate the usage of national language by the law in order to preserve languages and make information available for the people. Recently there was a reminder for example in Estonia, that companies should have either the whole website or at least the summary of the services available in the Estonian language.
 
-## Here's how to do that quickly and free of charge in Aligner
+Paljud riigid reguleerivad riigikeele kasutamist seadusega, et säilitada keeli ja teha teave inimestele kättesaadavaks. Hiljuti tuli näiteks Eestis meelde, et ettevõtetel peaks olema kas kogu veebisait või vähemalt eestikeelsete teenuste kokkuvõte.
 
-#### 1. Write a summary of your services
+## Siit saate teada, kuidas seda Aligneris kiiresti ja tasuta teha
 
-#### 2. Go to [app.aligner.io](https://app.aligner.io) and create a new document, then just paste your summary
+#### 1. Kirjutage oma teenuste kokkuvõte
 
-![](../editor-english-summary.jpeg)
+#### 2. Minge saidile [app.aligner.io](https://app.aligner.io) ja looge uus dokument, seejärel kleepige lihtsalt kokkuvõte
 
-#### 3. Click on Translate, then Machine translation and choose the Estonian language
+![](/blog/editor-english-summary.jpeg)
 
-![](../editor-aligner-estonian.jpeg)
+#### 3. Klõpsake nupul Tõlgi, seejärel masintõlge ja valige eesti keel
 
-#### 3. Edit machine translation on the go as you need it
+![](/blog/editor-aligner-estonian.jpeg)
 
-![](../aligner-editor-dual.jpeg)
+#### 3. Muutke masintõlget liikvel vastavalt vajadusele
 
-#### 4. Share with colleagues or friends to proofread
+![](/blog/aligner-editor-dual.jpeg)
 
-![](../share-editor.jpeg)
+#### 4. Jagage korrektuuri kolleegide või sõpradega
 
-#### 5. Add translation to the visible place on your website
+![](/blog/share-editor.jpeg)
 
-![](../estonian-aligner.jpeg)
+#### 5. Lisage tõlge oma veebisaidi nähtavale kohale
+
+![](/blog/estonian-aligner.jpeg)

@@ -1,53 +1,59 @@
 ---
 title: Kuidas tõlkida tasuta veebileht
 sidebar: false
-ogImage: "../blog/image-computer.jpg"
-description: "Aligner - Translate website in Aligner for free"
+ogImage: "/blog/image-computer.jpg"
+description: "Aligner - Kuidas tõlkida tasuta veebileht"
 date: 2020-05-25
 sidebarlogo: 
-image: "../blog/image-computer.jpg"
+image: "/blog/image-computer.jpg"
+url: /et/tõlgi-tasuta-veebileht
 
 ---
-There are many ways today how to translate your websites. Services like [WPML](www.wpml.org "WPML"), [Weglot](https://weglot.com/), and others provide deep integrations with their systems to continuously improve the localisation.
 
-### There are 5 problems that will not make you use them:
+Oma veebisaitide tõlkimiseks on tänapäeval palju võimalusi. Sellised teenused nagu [WPML](www.wpml.org "WPML"), [Weglot](https://weglot.com/) jt pakuvad oma süsteemidega sügavat integratsiooni, et lokaliseerimist pidevalt täiustada.
 
-1. Monthly pricing gets up to 100 USD with multiple languages
-2. Developers work included
-3. Long onboarding
-4. Not collaborative
-5. Complex to use
+### On 5 probleemi, mis ei pane teid neid kasutama:
 
-All of these platforms are built for larger companies and require a more technical approach.
+1. Kuuhind võib mitme keelega ulatuda kuni 100 USD-ni
 
-In Aligner, it happens a lot easier, faster, and requires no programming skills.
+2. Kaasatud on arendajate töö
 
-### In Aligner, you can translate your websites already today.
+3. Pikk pardal sõitmine
 
-## 1. Open your website and copy the text
+4. Ei tee koostööd
 
-![](../aligner-website.jpeg "aligner-website")
+5. Kompleks kasutamiseks
 
-### Copy all content
+Kõik need platvormid on loodud suuremate ettevõtete jaoks ja vajavad tehnilisemat lähenemist.
 
-![](../aligner-website-copying.jpeg "aligner-copy-website")
+Aligneris toimub see palju lihtsamalt, kiiremini ega vaja programmeerimisoskusi.
 
-## 3. Paste to Aligner and click translate. Choose Machine Translation (we cover 140+ languages)
+### Aligneris saate oma veebisaite juba täna tõlkida.
 
-![](../aligner-dual-editor.jpeg "aligner-dual-editor")
+## 1. Avage oma veebisait ja kopeerige tekst
 
-## 4. Share to your colleague or a friend to do proofreading or use Fiverr
+![](/blog/aligner-website.jpeg "aligner-website")
 
-Under action buttons, click sharing and enter the email of the person you want to share with. In Aligner, **it's free to share and free to collaborate**. Alternatively if you need to find an external proofreader, you can use services like Fiverr.
+### Kogu sisu kopeerimine
 
-![](../aligner-sharing.jpeg "aligner-sharing")
+![](/blog/aligner-website-copying.jpeg "aligner-copy-website")
 
-Alternatively if you need to find an external proofreader, you can use services like [Fiverr](https://www.fiverr.com/search/gigs?query=spanish%20proofread&source=top-bar&search_in=everywhere&search-autocomplete-original-term=spanish%20proofread).
+## 3. Kleebi joondajale Aligner ja klõpsake tõlgi. Valige masintõlge (hõlmab rohkem kui 140 keelt)
 
-![](../fiverr-spanish-proofreading.jpeg "aligner-fiverr-proofreading")
+![](/blog/aligner-dual-editor.jpeg "aligner-dual-editor")
 
-Finally, add a new page on your website and use the translations, that just got ready.
+## 4. Jagage oma kolleegi või sõbraga korrektuuri tegemiseks või Fiverri kasutamiseks
 
-Now it’s your turn to translate your website. Open [Aligner](https://app.aligner.io/) and translate your website for free.
+Klõpsake toimingunuppude all jagamist ja sisestage selle inimese e-post, kellega soovite jagada. Aligneris ** saab seda tasuta jagada ja tasuta teha **. Kui teil on vaja leida väline korrektor, võite kasutada selliseid teenuseid nagu Fiverr.
 
-If you have any questions, let us know support@aligner.io
+![](/blog/aligner-sharing.jpeg "aligner-sharing")
+
+Kui teil on vaja leida väline korrektor, võite kasutada ka selliseid teenuseid nagu [Fiverr](https://www.fiverr.com/search/gigs?query=spanish%20proofread&source=top-bar&search_in=everywhere&search-autocomplete-original-term=spanish%20proofread).
+
+![](/blog/fiverr-spanish-proofreading.jpeg "aligner-fiverr-proofreading")
+
+Lõpuks lisage oma veebisaidile uus leht ja kasutage tõlkeid, mis just said valmis.
+
+Nüüd on teie kord oma veebisaidi tõlkida. Avage [Aligner](https://app.aligner.io/) ja tõlkige oma veebisait tasuta.
+
+Kui teil on küsimusi, andke meile teada aadressil support@aligner.io

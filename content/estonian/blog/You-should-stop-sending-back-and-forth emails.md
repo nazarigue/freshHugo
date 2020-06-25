@@ -2,34 +2,43 @@
 title: Välju e-postist ja ole produktiivsem
 date: 2020-04-02
 ogImage: "https://www.aligner.io/images/og_aligner.jpeg"
-description: "Aligner - Becoming productive by shifting out from the email"
+description: "Aligner - Välju e-postist ja ole produktiivsem"
 sidebar: false
 sidebarlogo: aligner-new.svg
 image: ../images/old-computer.svg
 draft: false
+url: /et/asenda-email-aligneriga
 ---
 
-### One of the biggest time-managment failures is to spend time on writing emails, instead of using specialised easy-to-use software.
+### Üks suurimaid ajahalduse tõrkeid on spetsiaalse hõlpsasti kasutatava tarkvara kasutamise asemel aja kulutamine e-kirjade kirjutamisele.
 
-People tend to be stuck in communication and information gaps all the time. Today, we work already in real-time collaboration and notification tools like [Slack](https://www.slack.com "Slack"), integrate it with [Jira](https://www.slack.com "Jira"), connect it to [Mailchimp](https://www.slack.com "Mailchimp"). Everything is under control.
+Inimesed kipuvad kogu aeg suhtlemis- ja teabelünkadesse takerduma. Täna töötame juba reaalajas koostöö- ja teavitustööriistades nagu [Slack](https://www.slack.com "Slack"), integreerige see [Jira](https://www.slack.com "Jira"), ühendage see teenusega [Mailchimp](https://mailchimp.com "Mailchimp"). Kõik on kontrolli all.
 
-> But we have an issue when it comes to managing multilingual documentation. Would it be a blog, knowledgebase, support materials or marketing content. We get stuck.
+> Kuid meil on probleem mitmekeelse dokumentatsiooni haldamisel. Kas see oleks ajaveeb, teadmistebaas, tugimaterjalid või turundussisu. Me jääme ummikusse.
 
-## 4 reasons why managing multiple languages is difficult
+## 4 põhjust, miks mitme keele haldamine on keeruline
 
-- you can't work in a set mode. You can edit only one language and need other people to fix all others
-- keeping in loop all people creates communication gaps
-- updating content means working with multiple files and keeping track change in all of them
-- content can get to managing hundreds of files
+- te ei saa töötada režiimis. Saate redigeerida ainult ühte keelt ja kõigi teiste parandamiseks vajavad teised inimesed
 
-## Current tools are not sufficient
+- kõigi inimeste silmusest hoidmine loob suhtlemislünki
 
-Some try to build string-like solutions in [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets") but it does not work either for non-string content. One of the options:
-![Solving translation with Google Sheets](https://www.labnol.org/images/2008/translate_spreadsheet_cells.jpeg "Solving translation with Google Sheets").
+- sisu värskendamine tähendab mitme failiga töötamist ja muutuste jälgimist neis kõigis
 
-## 3 main problems that Google Sheets can't handle
-- Style. You can't style and do preps for the web.
-- Structure. You can't have different structures for different languages.
-- Does not handle interactive images like bullets, tables and images
+- sisu saab hallata sadu faile
 
-Start using Aligner today to remove the barriers and skip all unnecessary actions. 
+## Praegustest tööriistadest ei piisa
+
+Mõned proovivad luua stringilaadseid lahendusi saidil [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets"), kuid see ei tööta ka keelteta sisu puhul. Üks variantidest:
+
+![Solving translation with Google Sheets](https://www.jacknorell.com/wp-content/uploads/2014/08/aliexpress-googletranslate-formula.jpg "Solving translation with Google Sheets").
+
+## 3 peamist probleemi, millega Google'i arvutustabelid hakkama ei saa
+
+- stiil. Te ei saa veebi jaoks stiili kujundada ja seda teha.
+
+- ülesehitus. Teil ei saa olla eri keelte jaoks erinevaid struktuure.
+
+- ei käsitle interaktiivseid pilte, näiteks täppe, tabeleid ja pilte
+
+Alustage Aligneri kasutamist juba täna tõkete eemaldamiseks ja kõigi mittevajalike toimingute vahelejätmiseks.
+

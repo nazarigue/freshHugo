@@ -476,7 +476,7 @@ Languages:
     contentDir: content/estonian
     home: Kodu
     languageCode: et
-    languageName: Estonian
+    languageName: Eesti keeles
     weight: 3
     title: Aligner | Tõlgi 10X kiiremini | Online tasuta platvorm.
     params:
@@ -503,8 +503,8 @@ Languages:
       navbar:
         - title: Funktsioonid
           url: /et/funktsioonid
-        - title: Paketid
-          url: /et/paketid
+        - title: Hinnad
+          url: /et/hinnad
         - title: Blogi
           url: /et/blogi
         - title: Teenused
@@ -524,7 +524,7 @@ Languages:
         enable: true
         title: Funktsioonid
         subtitle: null
-        buttonlink: /Funktsioonid
+        buttonlink: /et/funktsioonid
         buttonText: Vaata kõiki funktsioone →
         list:
           - title: Redigeeri
@@ -552,7 +552,7 @@ Languages:
             btnURL: ""
       froalaDesign:
         enable: true
-        title: Tööta dokumentidega omas keeles.
+        title: Tööta dokumentidega mitmes keeles.
         subtitle: Loodud turundajatele ja sisuloojatele.
         features:
           - title: Muutke kõiki keeli korraga
@@ -581,19 +581,19 @@ Languages:
             btnURL: https://app.aligner.io
       pricing:
         enable: true
-        title: Plaanid
+        title: Hinnad
         subtitle: null
-        buttonlink: /plaanid
-        buttonText: lisateave plaanide kohta
+        buttonlink: /et/hinnad
+        buttonText: lisateave hindade kohta
         plans:
           - title: Premium
-            price: 9 eurot kuus
+            price: 8.99 eurot kuus
             icon: /images/plane.svg
             alt: Premium
             heighlight: Laiendatud funktsionaalsus
             btnText: Lisateave
             btnKlass: "btn-aligner rounded"
-            btnURL: /et/plaanid
+            btnURL: /et/hinnad
             features:
               - text: Tekstitöötlus
               - text: Google Drive'i integratsioonid
@@ -613,13 +613,13 @@ Languages:
               - text: Piiramatu jagamine
               - text: Wordi ja PDF-i import
           - title: Meeskonnale
-            price: 29,90 eurot kuus
+            price: 29.90 eurot kuus
             icon: /images/sun.svg
             alt: Meeskonnale
             heighlight: Meeskonnale mõeldud lahendus
             btnText: Lisateave
             btnKlass: "btn-aligner rounded"
-            btnURL: /et/plaanid
+            btnURL: /et/hinnad
             features:
               - text: Kuni 5 inimest, iga järgmine 4 eurot
               - text: Versioneerimine
@@ -644,10 +644,10 @@ Languages:
             image: /images/katrin_fooddocs.svg
       pricingInner:
         enable: true
-        title: Plaanid
+        title: Hinnad
         subtitle: null
-        buttonlink: /plaanid
-        buttonText: lisateave plaanide kohta
+        buttonlink: /hinnad
+        buttonText: lisateave hindade kohta
         plans:
           - title: Freemium
             price: 0 dollarit
@@ -656,15 +656,15 @@ Languages:
             heighlight: Tehke asjad kiiresti korda
             btnText: Alusta siin →
             btnURL: https://app.aligner.io
-          - title: Lisatasu
-            price: 8,99 dollarit kuus
+          - title: Premium
+            price: 8.99 eurot kuus
             icon: /images/hot-air-balloon.svg
-            alt: Lisatasu
+            alt: Premium
             heighlight: Keskmistele ettevõtetele
             btnText: Tulekul
             btnURL: "#"
           - title: Meeskond
-            price: 29,99 dollarit kuus
+            price: 29.99 eurot kuus
             icon: /images/sun.svg
             alt: Meeskond
             heighlight: Suurtele ettevõtetele
@@ -795,15 +795,15 @@ Languages:
             links:
               - text: Privaatsuspoliitika
                 link: /et/privaatsuspoliitika
-              - text: Kohaletoimetamise poliitika
+              - text: Tarnepoliitika
                 link: /et/tarnepoliitika
               - text: Kasutustingimused
                 link: /et/kasutustingimused
           column2:
             title: Tootest
             links:
-              - text: Plaanid
-                link: /et/plaanid
+              - text: Hinnad
+                link: /et/hinnad
               - text: Blogi
                 link: /et/blogi
               - text: Funktsioonid
@@ -820,4 +820,4 @@ Languages:
       latestTitle: Blogi
       moreBtn: Vaata rohkem
       checkBlog: Uurige meie blogi
-      checkBlogUrl: "/et/blog/"
+      checkBlogUrl: "/et/blogi/"

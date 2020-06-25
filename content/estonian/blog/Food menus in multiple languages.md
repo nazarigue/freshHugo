@@ -1,31 +1,32 @@
 ---
 title: Korralda toidumenüüd mitmes keeles Aligneris
-description: "Aligner - Manage food menus in multiple languages in Aligner"
+description: "Aligner - toidumenüüde haldamine mitmes keeles"
 sidebar: false
 ogImage: "https://www.aligner.io/images/og_aligner.jpeg" 
 date: 2020-05-25
 sidebarlogo: 
 image: ../blog/noa_logo.svg
+url: /et/toidumenüüd-erikeeltes
 ---
 
-[Noa restoran](https://www.noaresto.ee/en/) serve customers from all over the world.
+[Noa restoran](https://www.noaresto.ee/et/) teenindab kliente kogu maailmast.
 
-![](../2020-05-25-15-08-55.jpeg)
+![](/blog/2020-05-25-15-08-55.jpeg)
 
-Serving customers from different backgrounds in food industry can be challenging. People come to enjoy delicious meals and restaurants have to make sure, they communicate all ingredients in native languages. Allergies or other individual preferences are crucial to discuss with the customer. Here is one example of one of the fine dining menu translation practice.
+Toiduainetööstuses erineva taustaga klientide teenindamine võib olla keeruline. Inimesed tulevad maitsvaid toite nautima ja restoranid peavad hoolitsema selle eest, et nad edastaksid kõik koostisosad emakeeles. Allergiad või muud individuaalsed eelistused on kliendiga arutamisel üliolulised. Siin on üks näide ühest fine dining menüü tõlkepraktikast.
 
-## 1. Get your content to Aligner, upload or paste
+## 1. Hankige oma sisu Alignerisse, laadige üles või kleepige
 
-![](../noa%20menu%20english.jpeg)
+![](/blog/fiverr-german.jpeg)
 
-## 2. Click on translate and add a language (we chose french)
+## 2. Klõpsake tõlkimisel ja lisage keel (valisime prantsuse keele)
 
-![](../noa-restoran-french-menu.jpeg)
+![](/blog/noa-restoran-french-menu.jpeg)
 
-## 3. Add one more language, for example German
+## 3. Lisage veel üks keel, näiteks saksa keel
 
-![](../noa-resto-2-languages.jpeg)
+![](/blog/noa-resto-2-languages.jpeg)
 
-## 4. Share your document for proofreading
+## 4. Jagage oma dokumenti toimetamiseks
 
-![](../fiverr-german.jpeg)
+![](/blog/fiverr-german.jpeg)

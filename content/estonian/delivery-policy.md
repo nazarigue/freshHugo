@@ -1,111 +1,102 @@
 ---
-title: Delivery Policy
+title: Tarnepoliitika
 ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-description: "Aligner - Delivery Policy"
+description: "Aligner - Tarnepoliitika"
+url: /et/tarnepoliitika
 include_footer: true
 ---
 
+# Tarnepoliitika
 
-{{% title4 "Delivery policy" %}}
+Sissejuhatus
 
-Introduction
+Täname teid Aligneri kasutamise eest!
 
+Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti ajakohasena ja levitame teie sõna seetõttu palju kiiremini.
 
-Thanks for using Aligner!
-We help companies to keep their multilingual content easily up to date and therefore spread your word much faster.
+Järgnevalt kirjeldame, kuidas teenusetingimused (“Tingimused”) hõlmavad teie kasutamist ja juurdepääsu meie teenustele, tarkvarale ja veebisaitidele (“Teenused”). Vaatamata elukohale on teie leping sõlmitud Aligner OÜ Company-ga.
 
-Following we describe how the terms of service (“Terms”) cover your use and access to our services, software, and websites ("Services"). Despite the reside your agreement is with Aligner OÜ Company.
+Meie teenuseid kasutades nõustute end järgima kasutustingimusi ja meie privaatsuseeskirju. Kui kasutate meie teenuseid organisatsiooni jaoks, nõustute nende organisatsiooni nimel nende tingimustega.
 
-By using our Services, you’re agreeing to be bound by the Terms of Use and our Privacy Policy. If you’re using our Services for an organization, you’re agreeing to these Terms on behalf of that organization.
+Teenused ja kohaletoimetamine
 
+app.aligner.io võimaldab teil hankida koheselt hinnakujundust ja tellida tõlketeenuseid ning teha teie käsul koostööd kolmandate osapooltega, nii et mõelge hoolikalt iga tellimuse esitamise peale, samuti sellele, mida jagate ja kellega koos. Me ei vastuta ühegi kolmanda osapoole käitumise eest, partnerid on kas linginud veebisaidid.
 
-Services and Delivery
+Enne tellimuse esitamist palutakse teil kinnitada kohene hinnakujundus sõnade arvu, keele, tööstuse ja tarnekuupäeva põhjal.
 
+Pärast edukat tasumist osutatakse teile teenuseid vastavalt ostetud teenuste tingimustele. Ostetud teenuste laad ja ostukuupäev võivad mõjutada teenuste osutamise ajakava.
 
-app.aligner.io enables to get instant pricing and order Translation Services and collaborate with the third parties at your command, so please think carefully about placing each and every order, as well as what you share and with whom. We aren’t responsible for the behavior of any third parties, partners either linked websites.
+Teenused loetakse teile pärast teenuste osutamist edukalt osutatuks. Edastamine lisatakse rakendusele app.aligner.io samasse kogusse, kus tellimus algatati. Kõik tellitud tõlked joondatakse võrreldes põhikeelega.
 
-
-
-Prior to placing an order, you'll be asked to confirm the instant pricing based on the word count, language, industry, and delivery date.
-
-Upon successful payment, the services will be performed to you in accordance with the terms applicable to the services that you purchased. The nature of the services you purchased and the date of your purchase may impact the timing of the performance of the services.
-
-
-
-The services will be deemed to be successfully delivered to you upon the performance of the services. The delivery is added to app.aligner.io into the same collection where the order was initiated. All ordered translations will be aligned as compared to master language.  
-
-User(s) will receive the notification of the delivery. 
-
-​
-
-Upon the successful payment, the receipt of your order will be generated in PDF and available on the "Orders" page.
+Kasutaja (d) saavad kättetoimetamise teatise.
 
 
 
-If not satisfied with the quality of the Translation Service, we will do our best to provide you a new delivery of the Translation Services. We may offer a full refund if a user requests one. Please follow the procedure described in the Refund Policy. ​
+Pärast edukat makset genereeritakse teie tellimuse kviitung PDF-is ja see on saadaval lehel "Tellimused".
+
+Kui me pole tõlketeenuse kvaliteediga rahul, anname endast parima, et pakkuda teile tõlketeenused uuesti. Kui kasutaja seda soovib, võime pakkuda täielikku tagasimakset. Järgige tagasimaksepoliitikas kirjeldatud protseduuri. 
+
+Tarne aeg
 
 
 
-Delivery time
-
-​
-
-Standard delivery time for Translation Services is 24-48 hours, smaller orders might be delivered as fast as within 4-6 hours. 
-
-​
-{{% title4 "Refund Policy" %}}
-Introduction
+Tõlketeenuste tavapärane tarneaeg on 24-48 tundi, väiksemate tellimuste kohaletoimetamine võib toimuda nii kiiresti kui 4-6 tunni jooksul.
 
 
-Thanks for using Aligner!
-We help companies to keep their multilingual content easily up to date and therefore spread your word much faster.
 
-Following we describe how the Refund Policy covers your use of services provided by Aligner. Despite the reside your agreement is with Aligner OÜ Company.
+Tagastamispoliitika
 
-By using our Services, you’re agreeing to be bound by the Terms of Use and our Privacy Policy. If you’re using our Services for an organization, you’re agreeing to these Terms on behalf of that organization.
+Sissejuhatus
+
+Täname teid Aligneri kasutamise eest!
+
+Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti ajakohasena ja levitame teie sõna seetõttu palju kiiremini.
+
+Järgnevalt kirjeldame, kuidas tagasimaksepoliitika hõlmab teie Aligneri pakutavate teenuste kasutamist. Vaatamata elukohale on teie leping sõlmitud Aligner OÜ Company-ga.
+
+Meie teenuseid kasutades nõustute end järgima kasutustingimusi ja meie privaatsuseeskirju. Kui kasutate meie teenuseid organisatsiooni jaoks, nõustute nende organisatsiooni nimel nende tingimustega.
+
+Tellimise ja tagastamise kord
 
 
-Ordering and Refund Procedures
 
-​
+Kui kasutaja, kes tasus tõlketeenuse eest ega ole pakutud teenusega rahul, võtab meiega ühendust 14 päeva jooksul alates kättetoimetamiskuupäevast ja esitama tõendid teenuse ebapiisavuse kohta aadressil support@aligner.io.
 
-If a user who paid for the Translation Service and is not satisfied with the delivered service shall contact us within 14 days from the delivery date and provide evidence of insufficient service at support@aligner.io.
 
-​
 
-The claim shall contain:
+Nõue sisaldab:
 
-Username (e-mail address)
+Kasutajanimi (e-posti aadress)
 
-Order ID
+Tellimuse ID
 
-Date of delivery
+Kohaletoomise kuupäev
 
-Evidence of insufficient service
+Tõendid teenuse ebapiisavuse kohta
 
-​
 
-Unless specifically requested, the user's account will remain active while the validation of delivered services. If the insufficient quality of delivered services is confirmed, a customer will get a new delivery. 
 
-​
+Kui konkreetselt ei nõuta, jääb kasutaja konto tarnitud teenuste valideerimise ajal aktiivseks. Kui osutatakse osutatavate teenuste ebapiisavat kvaliteeti, saab klient uue kättetoimetamise.
 
-The user has the right to a full refund if the claim is submitted within 14 days from the purchase date and the evidence is qualified, based on the conditions provided for in subsection 53(4) in the Law of Obligations Act. 
 
-​
 
-All refunds are processed in EUR and will be delivered to the same credentials within 14 days from the claim submission if needed reflecting the exchange rate in effect on the date of the refund. All refunds are subject to this fluctuation and Aligner is not responsible for any change in exchange rates between time of payment and time of refund.
+Kasutajal on õigus täielikule tagasimaksele, kui nõue on esitatud 14 päeva jooksul alates ostukuupäevast ja tõendid on kvalifitseeritud, tuginedes võlaõigusseaduse § 53 lõikes 4 sätestatud tingimustele.
 
-​
 
-Aligner reserves the right to cancel, suspend, or otherwise restrict access to the account at any time with or without notice.
 
-Exchange rate fluctuations for international payments are constant and unavoidable.
+Kõiki tagasimakseid töödeldakse eurodes ja vajadusel toimetatakse need samadesse volikirjadesse 14 päeva jooksul alates nõude esitamisest, kajastades tagasimakse kuupäeval kehtinud vahetuskurssi. Kõigi tagasimaksete suhtes kehtib see kõikumine ja Aligner ei vastuta vahetuskursi muutuste eest makse tegemise aja ja tagasimakse vahel.
 
-​
 
-Due to a delivery time starting from 4 hours, the cancellations cannot be requested after the order is confirmed and payment is successfully processed. 
 
-​
+Aligner jätab endale õiguse kontole juurdepääsu tühistada, peatada või muul viisil seda igal ajal piirata, etteteatamata või ette teatamata.
 
-Violations of the Terms of Use will waive the current Refund Policy.
+Rahvusvaheliste maksete vahetuskursi kõikumised on püsivad ja vältimatud.
+
+
+
+4-tunnise tarneaja tõttu ei saa tühistamist taotleda pärast tellimuse kinnitamist ja makse edukat töötlemist.
+
+
+
+Kasutustingimuste rikkumine loobub praegusest tagasimakse poliitikast.
 
