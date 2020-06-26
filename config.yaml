@@ -463,15 +463,16 @@ Languages:
     languageCode: en-us
     languageName: English
     weight: 1
-  hi:
-    contentDir: content/hindi
+################################### Finnish language #####################################
+  fi:
+    contentDir: content/finnish
     home: Kodu
-    languageCode: hi
-    languageName: Hindi
+    languageCode: fi
+    languageName: Finnish
     weight: 2    
     moreBtn: अधिक पढ़ें
     checkBlog: Check out our blog  
-    checkBlogUrl: "/hi/blog/"
+    checkBlogUrl: "/fi/blog/"
   et:
     contentDir: content/estonian
     home: Kodu

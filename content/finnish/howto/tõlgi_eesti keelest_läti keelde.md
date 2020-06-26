@@ -2,9 +2,9 @@
 
 title: Kuidas tõlkida Aligneris tasuta eesti keelest läti keelde
 description: Aligneri kasutamise õpetus. Kuidas tõlkida tasuta eesti keelest läti keelde. Aligner on tasuta mugav online tarkvara mitmekeelse sisu haldamiseks.
-ogImage: "https://www.aligner.io/images/aligner-logo.png"
+ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 date: 2020-06-06
-image: ../images/aligner-logo.png
+image: ../images/aligner-logo.jpeg
 onBlog: true
 
 ---
