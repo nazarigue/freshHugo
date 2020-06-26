@@ -9,7 +9,7 @@ onBlog: true
 
 ---
 
-1. Minge redaktorisse aadressil [app.aligner.io] (https://app.aligner.io "Aligner Appi veebileht")
+1. Minge redaktorisse aadressil [app.aligner.io](https://app.aligner.io "Aligner Appi veebileht")
 
 ![tõlkige eesti keelest portugali keelde](/howto/aligner-blank-editor.jpeg "tõlkige eesti keelest portugali keelde")
 
