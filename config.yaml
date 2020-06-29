@@ -3,7 +3,14 @@ languageCode: en-us
 DefaultContentLanguage: en
 title: Aligner | Translate 10X faster | Online free platform.
 theme: hugo-fresh
+enableRobotsTXT: true
 googleAnalytics: UA-138300699-1
+
+sitemap:
+  changefreq: always
+  filename: sitemap.xml
+  priority: 0.5
+
 # Disables warnings
 disableKinds:
 - taxonomy
