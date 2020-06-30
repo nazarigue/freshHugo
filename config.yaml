@@ -805,7 +805,7 @@ Languages:
       caseBtn: Loe lähemalt
       latestTitle: Blogi
       moreBtn: Vaata rohkem
-      checkBlog: Uurige meie blogi
+      checkBlog: Loe meie blogi
       checkBlogUrl: "/et/blogi/"
   ru:
     contentDir: content/russian
