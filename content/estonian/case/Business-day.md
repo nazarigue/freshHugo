@@ -1,36 +1,38 @@
 ---
-title: International journalism with Aligner
+title: 'Tõlkimine Meediatööstuse Juhtivas Ettevõttes '
 date: 2020-04-02
-ogImage: "https://www.aligner.io/images/case/ap.jpeg"
-description: "Aligner - International journalism with Aligner"
+ogImage: https://www.aligner.io/images/case/ap.jpeg
+description: 'Aligner - Tõlkimine Meediatööstuse Juhtivas Ettevõttes '
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: ../images/case/ap.jpeg
+image: "../images/case/ap.jpeg"
 caseLogo: false
-draft: false
+
 ---
+## Alignerit kasutatakse meediatööstuse juhtivas ettevõttes Äripäev
 
+### Äripäev
 
-## See how Aligner is used in the business media industry leader Äripäev
+Põhjamaade suurimale meediakontsernile - Bonnier Groupile kuuluv Äripäev on **Eesti ärimeedia turuliider.** Nad annavad välja kolm ajalehte, veebipõhiseid uudisteportaale ja arvukalt raamatuid, samuti korraldab nende meeskond Eesti suurimaid ettevõtluskonverentse. **Äripäeva meeskond koosneb tippajakirjanikest** ja erinevate valdkondade parimatest asjatundjatest.
 
-## About Äripäev
+## Väljakutse
 
-Äripäev, owned by the largest media group in the Nordics - Bonnier Group - is the market leader in Estonian business media. They publish three newspapers, online news portals and numerous books as well as organize the largest business conferences in Estonia. The team behind Äripäev consists of the top journalists and the best experts in various fields.
+Äripäev loob ja edastab iga päev ajakriitilist teavet ja **uudiseid eesti, vene ja inglise keeles**. Ajakirjanikud kulutavad vahest tunde kallist tööaega artiklite tõlkimisele ja toimetamisele enne avaldamist.
 
-## Challenge:
+Äripäeva jaoks on **tõlkimise kiirus ja täpsus äärmiselt oluline aspekt**. Ajakirjanikel on tihti piiratud aeg ja eelarve, sageli on kaasatud vabakutselised tõlkijad. Tõlke töövoo efektiivne juhtimine on suur väljakutse, mida meediatööstus eeldab ajakirjanikult piiratud aja jooksul.
 
-Äripäev creates and delivers time-critical information and news in Estonian, Russian and English languages, every single day. Journalists spend hours of work time on translating and editing articles prior to publishing. 
-For Äripäev the speed and accuracy of translation is an extremely important aspect. Journalists have limited time and budget, often freelance translators are involved. It’s a challenge to manage the translation workflow efficiently within a tight timeframe media industry requires. 
+## Tulemus
 
-> Testimonial:
-“I can translate articles in Aligner and improve my content on the go, just like I need it. With machine learning I expect Aligner to become the best tool in the industry.” **Anari Hagel -Startup Industry Facilitator, former Head of the FoundME.io portal in Äripäev**
+> „Saan tõlkida artikleid Aligneris ja toimetada sisu just nii, nagu mul seda vaja on. Masinõppe abiga loodan, et Alignerist saab parim tööriist tõlkevaldkonnas” 
+>
+> **Anari Hagel** - Äripäeva portaali FoundME.io endine juht 
 
+## Miks ja kuidas Alignerit kasutatakse
 
-## Why and how Aligner is used:
-Aligner provides machine translation, that requires less effort to edit and publish. It saves lots of precious time spent on translating articles and news. 
+Aligner tõlkepaltvormis on masintõlge, mille parandamine ja avaldamine nõuab vähem pingutusi. See säästab palju väärtuslikku aega, mis kulub artiklite ja uudiste tõlkimisele.
 
-> We use machine translation, dual editor and collaboration features. Aligner is used on a weekly basis.
+> Kasutame masintõlget, paralleelset toimetajat ja koostööfunktsioone. Aligner on kasutuses iganädalaselt.
 
-Aligner team thanks Äripäev for the collaboration!
+Aligner'i tiim tänab Äripäeva hea koostöö eest!
 
-Read more about [Äripäev](https://www.aripaev.ee/ "Aripaev").
+Loe veel [Äripäevast](https://www.aripaev.ee/ "Aripaev").
