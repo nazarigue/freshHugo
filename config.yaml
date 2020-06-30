@@ -521,7 +521,7 @@ Languages:
           btnText: 
           btnURL: ''
         - title: Avalda
-          text: Avalda oma sisu veebis või lae alla failidena.
+          text: Avalda oma mitmekeelset sisu veebis või lae alla failidena.
           image: "/images/reload.svg"
           alt: Avalda
           btnText: 
