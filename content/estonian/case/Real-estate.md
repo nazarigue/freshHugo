@@ -17,7 +17,7 @@ LVM on üks juhtivaid kinnisvaraettevõtteid Eestis, kes kujundab selle tööstu
 
 Ainulaadne lähenemisviis on see, et LVM loob professionaalseid hästi struktureeritud müügimaterjale ja nimekirju, kust ostja saab lühidalt leida kõik vajalikud andmed kinnisvara kohta.
 
-## väljakutse
+## Väljakutse
 
 Aitame oma klientidel oma kinnisvara professionaalselt müüa, hoides samas meeskonda keskendudes nende ülesannetele, selle asemel et korraldada tõlkeid, copywritingut ja sisuhaldust.
 
