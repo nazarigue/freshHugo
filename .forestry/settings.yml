@@ -5,15 +5,26 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/menu
-  label: Menu
+  path: content/estonian
+  label: Pages Estonian
   create: all
   match: "**/*"
+- type: directory
+  path: content/russian
+  label: Pages Russian
+  create: all
+  match: "**"
+- type: directory
+  path: content/english
+  label: Pages English
+  create: all
+  match: "**"
+- type: directory
+  path: ''
+  label: Config
+  create: all
+  match: config.yaml
+  new_doc_ext: yaml
 - type: directory
   path: content/blog
   label: Blog
