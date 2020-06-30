@@ -9,11 +9,11 @@ image: "../images/old-computer.svg"
 url: "/et/asenda-email-aligneriga"
 
 ---
-### E-kirjade saatmine edasi-tagasi on üks suurimaid ajaraiskajaid, mis Sinu tiimi kurnab. Efektiivsuse tõstmiseks soovitame kasutada online platvorme!
+### E-kirjade saatmine edasi-tagasi on üks suurimaid ajaraiskajaid, mis Sinu tiimi kurnab. Me teame, kuidas efektiivsust suurendada!
 
-Inimesed kipuvad kogu aeg suhtlemis- ja teabelünkadesse takerduma. Täna töötame juba reaalajas koostöö- ja teavitustööriistades nagu [Slack](https://www.slack.com "Slack"), integreerituna [Jira](https://www.slack.com "Jira")'sse, ühendatud [Mailchimp](https://mailchimp.com "Mailchimp") funktsionaalsusega. Kõik on alati kontrolli all.
+Inimesed kipuvad suhtlus- ja teabelünkadesse takerduma. Täna järjest enam tiime eelistavad oma igapäevatöö korraldamiseks kasutada programme nagu [Slack](https://www.slack.com "Slack"), integreerituna [Jira](https://www.slack.com "Jira")'ga, ühendatud [Mailchimp](https://mailchimp.com "Mailchimp") funktsionaalsusega jms. Et kõik oleks alati kontrolli all ja kiiresti teostatav.
 
-> Kuid meil on probleem mitmekeelse dokumentatsiooni haldamisel. Olgu see blogi, teadmistebaas, tootekirjeldused, või turundussisu. Inimesed jäävad ummikusse.
+> "Kuid meil on probleem mitmekeelse veebisisu ja dokumentatsiooni haldamisel." Olgu see blogi, teadmistebaas, tootekirjeldused, või turundussisu. Inimesed jäävad ummikusse. Kuuleme seda tihti.
 
 ## 4 põhjust, miks mitmekeelse sisu haldamine on keeruline
 
