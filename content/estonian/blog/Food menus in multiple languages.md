@@ -1,9 +1,9 @@
 ---
-title: Toidumenüüd hõlpsasti eri keeltesse
-description: Aligner - Toidumenüüd hõlpsasti eri keeltesse
+title: Toidumenüü hõlpsasti eri keeltesse
+description: Aligner - Toidumenüü hõlpsasti eri keeltesse
 sidebar: false
 ogImage: https://www.aligner.io/images/og_aligner.jpeg
-date: 2020-05-25
+date: 2020-06-09T21:00:00+00:00
 sidebarlogo: 
 image: "../blog/noa_logo.svg"
 url: "/et/toidumenüüd-erikeeltes"
