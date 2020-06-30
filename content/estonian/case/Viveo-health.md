@@ -1,30 +1,30 @@
 ---
-title: New markets daily in Telemedicine
-date: 2020-04-02
-ogImage: "https://www.aligner.io/images/case/viveo.jpeg"
-description: "Aligner - New markets daily in Telemedicine"
+title: Telemeditsiinis iga päev uued turud
+date: 2020-05-05T21:00:00+00:00
+ogImage: https://www.aligner.io/images/case/viveo.jpeg
+description: Aligner - uued turud telemeditsiinis iga päev
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: ../images/case/viveo.jpeg
+image: "../images/case/viveo.jpeg"
 caseLogo: false
-draft: false
+
 ---
+## Viveost
 
-## About Viveo
+Tervishoiuteenuste tulevik on Viveo - kuna nad viivad arstiabi otsast lõpuni järgmisele tasemele. Viveo kasutab andmeid tehnoloogia pakkumiseks ja teadmisi, mida meditsiiniasutused varem ei suutnud edastada. Viveo meditsiinivõrk pakub kvaliteetset teenust, mis on ühtlasi nii kuluefektiivne kui ka aja kokkuhoid.
 
-The future for the healthcare services is Viveo – as they take end-to-end medical care to the next level. Viveo leverages data to provide technology and insights the medical institutions could not deliver before. Viveo’s medical network offers high quality service which is both cost-effective and time saving.
+Viveo taga olev meeskond on kindel, et arstide esialgse konsultatsiooni kiiruse, diagnostilise võimekuse (sh AI) ning kiire juurdepääsu laboratoorsete testide ja eriarstide juurdesaamise kombinatsioon parandab oluliselt patsiendi teekonda taastumiseni.
 
-The team behind Viveo is confident that the combination of initial doctor consultation speed, diagnostic capability including AI and quick access to lab tests and specialized doctors will significantly improve a patient’s journey to recovery. 
+## Väljakutse
 
-## Challenge
+Pakkudes erinevate ettevõtete töötajatele kiiret ja kvaliteetset tervishoidu, korraldab Viveo meeskond suhtlust eri keeltes - **läti, leedu, eesti, saksa, hispaania, portugali, jaapani ja vene keeles**. Alates Eestist sai rahvusvaheline laienemine Viveo jaoks väga oluliseks koos vajadusega hallata mitmekeelset sisu kõige tõhusamal viisil. Globaalseks muutumine on takistustega, keeled ja lokaliseerimine on üks peamisi takistusi. Viveo meeskond soovib optimeerida lokaliseerimisprotsesse ja sisu tõlkimisega seotud kulusid.
 
-While providing fast, high-quality healthcare for employees of different companies Viveo team arranges communication across different languages – **Latvian, Lithuanian, Estonian, German, Spanish, Portugese, Japanese and Russian languages**. Started from Estonia, international expansion became very important very quickly for Viveo together with the need to manage multilingual content in the most efficient way. Going global comes with its hurdles, languages and localisation is one of the main obstacles. Viveo team wants to optimize localization processes and costs on translating content.
+## Miks ja kuidas Alignerit kasutatakse:
 
+Tõhusam viis on Viveo kasutada mitmekeelsete dokumentide korraldamiseks inimtõlget, masintõlget, topeltredaktorit ja töövoo funktsioone.
 
-## Why and how Aligner is used:
-Viveo uses human translation, machine translation, dual editor and workflow features to organize their multilingual documents is a more efficient way. 
-Aligner helps to save time spent on translating marketing and web content created by Viveo. As the number of languages is growing, new translations can be added easily and further organized. Aligner is used on a weekly basis. 
+Aligner aitab kokku hoida aega, mis kulub Viveo loodud turunduse ja veebisisu tõlkimisele. Kuna keelte arv kasvab, saab uusi tõlkeid hõlpsalt lisada ja veelgi korraldada. Joondust kasutatakse iganädalaselt.
 
-Aligner team thanks Viveo Health for the collaboration!
+Aligneri meeskond tänab Viveo Healthi koostöö eest!
 
-Read more about [Viveo Health](https://viveohealth.com/ "Viveo Health").
+Lisateavet saidi [Viveo Health kohta](https://viveohealth.com/ "Viveo Health").
