@@ -9,13 +9,13 @@ sections:
   label: Pages Estonian
   create: all
   match: "**/*"
-  exclude: howto
+  exclude: "*/*/howto"
 - type: directory
   path: content/russian
   label: Pages Russian
   create: all
   match: "**/*"
-  exclude: howto
+  exclude: "*/howto"
 - type: directory
   path: content/english
   label: Pages English
