@@ -509,7 +509,7 @@ Languages:
           alt: Toimeta
           btnURL: ''
         - title: Tõlgi
-          text: Kasutage masintõlget kogu dokumendi või lause tõlkimiseks.
+          text: Rakenda parimat masintõlget kogu dokumendi või valitud lausete tõlkimiseks.
           image: "/images/roboto-logo.svg"
           alt: Tõlgi
           btnText: Üleskutse tegevusele
