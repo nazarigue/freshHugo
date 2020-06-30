@@ -1,7 +1,7 @@
 ---
 title: Тарифы
 ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-url: /et/тарифы
+url: /ru/тарифы
 description: "Aligner - Тарифы"
 include_pricing: true
 include_testimonials: true

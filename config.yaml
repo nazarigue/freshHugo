@@ -60,14 +60,7 @@ params:
     url: /pricing
   - title: Blog
     url: /blog/
-  - title: Solutions
-    sublinks:
-    - title: POOL - croudsourced API 
-      url: https://pool.aligner.io
-    - title: GO - content delivery
-      url: https://go.aligner.io
-    - title: APP - content management
-      url: https://app.aligner.io
+  - title: Tutorials
  # - title: Resources
   #  url: /resources
   - title: Log in
