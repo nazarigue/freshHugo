@@ -9,16 +9,19 @@ sections:
   label: Pages Estonian
   create: all
   match: "**/*"
+  exclude: howto
 - type: directory
   path: content/russian
   label: Pages Russian
   create: all
-  match: "**"
+  match: "**/*"
+  exclude: howto
 - type: directory
   path: content/english
   label: Pages English
   create: all
-  match: "**"
+  match: "**/*"
+  exclude: "**/*/howto"
 - type: directory
   path: ''
   label: Config
