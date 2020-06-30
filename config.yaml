@@ -462,7 +462,8 @@ Languages:
     params:
       BookMenuBundle: "/menüü"
       openGraph: true
-      description: Tõlkige Aligneriga 10 korda kiiremini. Tasuta koostöö tööriist.
+      description: Tõlgi Aligner'is 10 korda kiiremini! Tasuta tõlkimine ja mitmekeelse
+        sisu haldamine.
       navbarlogo:
         link: "/et"
         alt: Aligner home page logo
