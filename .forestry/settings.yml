@@ -10,10 +10,11 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: content/menu
-  label: Menu
+  path: ''
+  label: Config
   create: all
-  match: "**/*"
+  match: config.yaml
+  new_doc_ext: ".yaml"
 - type: directory
   path: content/blog
   label: Blog
