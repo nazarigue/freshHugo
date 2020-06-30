@@ -30,7 +30,7 @@ params:
   navbarlogo: 
   # Logo (from static/images/logos/___)
     image: logos/logo-new.svg
-    link: /et
+    link: /en
     alt: Aligner
   font:
     name: "Poppins"
@@ -944,7 +944,7 @@ Languages:
               - text: Экспорт документов
               - text: Дополнительный машинный перевод
           - title: Freemium
-            price: СВОБОДНО
+            price: БЕСПЛАТНО
             icon: /images/hot-air-balloon.svg
             alt: Freemium
             heighlight: Основные функции
