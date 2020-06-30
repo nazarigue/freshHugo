@@ -1,42 +1,43 @@
 ---
-title: Mitmekeelsed kinnisvarainvesteeringud
+title: Mitmekeelsed Kinnisvarakuulutused
 sidebar: false
 ogImage: https://www.aligner.io/images/case/lvm.jpeg
-description: Aligner - mitmekeelsed kinnisvarainvesteeringud
-date: 2020-06-06T21:00:00+00:00
+description: Aligner - Mitmekeelsed Kinnisvarakuulutused
+date: 2020-06-06T21:00:00.000+00:00
 sidebarlogo: 
 image: "../images/case/lvm.jpeg"
 caseLogo: false
 
 ---
-## Joondajate kasutamine rahvusvahelises kinnisvaraäris
+## Aligner'i kasutamine kinnisvarasektoris
 
-## LVM-i kohta
+### LVM Kinnisvara
 
-LVM on üks juhtivaid kinnisvaraettevõtteid Eestis, kes kujundab selle tööstuse tulevikku. Alates 1992. aastast on LVM-i teenuseid kasutanud üle 30 000 kliendi. Rohkem kui 30 kinnisvaramaaklerit töötavad kirglikult uute regioonis kinnisvaraomanike leidmiseks. Pikaajalise kogemuse põhjal toetavad nad kinnisvaraomanikku igal sammul - alates sobiva hinna määramisest, müügiperioodi juhtimisest kuni tehingu lõpuleviimiseni.
+LVM on üks juhtivaid kinnisvaraettevõtteid Eestis, kes kujundab selle tööstuse tulevikku. Alates 1992. aastast on LVM'i teenuseid kasutanud üle 30 000 kliendi. Rohkem kui 30 kinnisvaramaaklerit töötavad pühendunult eri regioonides otsides kinnisvara objektidele ostjaid ja müüjaid. Pikaajalise kogemusele tuginedes toetavad nad kinnisvaraomanikku igal sammul - alates sobiva hinna määramisest, müügiperioodi juhtimisest kuni tehingu lõpuleviimiseni.
 
-Ainulaadne lähenemisviis on see, et LVM loob professionaalseid hästi struktureeritud müügimaterjale ja nimekirju, kust ostja saab lühidalt leida kõik vajalikud andmed kinnisvara kohta.
+Ainulaadne lähenemine müügiobjektidele väljendub LVM'i **professionaalsetes ja hästi struktureeritud müügimaterjalides**, kust ostja saab kiiresti leida kõik vajalikud andmed kinnisvara objekti kohta.
 
 ## Väljakutse
 
-Aitame oma klientidel oma kinnisvara professionaalselt müüa, hoides samas meeskonda keskendudes nende ülesannetele, selle asemel et korraldada tõlkeid, copywritingut ja sisuhaldust.
+LVM on ühelt poolt abiks kinnisvara müügiprotsessi juhtimises, kuid tesielt poolt püüab võimaldada oma meeskonnal **keskenduda nende põhiülesannetele, selle asemel et korraldada tõlkeid, _copywritingut_ ja sisuhaldust.**
 
-LVM-i jaoks on müügiprotsessis oluline aspekt kinnisvaraobjektide tõlkimise kiirus ja kvaliteet ning erinevatest rahvustest potentsiaalsetele klientidele teabe pakkumine. Ainuüksi Eestis teenindame kliente ** eesti, vene, inglise ja soome keeles **.
+Nende jaoks on müügiprotsessis oluline aspekt kinnisvaraobjektide tõlkimise kiirus ja kvaliteet ning erinevatest rahvustest potentsiaalsetele klientidele info levitamine nendele arusaadavas keeles. Ainuüksi Eestis **teenindatakse kliente eesti, vene, inglise ja soome keeltes.**
 
-Kinnisvaramaakleritel on piiratud eelarve ja tõlkimiseks kasutatakse sageli olemasolevaid ressursse, masintõlke tööriistu ja kolleegide abi.
+Kinnisvaramaakleritel on piiratud eelarve ja tõlkimiseks kasutatakse sageli olemasolevaid ressursse, Google Translate masintõlke platvormi ja kolleegide abi.
 
-## Joondaja kasutamise tulemused:
+## Aligner'i kasutamise tulemused
 
-> Aligner on kiire tehing kinnisvaraobjektide ja materjalide tutvustamiseks erinevates keeltes. Seda on lihtne kasutada ja Google'i tõlkega võrreldes saame tõlgitud kirjeid kohe redigeerida, salvestada ja jagada. ** Philip Saksing - akrediteeritud kinnisvaramaakler ja kontorijuht **
+> "Aligner on kiireim viis kinnisvara materjalide tõlkimiseks eri keeltesse. Seda on lihtne kasutada ja Google'i tõlkemootoriga võrreldes saame masintõlgitud sisu kohe toimetada, salvestada ja jagada."   
+> **Philip Saksing** - akrediteeritud kinnisvaramaakler ja kontorijuht 
 
-## Miks ja kuidas Alignerit kasutatakse:
+## Miks ja kuidas Alignerit kasutatakse
 
-Aligner pakub usaldusväärset platvormi, mida kasutame igal nädalal suure mõjuga kirjete loomiseks ja klientide vara kiiremaks müümiseks.
+Aligner on usaldusväärne tõlkeplatvorm, mida kasutatakse iga nädal kinnisvarakuulutuste loomiseks ja klientide vara kiiremaks müügiks.
 
-** Kinnisvarainformatsioonide tõlkimine ja ajakohastamine erinevates keeltes pole kunagi varem olnud nii tõhus ja korraldatud **.
+"Kinnisvarakuulutuste tõlkimine eri keeltesse pole kunagi varem olnud nii hästi korraldatud"
 
-LVM-i meeskond kasutab masintõlke mootorit, kahekordset redaktorit ja koostööfunktsioone.
+LVM'i meeskond kasutab Aligner'i masintõlget, parallelset toimetajat ja koostööfunktsioone.
 
-Aligneri meeskond tänab LVM-i koostöö eest!
+Aligneri meeskond tänab LVM'i hea koostöö eest!
 
 Loe lähemalt [LVM kohta](https://lvm.ee/ "LVM").
