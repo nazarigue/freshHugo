@@ -1,8 +1,8 @@
 ---
-title: 'Tõlkimine Meediatööstuse Juhtivas Ettevõttes '
+title: Ajakriitiline Tõlkimine Meediatööstuses
 date: 2020-04-02
 ogImage: https://www.aligner.io/images/case/ap.jpeg
-description: 'Aligner - Tõlkimine Meediatööstuse Juhtivas Ettevõttes '
+description: Aligner - Ajakriitiline Tõlkimine Meediatööstuses
 sidebar: false
 sidebarlogo: aligner-new.svg
 image: "../images/case/ap.jpeg"
