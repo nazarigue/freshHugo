@@ -20,7 +20,8 @@ sections:
   path: content/english
   label: Pages English
   create: all
-  match: "**"
+  match: "**/*"
+  exclude: "**/*/howto"
 - type: directory
   path: ''
   label: Config
