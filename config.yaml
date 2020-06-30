@@ -629,7 +629,7 @@ Languages:
         title: Hinnad
         subtitle: 
         buttonlink: "/hinnad"
-        buttonText: lisateave hindade kohta
+        buttonText: Lisateave hinnastuse kohta
         plans:
         - title: Freemium
           price: 0 dollarit
