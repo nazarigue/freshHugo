@@ -749,14 +749,14 @@ Languages:
         title: Aligner on loodud turundajatele ja sisuloojatele, kes tahavad olla
           produktiivsed.
         text: Aeg on tähtis. Protsessid peavad olema tõhusad. Aligner aitab põgeneda
-          igavestest failide saatmisest läbi emaili ning aitab tulemusi saavutada
-          koheselt.
-        linktext: Uuri kõiki võimalusi
+          igavesest failide saatmisest emaili teel ning saavutada tulemusi tunduvalt
+          kiiremini.
+        linktext: Vaata kõiki võimalusi
         linkurl: https://app.aligner.io
         list:
-        - title: Laienda oma kliendisegmenti
+        - title: Tutvusta oma toodet uutel turgudel
           image: "/images/crowd.png"
-        - title: Tehke asju kiiresti
+        - title: Tee tööd efektiivsemalt
           image: "/images/rocket.svg"
         - title: Krediitkaarti pole vaja
           image: "/images/no-credit-card.png"
