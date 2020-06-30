@@ -619,10 +619,11 @@ Languages:
         ctaAlt: 
       testimonials:
         enable: true
-        title: Tagasiside
+        title: Teised Aligner'ist
         subtitle: 
-        text: Aligner is great.
-        name: Co-Founder at Fooddocs
+        text: 'Aligner on väga lihtne, kasutajasõbralik ja mugav tööriist, mis aitab
+          hallata sisu eri keeltes ja vajadusel ka kiiresti uuendada. '
+        name: Katrin Liivat, Fooddocs'i kaasasutaja
         image: "/images/katrin_fooddocs.svg"
       pricingInner:
         enable: true
