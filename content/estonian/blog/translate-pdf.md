@@ -1,38 +1,38 @@
 ---
-title: Tõlgi tasuta PDF fail Aligneris
+title: Tõlgi tasuta PDF faile Aligneris
 date: 2020-06-02
 ogImage: https://www.aligner.io/images/pdf-aligner.jpeg
-description: "Aligner - Tõlgi tasuta PDF fail Aligneris"
+description: Aligner - Tõlgi tasuta PDF fail Aligneris
 sidebar: false
 sidebarlogo: aligner-new.svg
 image: "../images/pdf-aligner.jpeg"
-url: /et/tõlgi-tasuta-pdf
----
+url: "/et/tõlgi-tasuta-pdf"
 
+---
 ### PDF on üks populaarsemaid failivorminguid
 
-PDF tähendab kaasaskantavat dokumendivormingut, mille Adobe töötas välja 90ndatel. PDF-i omamise põhiväärtus oli failide jagamine ilma toimetajata ja vorminduse ilusana hoidmine.
+PDF tähendab dokumendivormingut, mille Adobe töötas välja 90ndatel aastatel. PDF-i põhiväärtus oli failide jagamine ilma toimetajata ja vorminduse ilusana hoidmine.
 
-Aligner võimaldab nüüd lisada PDF-faile ja tõlkida kogu teie dokumendist eraldatud tekst 140 keelde. Kuidas see töötab:
+Aligner võimaldab nüüd lisada tõlkeplatvormi PDF-faile ja tõlkida lisatud dokumendist eraldatud tekst 140+ keelde! Kohe näitame, kuidas see töötab:
 
-### PDF-i üleslaadimine Alignerisse
+### PDF-i üleslaadimine Aligner'isse
 
-Aligneris PDF-faili üleslaadimiseks minge redigeerijasse või "+ Uus dokument" ja lohistage PDF-fail piirkonda.
+Aligner'is PDF-faili üleslaadimiseks vali "+ Uus dokument" ja lohista PDF-fail hallile alale.
 
 ![](/blog/aligner-pdf.gif)
 
-### Keele lisamine
+### Keelte lisamine
 
-Kui olete teksti PDF-failist ekstraheerinud, klõpsake "Tõlgi" ja valige Masintõlge. Järgmise sammuna valige keel, mille soovite selle tõlkida.
+Kui näed oma PDF-failist eraldatud teksti, klõpsa "Translate" ja vali Masintõlge. Järgmise sammuna vali keel, millesse soovid selle tõlkida. Valides "Inimtõlge", Aligner leiab Sulle sobiva tõlkija vaid kahe sekundiga, kuvades täpset hinda ja tarneaja. Ühele tekstide võid lisada piiramatult keeli, korrates sama protseduuri: "Tõlgi" > "Masintõlge"
 
 ![](/blog/aligner-add-language.gif)
 
-### Kui olete tõlkega lõpetanud, kasutage PDF-i eksportimist Alignerist
+### Kui oled tõlkimisega lõpetanud, kasuta PDF-i eksportimise võimalust
 
-Vajadusel eksportige tagasi PDF-faili. Klõpsake "Toimingud" ja valige "Eelvaate PDF". Aktiivne redigeerimiskeel ilmub PDF-failina.
+Saad jagada tõlgitud sisu otse Aligner'ist või eksportida tagasi PDF-failina. Klõpsa "Actions" ja vali "Preview PDF". Aktiivne keel, mis on parasjagu lahti, ilmub PDF-failina.
 
 ![](/blog/aligner-export-pdf.gif)
 
-Nüüd on teie kord laadida üles PDF-id ja tõlkida need eri keeltesse. Lisaks masintõlkele pakume vabakutseliste tõlkide hulka, nii et kui vajate välist abi, on see teie jaoks olemas. Hinnapakkumise ja tarneaja nägemiseks valige "Inimese tõlge" ja kui kõik kõlab teie jaoks suurepäraselt, kinnitage oma tellimus veebis.
+Nüüd on Sinu kord laadida üles mõni PDF fail ja tõlkida see eri keeltesse. Lisaks masintõlkele pakume vabakutseliste ja professionaalsete tõlkijate teenuseid, nii et, kui vajad välist abi, on see Sinu jaoks 24/7 olemas kiiresti jamugavalt. Hinnapakkumise ja tarneaja nägemiseks vali "Translate" >"Human Translation" ja kui kõik sobib suurepäraselt, kinnita oma tellimus onlines. Ilma ühegi e-kirja saatmata. Aligner'ist saab tõlketeenust ka riigipühadel, laupäeva ja pühapäeva õhtul ja ükskõik millal Sul on seda vaja!
 
-[Alustage tõlkimist tasuta siit](https://app.aligner.io)!
+[Alusta tõlkimist tasuta siit](https://app.aligner.io)!
