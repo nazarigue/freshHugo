@@ -609,9 +609,9 @@ Languages:
           - text: Õigustesüsteem
       CTA:
         enable: true
-        title: Väljuge käsitööst ja liituge Aligneriga
+        title: Uuri järele, miks 2000+ tiimi Aligner’it kasutab!
         subtitle: 
-        text: Aitame teil tõlkimisprotsesse automatiseerida
+        text: Töö dokumentidega eri keeltes on nüüd lihtne.
         btnText: Broneeri kõneaeg
         btnKlass: btn-aligner rounded
         btnURL: https://calendly.com/aligner/15min
