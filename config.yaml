@@ -61,7 +61,7 @@ params:
   - title: Blog
     url: /blog/
   - title: Tutorials
-    url: /resources
+    url: /tutorials
  # - title: Resources
   #  url: /resources
   - title: Log in
@@ -490,9 +490,9 @@ Languages:
           - 400
           - 600
       hero:
-        title: Looge ja jagage sisu mitmes keeles. Sujuvalt.
-        subtitle: Tasuta mitmekeelse sisu töötluse platvorm
-        buttontext: Alusta siin →
+        title: Tõlgi ja jaga sisu erinevates keeltes. Kiiresti ja mugavalt.
+        subtitle: Tasuta dokumentide tõlkimise ja haldamise platvorm
+        buttontext: Proovi tasuta →
         buttonlink: https://app.aligner.io
         buttontext2: null
         buttonlink2: null
@@ -504,14 +504,9 @@ Languages:
           url: /et/hinnad
         - title: Blogi
           url: /et/blogi
-        - title: Teenused
+        - title: Õpetused
           sublinks:
-            - title: POOL - inimtõlke API
-              url: https://pool.aligner.io
-            - title: GO - inimtõlked
-              url: https://go.aligner.io
-            - title: APP - sisuhaldus
-              url: https://app.aligner.io
+          url: /et/õpetused
         - title: Logi sisse
           url: https://app.aligner.io
         - title: Alusta siin →
@@ -524,7 +519,7 @@ Languages:
         buttonlink: /et/funktsioonid
         buttonText: Vaata kõiki funktsioone →
         list:
-          - title: Redigeeri
+          - title: Toimeta
             text: Muuda sisu ühes keeles ja kõik tõlked uuendatakse automaatselt.
             image: /images/textedit.svg
             alt: Redigeeri
@@ -552,26 +547,26 @@ Languages:
         title: Tööta dokumentidega mitmes keeles.
         subtitle: Loodud turundajatele ja sisuloojatele.
         features:
-          - title: Muutke kõiki keeli korraga
-            text: Aligneris sünkroonitakse kõik keeled sisu muutmisel automaatselt. Nüüdsest failide edasi-tagasi saatmine ei ole vajalik.
+          - title: Muudatused kõigis keeltes korraga
+            text: Aligner aitab hoida sisu erinevates keeltes automaatselt sünkroonis. Rakenda muudatusi vaid sekunditega. Dokumentide edasi-tagasi saatmine on nüüd minevik.
             image: /images/ai-illustration.svg
             alt: Muutke kõiki keeli
             btnText: Vaata kuidas see töötab →
             btnURL: https://app.aligner.io
-          - title: Kutsuge kõik osapooled redigeerima
-            text: Jagage keeli vajalikele osapooltele, tehke koostööd, kõik muudatused on salvestatud.
+          - title: Kõik osapooled töötavad koos
+            text: Jaga tõlgitud dokumente kolleegide või tuttavaga. Koostöös on mugav sisu eri keeltes toimetada, sest Aligner salvestab iga muudatuse.
             image: /images/team-image.svg
             alt: Pange kõik inimesed ühte kohta kokku
             btnText: Alusta tööd ja kutsu tiimiliikmed →
             btnURL: https://app.aligner.io
-          - title: Aligner on osa sinu töövoost
-            text: Ühendage oma dokumendid Google Docs või teiste süsteemidega ning jätkake oma tööprotsesse tavapäraselt.
+          - title: Aligner aitab juhtida töövoogu
+            text: Nüüd saad jälgida tõlgete valmimist, prognoosida käivet ja ühenda oma dokumendid Google Docs või teiste süsteemidega. Keskendu olulisele ja kasuta oma aega targalt. 
             image: /images/flags-illustration.svg
             alt: Pidevalt osa teie töövoogudest
             btnText: Google'i dokumentidega ühendamine →
             btnURL: https://app.aligner.io
           - title: Rohkem selgust, kiirem tulemus
-            text: Aligner aitab korraldada kõikide osapoolte vahelist suhtlust ja teavitab kõikidest uuendustest.
+            text: Aligneri abiga saad korraldada erinevate osapoolte vahelist suhtlust, rakendada masin- või inimtõlget ja kiirendada tööd erikeeltes dokumentidega.
             image: /images/version-control.svg
             alt: Rohkem selgust, kiirem suhtlus
             btnText: Kasutage Alignerit kohe →
@@ -855,14 +850,8 @@ Languages:
           url: /ru/Тарифы
         - title: Блог
           url: /ru/blogi
-        - title: Сервисы
-          sublinks:
-            - title: POOL - API перевода человека
-              url: https://pool.aligner.io
-            - title: GO - человеческие переводы
-              url: https://go.aligner.io
-            - title: APP - управление контентом
-              url: https://app.aligner.io
+        - title: Обучение
+          url: /ru/обучение
         - title: авторизоваться
           url: https://app.aligner.io
         - title: Начните здесь →
