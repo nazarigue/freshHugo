@@ -15,13 +15,13 @@ sections:
   label: Pages Russian
   create: all
   match: "**/*"
-  exclude: "**/howto"
+  exclude: "**/howto/*"
 - type: directory
   path: content/english
   label: Pages English
   create: all
   match: "**/*"
-  exclude: "*/howto"
+  exclude: "**/howto/*"
 - type: directory
   path: ''
   label: Config
