@@ -504,8 +504,7 @@ Languages:
         buttonText: Vaata kõiki funktsioone →
         list:
         - title: Toimeta
-          text: Aligner hoiab sisu erinevates keeltes automaatselt sünkroonis. Muudatustega
-            failide edasi-tagasi saatmine on nüüd minevik!
+          text: 'Toimeta sisu erinevates keeltes mugavas paralleelvaates. '
           image: "/images/textedit.svg"
           alt: Toimeta
           btnURL: ''
