@@ -8,12 +8,12 @@ sections:
   path: content/russian
   label: Pages Russian
   create: all
-  match: "**/*"
+  match: "**"
 - type: directory
   path: content/english
   label: Pages English
   create: all
-  match: "*"
+  match: "**"
 - type: directory
   path: ''
   label: Config
