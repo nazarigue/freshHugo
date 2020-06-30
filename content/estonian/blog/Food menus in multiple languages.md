@@ -9,7 +9,7 @@ image: "../blog/noa_logo.svg"
 url: "/et/toidumenüüd-erikeeltes"
 
 ---
-# Üks edukas Tallinnas asuv [Noa restoran](https://www.noaresto.ee/et/) teenindab kliente kogu maailmast.
+# Tallinnas asuv [Noa restoran](https://www.noaresto.ee/et/) teenindab kliente kogu maailmast.
 
 ![](/blog/2020-05-25-15-08-55.jpeg)
 
