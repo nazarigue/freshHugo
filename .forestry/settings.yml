@@ -5,12 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/russian
-  label: Ru2
-  create: all
-  match: "**/*"
-  exclude: "**/howto"
-- type: directory
   path: content/estonian
   label: Pages Estonian
   create: all
