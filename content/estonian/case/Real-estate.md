@@ -1,38 +1,42 @@
 ---
-title: Multilingual listings in real-estate
+title: Mitmekeelsed kinnisvarainvesteeringud
 sidebar: false
-ogImage: "https://www.aligner.io/images/case/lvm.jpeg"
-description: "Aligner - Multilingual listings in real-estate"
-date: 2020-04-01
+ogImage: https://www.aligner.io/images/case/lvm.jpeg
+description: Aligner - mitmekeelsed kinnisvarainvesteeringud
+date: 2020-06-06T21:00:00+00:00
 sidebarlogo: 
-image: ../images/case/lvm.jpeg
+image: "../images/case/lvm.jpeg"
 caseLogo: false
-draft: false
+
 ---
-## Aligner usage in international real-estate business
+## Joondajate kasutamine rahvusvahelises kinnisvaraäris
 
+## LVM-i kohta
 
-## About LVM 
-LVM is among the leading real estate companies in Estonia shaping the future of the industry. Since 1992, more than 30,000 clients have used the services of the LVM. More than 30 real estate brokers passionately work to find new owners for real estate across the region. Based on long-term experience, they support the owner of the property on every step - from determining the appropriate price, managing the sales period until completing the deal. 
-The unique approach is that LVM creates professional well-structured sales materials and listings from which the buyer can find all necessary data about the property in a concise way. 
+LVM on üks juhtivaid kinnisvaraettevõtteid Eestis, kes kujundab selle tööstuse tulevikku. Alates 1992. aastast on LVM-i teenuseid kasutanud üle 30 000 kliendi. Rohkem kui 30 kinnisvaramaaklerit töötavad kirglikult uute regioonis kinnisvaraomanike leidmiseks. Pikaajalise kogemuse põhjal toetavad nad kinnisvaraomanikku igal sammul - alates sobiva hinna määramisest, müügiperioodi juhtimisest kuni tehingu lõpuleviimiseni.
 
-## Challenge
-Helping our customers to sell their property in a professional manner, while keeping our team focused on their tasks, instead of arranging translations, copywriting and content management. 
-For LVM the speed and quality of translations of real estate listings and providing information to the potential customers from various nationalities is an important aspect within the sales process. In Estonia alone we serve customers in **Estonian, Russian, English and Finnish** languages. 
+Ainulaadne lähenemisviis on see, et LVM loob professionaalseid hästi struktureeritud müügimaterjale ja nimekirju, kust ostja saab lühidalt leida kõik vajalikud andmed kinnisvara kohta.
 
-Real estate agents have a limited budget and often translations are done using existing resources, machine translation tools and help of the colleagues.  
+## Väljakutse
 
-## Aligner usage results:
-> Aligner is the fast track to roll out real estate listings and materials in different languages. It’s easy to use and compared to Google Translate we can edit, store and share translated listings right away. **Philip Saksing - Accredited Real Estate Broker and Office Manager**
+Aitame oma klientidel oma kinnisvara professionaalselt müüa, hoides samas meeskonda keskendudes nende ülesannetele, selle asemel et korraldada tõlkeid, copywritingut ja sisuhaldust.
 
+LVM-i jaoks on müügiprotsessis oluline aspekt kinnisvaraobjektide tõlkimise kiirus ja kvaliteet ning erinevatest rahvustest potentsiaalsetele klientidele teabe pakkumine. Ainuüksi Eestis teenindame kliente ** eesti, vene, inglise ja soome keeles **.
 
-## Why and how Aligner is used:
+Kinnisvaramaakleritel on piiratud eelarve ja tõlkimiseks kasutatakse sageli olemasolevaid ressursse, masintõlke tööriistu ja kolleegide abi.
 
-Aligner provides a reliable platform we use on a weekly basis to create high-impact listings and sell our customers’ property faster. 
-**Translating and keeping real estate listings up-to-date in different languages has never been so efficient and organized**. 
-LVM team uses a machine translation engine, dual editor and collaboration features.
+## Joondaja kasutamise tulemused:
 
+> Aligner on kiire tehing kinnisvaraobjektide ja materjalide tutvustamiseks erinevates keeltes. Seda on lihtne kasutada ja Google'i tõlkega võrreldes saame tõlgitud kirjeid kohe redigeerida, salvestada ja jagada. ** Philip Saksing - akrediteeritud kinnisvaramaakler ja kontorijuht **
 
-Aligner team thanks LVM for the collaboration!
+## Miks ja kuidas Alignerit kasutatakse:
 
-Read more about [LVM](https://lvm.ee/ "LVM").
+Aligner pakub usaldusväärset platvormi, mida kasutame igal nädalal suure mõjuga kirjete loomiseks ja klientide vara kiiremaks müümiseks.
+
+** Kinnisvarainformatsioonide tõlkimine ja ajakohastamine erinevates keeltes pole kunagi varem olnud nii tõhus ja korraldatud **.
+
+LVM-i meeskond kasutab masintõlke mootorit, kahekordset redaktorit ja koostööfunktsioone.
+
+Aligneri meeskond tänab LVM-i koostöö eest!
+
+Loe lähemalt [LVM kohta](https://lvm.ee/ "LVM").
