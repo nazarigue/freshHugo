@@ -479,7 +479,8 @@ Languages:
     params:
       BookMenuBundle: /menüü
       openGraph: true
-      description: Tõlkige Aligneriga 10 korda kiiremini. Tasuta koostöö tööriist.
+      description: Tõlgi Aligner'is 10 korda kiiremini! Tasuta tõlkimine ja mitmekeelse
+        sisu haldamine.
       navbarlogo:
         link: /et
         alt: Aligner home page logo
@@ -519,29 +520,29 @@ Languages:
         buttonlink: /et/funktsioonid
         buttonText: Vaata kõiki funktsioone →
         list:
-          - title: Toimeta
-            text: Muuda sisu ühes keeles ja kõik tõlked uuendatakse automaatselt.
-            image: /images/textedit.svg
-            alt: Redigeeri
-            btnURL: ""
-          - title: Tõlgi
-            text: Kasutage masintõlget kogu dokumendi või lause tõlkimiseks.
-            image: /images/roboto-logo.svg
-            alt: Tõlgi
-            btnText: Üleskutse tegevusele
-            btnURL: ""
-          - title: Jaga
-            text: Tehke koostööd meeskondadega ning tasuta agage dokumente kõikide osapooltega.
-            image: /images/team.svg
-            alt: Jaga
-            btnText: null
-            btnURL: ""
-          - title: Avalda
-            text: Avalda oma sisu veebis või lae alla failidena.
-            image: /images/reload.svg
-            alt: Avalda
-            btnText: null
-            btnURL: ""
+        - title: Toimeta
+          text: Toimeta sisu erinevates keeltes mugavas paralleelvaates.
+          image: "/images/textedit.svg"
+          alt: Toimeta
+          btnURL: ''
+        - title: Tõlgi
+          text: Rakenda parimat masintõlget kogu dokumendi või valitud lausete tõlkimiseks.
+          image: "/images/roboto-logo.svg"
+          alt: Tõlgi
+          btnText: Üleskutse tegevusele
+          btnURL: ''
+        - title: Jaga
+          text: Tee koostööd tiimiga ning jaga tasuta dokumente kõigi osapooltega.
+          image: "/images/team.svg"
+          alt: Jaga
+          btnText: 
+          btnURL: ''
+        - title: Avalda
+          text: Avalda oma sisu veebis või lae alla failidena.
+          image: "/images/reload.svg"
+          alt: Avalda
+          btnText: 
+          btnURL: ''
       froalaDesign:
         enable: true
         title: Tööta dokumentidega mitmes keeles.
@@ -811,7 +812,7 @@ Languages:
       caseBtn: Loe lähemalt
       latestTitle: Blogi
       moreBtn: Vaata rohkem
-      checkBlog: Uurige meie blogi
+      checkBlog: Loe meie blogi
       checkBlogUrl: "/et/blogi/"
 ################################### Russian language #####################################
   ru:
