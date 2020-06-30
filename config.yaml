@@ -515,7 +515,7 @@ Languages:
           btnText: Üleskutse tegevusele
           btnURL: ''
         - title: Jaga
-          text: Tehke koostööd meeskondadega ning tasuta agage dokumente kõikide osapooltega.
+          text: Tee koostööd tiimiga ning jaga tasuta dokumente kõigi osapooltega.
           image: "/images/team.svg"
           alt: Jaga
           btnText: 
