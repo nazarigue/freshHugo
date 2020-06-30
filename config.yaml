@@ -1,69 +1,52 @@
+---
 baseURL: 
 languageCode: en-us
 DefaultContentLanguage: en
 title: Aligner | Translate 10X faster | Online free platform.
 theme: hugo-fresh
 googleAnalytics: UA-138300699-1
-# Disables warnings
 disableKinds:
 - taxonomy
 - taxonomyTerm
 markup:
   goldmark:
     renderer:
-      unsafe: true # Allows you to write raw html in your md files
-
-
+      unsafe: true
 menu:
-  # before: []
-  after: 
-    - name: "Hugo Themes"
-      url: "https://themes.gohugo.io/hugo-book/"
-      weight: 20
-
+  after:
+  - name: Hugo Themes
+    url: https://themes.gohugo.io/hugo-book/
+    weight: "20"
 params:
-  BookMenuBundle: /menu
-  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  BookMenuBundle: "/menu"
   openGraph: true
-  # Used as meta data; describe your site to make Google Bots happy 
   description: Translate 10 times faster with Aligner. Free collaboration tool.
-  navbarlogo: 
-  # Logo (from static/images/logos/___)
+  navbarlogo:
     image: logos/logo-new.svg
-    link: /et
+    link: "/et"
     alt: Aligner
   font:
-    name: "Poppins"
-    sizes: [400,600]
+    name: Poppins
+    sizes:
+    - 400
+    - 600
   hero:
-    # Main hero title
     title: Seamlessly create and organize content in multiple languages.
-    # Hero subtitle (optional)
     subtitle: Free multilingual content management tool
-    # Button text
     buttontext: Start now →
-    # Where the main hero button links to
     buttonlink: https://app.aligner.io
-    # Button text
     buttontext2: 
-    # Where the main hero button links to
-    buttonlink2:  
-    # Hero image (from static/images/___)
-   # image: banner-desktop.svg
-    # Footer logos (from static/images/logos/clients/___.svg)
-    clientlogos:
-  # Customizable navbar. For a dropdown, add a "sublinks" list.  Features, Pricing, Solutions (dropdown with three elements), Resources
+    buttonlink2: 
+    clientlogos: 
   navbar:
   - title: Features
-    url: /features
+    url: "/features"
   - title: Pricing
-    url: /pricing
+    url: "/pricing"
   - title: Blog
-    url: /blog/
+    url: "/blog/"
   - title: Tutorials
-    url: /tutorials
- # - title: Resources
-  #  url: /resources
+    url: "/tutorials"
   - title: Log in
     url: https://app.aligner.io
   - title: Start free now →
@@ -77,333 +60,341 @@ params:
     - title: Upload file
       icon: upload-cloud
       text: Get the value now by going directly into publishing new languages.
-      url: /features
+      url: "/features"
       buttonText: See supported formats
     - title: Use Machine Translation
       icon: zap-2
       text: Machine translation provides 95% of accuracy and improves monthly.
-      url: /
+      url: "/"
       buttonText: Try best engines here
     - title: Invite people to proofread
       icon: user-plus
       text: Trackable, easy to fix pieces provide clear call to action to all shareholders
-      url: /
+      url: "/"
       buttonText: Get started
   features:
     enable: true
-    title: Features 
-    subtitle:  
-    buttonlink: /features
+    title: Features
+    subtitle: 
+    buttonlink: "/features"
     buttonText: See all the features →
     list:
     - title: Edit
       text: No hassle with tracking changes across your content in different languages.
-      image: /images/textedit.svg
+      image: "/images/textedit.svg"
       alt: Edit
       btnText: 
-      btnURL: ""
-      btnKlass: "" 
+      btnURL: ''
+      btnKlass: ''
     - title: Translate
-      text: Use machine translation to translate the whole document or selectively just a piece.
-      image: /images/roboto-logo.svg
+      text: Use machine translation to translate the whole document or selectively
+        just a piece.
+      image: "/images/roboto-logo.svg"
       alt: Translate
       btnText: Call to Action
-      btnURL: ""
-      btnKlass: ""
+      btnURL: ''
+      btnKlass: ''
     - title: Share
       text: Work with teams and let internal or external collaborators in.
-      image: /images/team.svg
+      image: "/images/team.svg"
       alt: Share
       btnText: 
-      btnURL: ""
-      btnKlass: ""
+      btnURL: ''
+      btnKlass: ''
     - title: Publish
       text: Publish your content to your web, document or other resource.
-      image: /images/reload.svg
+      image: "/images/reload.svg"
       alt: Publish
       btnText: 
-      btnURL: ""
-      btnKlass: ""
+      btnURL: ''
+      btnKlass: ''
   froalaDesign:
     enable: true
     title: Work on multilingual documents with ease
     subtitle: Made for marketers and content creators.
     features:
     - title: Make changes to all languages
-      text: No back and forth emails and files. In Aligner you get syncrhonised all languages automatically when updating pieces of the content.
-      image: /images/ai-illustration.svg
+      text: No back and forth emails and files. In Aligner you get syncrhonised all
+        languages automatically when updating pieces of the content.
+      image: "/images/ai-illustration.svg"
       alt: Make changes to all languages
       btnText: See it in action →
       btnURL: https://app.aligner.io
-      btnKlass: "secondary-btn" 
+      btnKlass: secondary-btn
     - title: Bring all people together in one place
       text: Assign languages, invite collaborators and always stay on the top of updates.
-      image: /images/team-image.svg
+      image: "/images/team-image.svg"
       alt: Bring all people together in one place
       btnText: Start working and invite people →
       btnURL: https://app.aligner.io
-      btnKlass: "primary-btn"
+      btnKlass: primary-btn
     - title: Continuously a part of your workflows
-      text: Get things syncrhonised with Google Docs and other services without leaving your favourite apps.
-      image: /images/flags-illustration.svg
+      text: Get things syncrhonised with Google Docs and other services without leaving
+        your favourite apps.
+      image: "/images/flags-illustration.svg"
       alt: Continuously a part of your workflows
       btnText: Syncronise Google Docs →
       btnURL: https://app.aligner.io
-      btnKlass: "secondary-btn"
+      btnKlass: secondary-btn
     - title: More clarity, faster communication
-      text: Aligner help to organise communication between shareholders and deliver the right task. 
-      image: /images/version-control.svg
+      text: Aligner help to organise communication between shareholders and deliver
+        the right task.
+      image: "/images/version-control.svg"
       alt: More clarity, faster communication
       btnText: Use Aligner now →
       btnURL: https://app.aligner.io
-      btnKlass: "accent-btn"
+      btnKlass: accent-btn
   pricing:
     enable: true
     title: Pricing Plans
-    subtitle:  
+    subtitle: 
     buttonlink: "/pricing"
     buttonText: learn more about pricing
-    btnKlass: "btn-aligner rounded"
+    btnKlass: btn-aligner rounded
     plans:
     - title: Premium
-      price: $9 / mo
-      icon: /images/plane.svg
+      price: "$9 / mo"
+      icon: "/images/plane.svg"
       alt: Premium
       heighlight: Get things done yourself fast
       btnText: Learn more
-      btnURL: /pricing
-      btnKlass: "btn-aligner rounded"
+      btnURL: "/pricing"
+      btnKlass: btn-aligner rounded
       features:
-        - text: Dual editor
-        - text: Google Drive Integrations
-        - text: Document Export
-        - text: Selective Machine translation
+      - text: Dual editor
+      - text: Google Drive Integrations
+      - text: Document Export
+      - text: Selective Machine translation
     - title: Freemium
       price: FREE
-      icon: /images/hot-air-balloon.svg
+      icon: "/images/hot-air-balloon.svg"
       alt: Freemium
       heighlight: Basics that will amaze you
       btnText: Start now
       btnURL: https://app.aligner.io
-      btnKlass: "btn-aligner rounded"
+      btnKlass: btn-aligner rounded
       features:
-        - text: Dual editor
-        - text: Limited Machine Translation
-        - text: Unlimited Sharing
-        - text: Word and PDF Import
+      - text: Dual editor
+      - text: Limited Machine Translation
+      - text: Unlimited Sharing
+      - text: Word and PDF Import
     - title: Team
-      price: $29.90 / mo
-      icon: /images/sun.svg
+      price: "$29.90 / mo"
+      icon: "/images/sun.svg"
       alt: Team
       heighlight: Extra team functionality
       btnText: Learn more
       btnURL: "/pricing"
-      btnKlass: "btn-aligner rounded"
+      btnKlass: btn-aligner rounded
       features:
-        - text: Up to 5 people, next $4
-        - text: Versioning 
-        - text: Workflows
-        - text: Permissions
+      - text: Up to 5 people, next $4
+      - text: Versioning
+      - text: Workflows
+      - text: Permissions
   CTA:
     enable: true
     title: Get out from the manual routine and shift to Aligner
-    subtitle:
+    subtitle: 
     text: Let us help you to explore the possibilities
     btnText: Book a time with us
     btnURL: https://calendly.com/aligner/15min
-    btnKlass: "btn-aligner rounded"
+    btnKlass: btn-aligner rounded
     clientlogos: 
     ctaAlt: 
   testimonials:
     enable: true
     title: Testimonials
     subtitle: 
-    text: With Aligner, you get superspeed at editing content in multiple languages. All synchronisation happens automatically and it's easy to add up new languages to the business.
+    text: With Aligner, you get superspeed at editing content in multiple languages.
+      All synchronisation happens automatically and it's easy to add up new languages
+      to the business.
     name: Co-Founder at Fooddocs
-    image: /images/katrin_fooddocs.svg
+    image: "/images/katrin_fooddocs.svg"
   pricingInner:
     enable: true
     title: Pricing
-    subtitle:
+    subtitle: 
     buttonlink: "/pricing"
     buttonText: learn more about pricing
-    btnKlass: "btn-aligner rounded"
+    btnKlass: btn-aligner rounded
     plans:
     - title: Freemium
-      price: $0
-      icon: /images/plane.svg
+      price: "$0"
+      icon: "/images/plane.svg"
       alt: Freemium
       heighlight: Get things done quick
       btnText: Start now →
       btnURL: https://app.aligner.io
-      btnKlass: "secondary-btn"
+      btnKlass: secondary-btn
     - title: Premium
-      price: $8.99/mo
-      icon: /images/hot-air-balloon.svg
+      price: "$8.99/mo"
+      icon: "/images/hot-air-balloon.svg"
       alt: Premium
       heighlight: For medium companies
       btnText: Coming soon
       btnURL: "#"
-      btnKlass: "primary-btn"
+      btnKlass: primary-btn
     - title: Team
-      price: $29.99/mo
-      icon: /images/sun.svg
+      price: "$29.99/mo"
+      icon: "/images/sun.svg"
       alt: Team
       heighlight: For large companies
       btnText: Coming soon
       btnURL: "#"
-      btnKlass: "secondary-btn"      
+      btnKlass: secondary-btn
     features:
-      - list: 
-        - Dual editor
-        - true
-        - true
-        - true
-      - list: 
-        - Languages
-        - 3
-        - 5
-        - 10
-      - list: 
-        - Documents
-        - 40
-        - Unlimited
-        - Unlimited
-      - list: 
-        - Syncrhonised styles
-        - true
-        - true
-        - true
-      - list: 
-        - Machine Translation
-        - true
-        - true
-        - true
-      - list: 
-        - Selective Machine Translation
-        - true
-        - true
-        - true
-      - list: 
-        - Import
-        - docx and Google docs
-        - docx and Google docs, integrations
-        - extended functionality
-      - list: 
-        - Export
-        - .docx or Google Docs, PDF
-        - .docx or Google Docs, PDF
-        - extended functionality
-      - list: 
-        - Sharing
-        - true
-        - true
-        - true
-      - list: 
-        - Publishing
-        - public links
-        - public and private links
-        - public and private links
-      - list: 
-        - Worklows
-        - '-'
-        - true
-        - true
-      - list: 
-        - Rights
-        - '-'
-        - true
-        - true
-        - 
+    - list:
+      - Dual editor
+      - true
+      - true
+      - true
+    - list:
+      - Languages
+      - 3
+      - 5
+      - 10
+    - list:
+      - Documents
+      - 40
+      - Unlimited
+      - Unlimited
+    - list:
+      - Syncrhonised styles
+      - true
+      - true
+      - true
+    - list:
+      - Machine Translation
+      - true
+      - true
+      - true
+    - list:
+      - Selective Machine Translation
+      - true
+      - true
+      - true
+    - list:
+      - Import
+      - docx and Google docs
+      - docx and Google docs, integrations
+      - extended functionality
+    - list:
+      - Export
+      - ".docx or Google Docs, PDF"
+      - ".docx or Google Docs, PDF"
+      - extended functionality
+    - list:
+      - Sharing
+      - true
+      - true
+      - true
+    - list:
+      - Publishing
+      - public links
+      - public and private links
+      - public and private links
+    - list:
+      - Worklows
+      - "-"
+      - true
+      - true
+    - list:
+      - Rights
+      - "-"
+      - true
+      - true
+      - 
   featuresList:
     enable: false
     title: Features
     subtitle: Work simultaneously with no-matter-how-many languages
-    image1: /images/recording.mov
-    #image2: /images/hero-image.jpg
+    image1: "/images/recording.mov"
     features:
     - title: Auto-Styling
       text: All styles syncrhonised through the languages
-      icon: /images/css.svg
+      icon: "/images/css.svg"
     - title: HTML based
       text: Easily use any of the Web components
-      icon: /images/html.svg
+      icon: "/images/html.svg"
     - title: Collaboration
       text: Invite colleagues, translators, proofreaders
-      icon: /images/collaborate-features.png
+      icon: "/images/collaborate-features.png"
     - title: PDF export
       text: Ready to print? We are PDF ready.
-      icon: /images/pdf-translate.svg
+      icon: "/images/pdf-translate.svg"
     - title: Google Docs
       text: Sync with your Google Docs account
-      icon: /images/docs.svg
+      icon: "/images/docs.svg"
     - title: Microsoft Word
       text: Upload Word content with ease
-      icon: /images/word.svg
+      icon: "/images/word.svg"
     - title: Machine Translation
       text: Combination of best engines
-      icon: /images/languages.svg
+      icon: "/images/languages.svg"
     - title: 136+ Languages
       text: You are covered, globally
-      icon: /images/globe.svg
+      icon: "/images/globe.svg"
   froalaBlock:
     enable: true
     title: Aligner is built for marketers and creators who care about being productive.
-    text: Time. It's all about being effective. Escape back-n-forth emailing, long deadlines. Alinger is made to make things happen instant.
-    linktext: "Start exploring all possibilities <i class='fa fa-angle-right'></i>"
+    text: Time. It's all about being effective. Escape back-n-forth emailing, long
+      deadlines. Alinger is made to make things happen instant.
+    linktext: Start exploring all possibilities <i class='fa fa-angle-right'></i>
     linkurl: https://app.aligner.io
     list:
     - title: Reach new audience
-      image: /images/crowd.png
+      image: "/images/crowd.png"
     - title: Do things faster
-      image: /images/rocket.svg
+      image: "/images/rocket.svg"
     - title: No credit card required
-      image: /images/no-credit-card.png
+      image: "/images/no-credit-card.png"
     - title: Cloud
-      image: /images/cloud.png
+      image: "/images/cloud.png"
   section2:
     enable: false
     title: Why people use Aligner?
     subtitle: Our users care about being effective.
     features:
-    - title: Most efficient formula 
-      text: Human input + Machine Translation + Human Proofreading = **10X times faster results**. Just log in and start working.
-      # Icon (from /images/illustrations/icons/___.svg)
+    - title: Most efficient formula
+      text: Human input + Machine Translation + Human Proofreading = **10X times faster
+        results**. Just log in and start working.
       icon: users
     - title: Styles automated
-      text: Once styles are applied in any of the languages, all others will be syncrhonised. We have reduced necessity of clicks.
+      text: Once styles are applied in any of the languages, all others will be syncrhonised.
+        We have reduced necessity of clicks.
       icon: zap
     - title: Choose the people you work with
       text: Feel free to add anyone to your processes with no financial attachments.
       icon: share
-
   section4:
     enable: false
     title: How does it feel like to be 10X faster?
     subtitle: People love Aligner from different verticals.
     clients:
     - name: Merilin V.
-      quote: Getting translations done is 10 times faster in Aligner. Being faster means you’re going to bring services into new markets quicker. We want to use the best tools that help us to be more efficient
+      quote: Getting translations done is 10 times faster in Aligner. Being faster
+        means you’re going to bring services into new markets quicker. We want to
+        use the best tools that help us to be more efficient
       job: Office Manager
-      img: 1
+      img: "1"
     - name: Anari H.
-      quote: I can translate articles in Aligner and improve my content on the go, just like I need it. With machine learning I expect Aligner to become the best tool in the industry.
+      quote: I can translate articles in Aligner and improve my content on the go,
+        just like I need it. With machine learning I expect Aligner to become the
+        best tool in the industry.
       job: Journalist
-      img: 2
+      img: "2"
     - name: Philip S.
-      quote: Aligner is the fast track to roll out real estate listings and materials in different languages. It’s easy to use and compared to Google Translate we can edit, store and share translated listings right away.
+      quote: Aligner is the fast track to roll out real estate listings and materials
+        in different languages. It’s easy to use and compared to Google Translate
+        we can edit, store and share translated listings right away.
       job: Real Estate Broker
-      img: 3
+      img: "3"
   section5: false
   footer:
-    # Logo (from /images/logos/___)
     logo: logo-new.svg
     alt: Aligner
-    # Social Media Title
     socialmediatitle: Follow Us
-    # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-      # Icons are from Font Awesome
     - link: https://www.facebook.com/align.and.scale/
       icon: facebook
     - link: https://www.instagram.com/align_and_scale/
@@ -413,755 +404,755 @@ params:
     bulmalogo: false
     quicklinks:
       column1:
-        title: "Legal"
+        title: Legal
         links:
         - text: Privacy Policy
-          link: /privacy-policy
+          link: "/privacy-policy"
         - text: Delivery Policy
-          link: /delivery-policy
+          link: "/delivery-policy"
         - text: Terms of use
-          link: /terms-of-use
+          link: "/terms-of-use"
       column2:
-        title: "Product"
+        title: Product
         links:
         - text: Plans
-          link: /pricing
+          link: "/pricing"
         - text: Blog
-          link: /blog
+          link: "/blog"
         - text: Features
-          link: /features/ 
+          link: "/features/"
       column3:
-        title: "Resources"
+        title: Resources
         links:
         - text: Aligner POOL
           link: https://pool.aligner.io
         - text: Aligner GO
           link: https://go.aligner.io
-        - text: Eesti Keeles 🇪🇪
-          link: /et
-       # - text: Getting Started
-       #   link: 
-  caseTitle:  Case Studies
-  caseBtn:  Read case study
+        - text: "Eesti Keeles \U0001F1EA\U0001F1EA"
+          link: "/et"
+  caseTitle: Case Studies
+  caseBtn: Read case study
   latestTitle: Latest Blog
   moreBtn: Read More
-  checkBlog: Check out our blog  
+  checkBlog: Check out our blog
   checkBlogUrl: "/blog"
-
-
-################################### English language #####################################
 Languages:
   en:
     contentDir: content/english
     home: Home
     languageCode: en-us
     languageName: English
-    weight: 1
-################################### Finnish language #####################################
+    weight: "1"
   fi:
     contentDir: content/finnish
     home: Kodu
     languageCode: fi
     languageName: Finnish
-    weight: 2    
+    weight: "2"
     moreBtn: अधिक पढ़ें
-    checkBlog: Check out our blog  
+    checkBlog: Check out our blog
     checkBlogUrl: "/fi/blog/"
-
-################################### Estonian language #####################################
   et:
     contentDir: content/estonian
     home: Kodu
     languageCode: et
     languageName: Eesti keeles
-    weight: 3
+    weight: "3"
     title: Aligner | Tõlgi 10X kiiremini | Online tasuta platvorm.
     params:
-      BookMenuBundle: /menüü
+      BookMenuBundle: "/menüü"
       openGraph: true
       description: Tõlkige Aligneriga 10 korda kiiremini. Tasuta koostöö tööriist.
       navbarlogo:
-        link: /et
+        link: "/et"
         alt: Aligner home page logo
         image: logos/logo-new.svg
       font:
         name: Poppins
         sizes:
-          - 400
-          - 600
+        - 400
+        - 600
       hero:
         title: Tõlgi ja jaga sisu erinevates keeltes. Kiiresti ja mugavalt.
         subtitle: Tasuta dokumentide tõlkimise ja haldamise platvorm
         buttontext: Proovi tasuta →
         buttonlink: https://app.aligner.io
-        buttontext2: null
-        buttonlink2: null
-        clientlogos: null
+        buttontext2: 
+        buttonlink2: 
+        clientlogos: 
       navbar:
-        - title: Funktsioonid
-          url: /et/funktsioonid
-        - title: Hinnad
-          url: /et/hinnad
-        - title: Blogi
-          url: /et/blogi
-        - title: Õpetused
-          sublinks:
-          url: /et/õpetused
-        - title: Logi sisse
-          url: https://app.aligner.io
-        - title: Alusta siin →
-          url: https://app.aligner.io
-          button: true
+      - title: Funktsioonid
+        url: "/et/funktsioonid"
+      - title: Hinnad
+        url: "/et/hinnad"
+      - title: Blogi
+        url: "/et/blogi"
+      - title: Õpetused
+        sublinks: 
+        url: "/et/õpetused"
+      - title: Logi sisse
+        url: https://app.aligner.io
+      - title: Alusta siin →
+        url: https://app.aligner.io
+        button: true
       features:
         enable: true
         title: Funktsioonid
-        subtitle: null
-        buttonlink: /et/funktsioonid
+        subtitle: 
+        buttonlink: "/et/funktsioonid"
         buttonText: Vaata kõiki funktsioone →
         list:
-          - title: Toimeta
-            text: Muuda sisu ühes keeles ja kõik tõlked uuendatakse automaatselt.
-            image: /images/textedit.svg
-            alt: Redigeeri
-            btnURL: ""
-          - title: Tõlgi
-            text: Kasutage masintõlget kogu dokumendi või lause tõlkimiseks.
-            image: /images/roboto-logo.svg
-            alt: Tõlgi
-            btnText: Üleskutse tegevusele
-            btnURL: ""
-          - title: Jaga
-            text: Tehke koostööd meeskondadega ning tasuta agage dokumente kõikide osapooltega.
-            image: /images/team.svg
-            alt: Jaga
-            btnText: null
-            btnURL: ""
-          - title: Avalda
-            text: Avalda oma sisu veebis või lae alla failidena.
-            image: /images/reload.svg
-            alt: Avalda
-            btnText: null
-            btnURL: ""
+        - title: Toimeta
+          text: Aligner hoiab sisu erinevates keeltes automaatselt sünkroonis. Muudatustega
+            failide edasi-tagasi saatmine on nüüd minevik!
+          image: "/images/textedit.svg"
+          alt: Toimeta
+          btnURL: ''
+        - title: Tõlgi
+          text: Kasutage masintõlget kogu dokumendi või lause tõlkimiseks.
+          image: "/images/roboto-logo.svg"
+          alt: Tõlgi
+          btnText: Üleskutse tegevusele
+          btnURL: ''
+        - title: Jaga
+          text: Tehke koostööd meeskondadega ning tasuta agage dokumente kõikide osapooltega.
+          image: "/images/team.svg"
+          alt: Jaga
+          btnText: 
+          btnURL: ''
+        - title: Avalda
+          text: Avalda oma sisu veebis või lae alla failidena.
+          image: "/images/reload.svg"
+          alt: Avalda
+          btnText: 
+          btnURL: ''
       froalaDesign:
         enable: true
         title: Tööta dokumentidega mitmes keeles.
         subtitle: Loodud turundajatele ja sisuloojatele.
         features:
-          - title: Muudatused kõigis keeltes korraga
-            text: Aligner aitab hoida sisu erinevates keeltes automaatselt sünkroonis. Rakenda muudatusi vaid sekunditega. Dokumentide edasi-tagasi saatmine on nüüd minevik.
-            image: /images/ai-illustration.svg
-            alt: Muutke kõiki keeli
-            btnText: Vaata kuidas see töötab →
-            btnURL: https://app.aligner.io
-          - title: Kõik osapooled töötavad koos
-            text: Jaga tõlgitud dokumente kolleegide või tuttavaga. Koostöös on mugav sisu eri keeltes toimetada, sest Aligner salvestab iga muudatuse.
-            image: /images/team-image.svg
-            alt: Pange kõik inimesed ühte kohta kokku
-            btnText: Alusta tööd ja kutsu tiimiliikmed →
-            btnURL: https://app.aligner.io
-          - title: Aligner aitab juhtida töövoogu
-            text: Nüüd saad jälgida tõlgete valmimist, prognoosida käivet ja ühenda oma dokumendid Google Docs või teiste süsteemidega. Keskendu olulisele ja kasuta oma aega targalt. 
-            image: /images/flags-illustration.svg
-            alt: Pidevalt osa teie töövoogudest
-            btnText: Google'i dokumentidega ühendamine →
-            btnURL: https://app.aligner.io
-          - title: Rohkem selgust, kiirem tulemus
-            text: Aligneri abiga saad korraldada erinevate osapoolte vahelist suhtlust, rakendada masin- või inimtõlget ja kiirendada tööd erikeeltes dokumentidega.
-            image: /images/version-control.svg
-            alt: Rohkem selgust, kiirem suhtlus
-            btnText: Kasutage Alignerit kohe →
-            btnURL: https://app.aligner.io
+        - title: Muudatused kõigis keeltes korraga
+          text: Aligner aitab hoida sisu erinevates keeltes automaatselt sünkroonis.
+            Rakenda muudatusi vaid sekunditega. Dokumentide edasi-tagasi saatmine
+            on nüüd minevik.
+          image: "/images/ai-illustration.svg"
+          alt: Muutke kõiki keeli
+          btnText: Vaata kuidas see töötab →
+          btnURL: https://app.aligner.io
+        - title: Kõik osapooled töötavad koos
+          text: Jaga tõlgitud dokumente kolleegide või tuttavaga. Koostöös on mugav
+            sisu eri keeltes toimetada, sest Aligner salvestab iga muudatuse.
+          image: "/images/team-image.svg"
+          alt: Pange kõik inimesed ühte kohta kokku
+          btnText: Alusta tööd ja kutsu tiimiliikmed →
+          btnURL: https://app.aligner.io
+        - title: Aligner aitab juhtida töövoogu
+          text: Nüüd saad jälgida tõlgete valmimist, prognoosida käivet ja ühenda
+            oma dokumendid Google Docs või teiste süsteemidega. Keskendu olulisele
+            ja kasuta oma aega targalt.
+          image: "/images/flags-illustration.svg"
+          alt: Pidevalt osa teie töövoogudest
+          btnText: Google'i dokumentidega ühendamine →
+          btnURL: https://app.aligner.io
+        - title: Rohkem selgust, kiirem tulemus
+          text: Aligneri abiga saad korraldada erinevate osapoolte vahelist suhtlust,
+            rakendada masin- või inimtõlget ja kiirendada tööd erikeeltes dokumentidega.
+          image: "/images/version-control.svg"
+          alt: Rohkem selgust, kiirem suhtlus
+          btnText: Kasutage Alignerit kohe →
+          btnURL: https://app.aligner.io
       pricing:
         enable: true
         title: Hinnad
-        subtitle: null
-        buttonlink: /et/hinnad
+        subtitle: 
+        buttonlink: "/et/hinnad"
         buttonText: lisateave hindade kohta
         plans:
-          - title: Premium
-            price: 8.99 eurot kuus
-            icon: /images/plane.svg
-            alt: Premium
-            heighlight: Laiendatud funktsionaalsus
-            btnText: Lisateave
-            btnKlass: "btn-aligner rounded"
-            btnURL: /et/hinnad
-            features:
-              - text: Tekstitöötlus
-              - text: Google Drive'i integratsioonid
-              - text: Dokumentide eksport
-              - text: Valikuline masintõlge
-          - title: Freemium
-            price: TASUTA
-            icon: /images/hot-air-balloon.svg
-            alt: Freemium
-            heighlight: Põhifunktsioonid
-            btnText: Alusta siin
-            btnURL: https://app.aligner.io
-            btnKlass: "btn-aligner rounded"
-            features:
-              - text: Tekstitöötlus
-              - text: Piiratud masintõlge
-              - text: Piiramatu jagamine
-              - text: Wordi ja PDF-i import
-          - title: Meeskonnale
-            price: 29.90 eurot kuus
-            icon: /images/sun.svg
-            alt: Meeskonnale
-            heighlight: Meeskonnale mõeldud lahendus
-            btnText: Lisateave
-            btnKlass: "btn-aligner rounded"
-            btnURL: /et/hinnad
-            features:
-              - text: Kuni 5 inimest, iga järgmine 4 eurot
-              - text: Versioneerimine
-              - text: Töövood
-              - text: Õigustesüsteem
+        - title: Premium
+          price: 8.99 eurot kuus
+          icon: "/images/plane.svg"
+          alt: Premium
+          heighlight: Laiendatud funktsionaalsus
+          btnText: Lisateave
+          btnKlass: btn-aligner rounded
+          btnURL: "/et/hinnad"
+          features:
+          - text: Tekstitöötlus
+          - text: Google Drive'i integratsioonid
+          - text: Dokumentide eksport
+          - text: Valikuline masintõlge
+        - title: Freemium
+          price: TASUTA
+          icon: "/images/hot-air-balloon.svg"
+          alt: Freemium
+          heighlight: Põhifunktsioonid
+          btnText: Alusta siin
+          btnURL: https://app.aligner.io
+          btnKlass: btn-aligner rounded
+          features:
+          - text: Tekstitöötlus
+          - text: Piiratud masintõlge
+          - text: Piiramatu jagamine
+          - text: Wordi ja PDF-i import
+        - title: Meeskonnale
+          price: 29.90 eurot kuus
+          icon: "/images/sun.svg"
+          alt: Meeskonnale
+          heighlight: Meeskonnale mõeldud lahendus
+          btnText: Lisateave
+          btnKlass: btn-aligner rounded
+          btnURL: "/et/hinnad"
+          features:
+          - text: Kuni 5 inimest, iga järgmine 4 eurot
+          - text: Versioneerimine
+          - text: Töövood
+          - text: Õigustesüsteem
       CTA:
         enable: true
         title: Väljuge käsitööst ja liituge Aligneriga
-        subtitle: null
+        subtitle: 
         text: Aitame teil tõlkimisprotsesse automatiseerida
         btnText: Broneeri kõneaeg
-        btnKlass: "btn-aligner rounded"
+        btnKlass: btn-aligner rounded
         btnURL: https://calendly.com/aligner/15min
-        clientlogos: null
-        ctaAlt: null
+        clientlogos: 
+        ctaAlt: 
       testimonials:
-            enable: true
-            title: Tagasiside
-            subtitle: 
-            text: Aligner is great.
-            name: Co-Founder at Fooddocs
-            image: /images/katrin_fooddocs.svg
+        enable: true
+        title: Tagasiside
+        subtitle: 
+        text: Aligner is great.
+        name: Co-Founder at Fooddocs
+        image: "/images/katrin_fooddocs.svg"
       pricingInner:
         enable: true
         title: Hinnad
-        subtitle: null
-        buttonlink: /hinnad
+        subtitle: 
+        buttonlink: "/hinnad"
         buttonText: lisateave hindade kohta
         plans:
-          - title: Freemium
-            price: 0 dollarit
-            icon: /images/plane.svg
-            alt: Freemium
-            heighlight: Tehke asjad kiiresti korda
-            btnText: Alusta siin →
-            btnURL: https://app.aligner.io
-          - title: Premium
-            price: 8.99 eurot kuus
-            icon: /images/hot-air-balloon.svg
-            alt: Premium
-            heighlight: Keskmistele ettevõtetele
-            btnText: Tulekul
-            btnURL: "#"
-          - title: Meeskond
-            price: 29.99 eurot kuus
-            icon: /images/sun.svg
-            alt: Meeskond
-            heighlight: Suurtele ettevõtetele
-            btnText: Tulekul
-            btnURL: "#"
+        - title: Freemium
+          price: 0 dollarit
+          icon: "/images/plane.svg"
+          alt: Freemium
+          heighlight: Tehke asjad kiiresti korda
+          btnText: Alusta siin →
+          btnURL: https://app.aligner.io
+        - title: Premium
+          price: 8.99 eurot kuus
+          icon: "/images/hot-air-balloon.svg"
+          alt: Premium
+          heighlight: Keskmistele ettevõtetele
+          btnText: Tulekul
+          btnURL: "#"
+        - title: Meeskond
+          price: 29.99 eurot kuus
+          icon: "/images/sun.svg"
+          alt: Meeskond
+          heighlight: Suurtele ettevõtetele
+          btnText: Tulekul
+          btnURL: "#"
         features:
-          - list:
-              - Kahekordne toimetaja
-              - true
-              - true
-              - true
-          - list:
-              - Keeled
-              - 3
-              - 5
-              - 10
-          - list:
-              - Dokumendid
-              - 40
-              - Piiramatu
-              - Piiramatu
-          - list:
-              - Sünkroonitud stiilid
-              - true
-              - true
-              - true
-          - list:
-              - Masintõlge
-              - true
-              - true
-              - true
-          - list:
-              - Valikuline masintõlge
-              - true
-              - true
-              - true
-          - list:
-              - Import
-              - docx ja Google docs
-              - docx ja Google docs, integratsioonid
-              - laiendatud funktsionaalsus
-          - list:
-              - Eksport
-              - .docx või Google Docs, PDF
-              - .docx või Google Docs, PDF
-              - laiendatud funktsionaalsus
-          - list:
-              - Jagamine
-              - true
-              - true
-              - true
-          - list:
-              - Kirjastamine
-              - avalikud lingid
-              - avalikud ja privaatsed lingid
-              - avalikud ja privaatsed lingid
-          - list:
-              - Töövood
-              - "-"
-              - true
-              - true
-          - list:
-              - Õigused
-              - "-"
-              - true
-              - true
-              - null
+        - list:
+          - Kahekordne toimetaja
+          - true
+          - true
+          - true
+        - list:
+          - Keeled
+          - 3
+          - 5
+          - 10
+        - list:
+          - Dokumendid
+          - 40
+          - Piiramatu
+          - Piiramatu
+        - list:
+          - Sünkroonitud stiilid
+          - true
+          - true
+          - true
+        - list:
+          - Masintõlge
+          - true
+          - true
+          - true
+        - list:
+          - Valikuline masintõlge
+          - true
+          - true
+          - true
+        - list:
+          - Import
+          - docx ja Google docs
+          - docx ja Google docs, integratsioonid
+          - laiendatud funktsionaalsus
+        - list:
+          - Eksport
+          - ".docx või Google Docs, PDF"
+          - ".docx või Google Docs, PDF"
+          - laiendatud funktsionaalsus
+        - list:
+          - Jagamine
+          - true
+          - true
+          - true
+        - list:
+          - Kirjastamine
+          - avalikud lingid
+          - avalikud ja privaatsed lingid
+          - avalikud ja privaatsed lingid
+        - list:
+          - Töövood
+          - "-"
+          - true
+          - true
+        - list:
+          - Õigused
+          - "-"
+          - true
+          - true
+          - 
       featuresList:
         enable: false
         title: Funktsioonid
         subtitle: Töötage samaaegselt keeltega, ükskõik kui palju
-        image1: /images/recording.mov
+        image1: "/images/recording.mov"
         features:
-          - title: Stiilid
-            text: Kõik stiilid sünkroniseeritakse automaatselt
-            icon: /images/css.svg
-          - title: HTML-põhine
-            text: Kasutage tuntud veebikomponente
-            icon: /images/html.svg
-          - title: Koostöö
-            text: Kutsuge kolleege, tõlke, korrektorit
-            icon: /images/collaborate-features.png
-          - title: PDF eksport
-            text: Dokument valmis printimiseks .
-            icon: /images/pdf-translate.svg
-          - title: Google Docs
-            text: Too oma dokumendid Google kontost
-            icon: /images/docs.svg
-          - title: Microsoft Word
-            text: Laadige üles Wordi sisu
-            icon: /images/word.svg
-          - title: Masintõlge
-            text: Parimate mootorite kombinatsioon
-            icon: /images/languages.svg
-          - title: 136+ keelt
-            text: Enamus maailmakeeled on kaetud.
-            icon: /images/globe.svg
+        - title: Stiilid
+          text: Kõik stiilid sünkroniseeritakse automaatselt
+          icon: "/images/css.svg"
+        - title: HTML-põhine
+          text: Kasutage tuntud veebikomponente
+          icon: "/images/html.svg"
+        - title: Koostöö
+          text: Kutsuge kolleege, tõlke, korrektorit
+          icon: "/images/collaborate-features.png"
+        - title: PDF eksport
+          text: Dokument valmis printimiseks .
+          icon: "/images/pdf-translate.svg"
+        - title: Google Docs
+          text: Too oma dokumendid Google kontost
+          icon: "/images/docs.svg"
+        - title: Microsoft Word
+          text: Laadige üles Wordi sisu
+          icon: "/images/word.svg"
+        - title: Masintõlge
+          text: Parimate mootorite kombinatsioon
+          icon: "/images/languages.svg"
+        - title: 136+ keelt
+          text: Enamus maailmakeeled on kaetud.
+          icon: "/images/globe.svg"
       froalaBlock:
         enable: true
-        title: Aligner on loodud turundajatele ja sisuloojatele, kes tahavad olla produktiivsed.
-        text: Aeg on tähtis. Protsessid peavad olema tõhusad. Aligner aitab põgeneda igavestest failide saatmisest läbi emaili ning aitab tulemusi saavutada koheselt.
+        title: Aligner on loodud turundajatele ja sisuloojatele, kes tahavad olla
+          produktiivsed.
+        text: Aeg on tähtis. Protsessid peavad olema tõhusad. Aligner aitab põgeneda
+          igavestest failide saatmisest läbi emaili ning aitab tulemusi saavutada
+          koheselt.
         linktext: Uuri kõiki võimalusi
         linkurl: https://app.aligner.io
         list:
-          - title: Laienda oma kliendisegmenti
-            image: /images/crowd.png
-          - title: Tehke asju kiiresti
-            image: /images/rocket.svg
-          - title: Krediitkaarti pole vaja
-            image: /images/no-credit-card.png
-          - title: Tööta online keskkonnas
-            image: /images/cloud.png
+        - title: Laienda oma kliendisegmenti
+          image: "/images/crowd.png"
+        - title: Tehke asju kiiresti
+          image: "/images/rocket.svg"
+        - title: Krediitkaarti pole vaja
+          image: "/images/no-credit-card.png"
+        - title: Tööta online keskkonnas
+          image: "/images/cloud.png"
       section5: false
       footer:
         logo: logo-new.svg
         alt: Aligner
         socialmediatitle: Jälgi meid
         socialmedia:
-          - link: https://www.facebook.com/align.and.scale/
-            icon: facebook
-          - link: https://www.instagram.com/align_and_scale/
-            icon: instagram
-          - link: https://www.linkedin.com/company/aligner
-            icon: linkedin
+        - link: https://www.facebook.com/align.and.scale/
+          icon: facebook
+        - link: https://www.instagram.com/align_and_scale/
+          icon: instagram
+        - link: https://www.linkedin.com/company/aligner
+          icon: linkedin
         quicklinks:
           column1:
             title: Tingimused
             links:
-              - text: Privaatsuspoliitika
-                link: /et/privaatsuspoliitika
-              - text: Tarnepoliitika
-                link: /et/tarnepoliitika
-              - text: Kasutustingimused
-                link: /et/kasutustingimused
+            - text: Privaatsuspoliitika
+              link: "/et/privaatsuspoliitika"
+            - text: Tarnepoliitika
+              link: "/et/tarnepoliitika"
+            - text: Kasutustingimused
+              link: "/et/kasutustingimused"
           column2:
             title: Tootest
             links:
-              - text: Hinnad
-                link: /et/hinnad
-              - text: Blogi
-                link: /et/blogi
-              - text: Funktsioonid
-                link: /et/funktsioonid/
+            - text: Hinnad
+              link: "/et/hinnad"
+            - text: Blogi
+              link: "/et/blogi"
+            - text: Funktsioonid
+              link: "/et/funktsioonid/"
           column3:
             title: Materjalid
             links:
-              - text: Aligner POOL
-                link: https://pool.aligner.io
-              - text: Aligner GO
-                link: https://go.aligner.io
+            - text: Aligner POOL
+              link: https://pool.aligner.io
+            - text: Aligner GO
+              link: https://go.aligner.io
       caseTitle: Kliendilood
       caseBtn: Loe lähemalt
       latestTitle: Blogi
       moreBtn: Vaata rohkem
       checkBlog: Uurige meie blogi
       checkBlogUrl: "/et/blogi/"
-################################### Russian language #####################################
   ru:
     contentDir: content/russian
     home: Dom
     languageCode: ru
     languageName: На Русском
-    weight: 3
+    weight: "3"
     title: Aligner | Переводи в 10 раз быстрее Онлайн. Бесплатно.
     params:
-      BookMenuBundle: /меню
+      BookMenuBundle: "/меню"
       openGraph: true
-      description: Переведите в 10 раз быстрее вместе с Aligner. Бесплатный инструмент для совместной
-        работы.
+      description: Переведите в 10 раз быстрее вместе с Aligner. Бесплатный инструмент
+        для совместной работы.
       navbarlogo:
-        link: /ru
+        link: "/ru"
         alt: Логотип домашней страницы Aligner
         image: logos/logo-new.svg
       font:
         name: Poppins
         sizes:
-          - 400
-          - 600
+        - 400
+        - 600
       hero:
         title: Работайте с документами на нескольких языках. Легко.
         subtitle: Бесплатная платформа для работы с многоязычными документами.
         buttontext: Начните здесь →
         buttonlink: https://app.aligner.io
-        buttontext2: null
-        buttonlink2: null
-        clientlogos: null
+        buttontext2: 
+        buttonlink2: 
+        clientlogos: 
       navbar:
-        - title: Функции
-          url: /ru/функции
-        - title: Тарифы
-          url: /ru/Тарифы
-        - title: Блог
-          url: /ru/blogi
-        - title: Обучение
-          url: /ru/обучение
-        - title: авторизоваться
-          url: https://app.aligner.io
-        - title: Начните здесь →
-          url: https://app.aligner.io
-          button: true
+      - title: Функции
+        url: "/ru/функции"
+      - title: Тарифы
+        url: "/ru/Тарифы"
+      - title: Блог
+        url: "/ru/blogi"
+      - title: Обучение
+        url: "/ru/обучение"
+      - title: авторизоваться
+        url: https://app.aligner.io
+      - title: Начните здесь →
+        url: https://app.aligner.io
+        button: true
       features:
         enable: true
         title: Функции
-        subtitle: null
-        buttonlink: /ru/funktsioonid
+        subtitle: 
+        buttonlink: "/ru/funktsioonid"
         buttonText: Посмотреть все функции →
         list:
-          - title: редактируй
-            text: Редактируйте контент на одном языке, и все переводы будут обновляться
-              автоматически.
-            image: /images/textedit.svg
-            alt: редактируй
-            btnURL: ""
-          - title: переводи
-            text: Используйте машинный перевод, чтобы перевести весь документ или
-              предложение.
-            image: /images/roboto-logo.svg
-            alt: делись
-            btnText: Призыв к действию
-            btnURL: ""
-          - title: публикуй    
-            text: Сотрудничать с командами и бесплатно оформлять документы со всеми
-              сторонами.
-            image: /images/team.svg
-            alt: Поделиться
-            btnText: null
-            btnURL: ""
-          - title: Публиковать
-            text: Опубликуйте свой контент в Интернете или загрузите в виде файлов.
-            image: /images/reload.svg
-            alt: Публиковать
-            btnText: null
-            btnURL: ""
+        - title: редактируй
+          text: Редактируйте контент на одном языке, и все переводы будут обновляться
+            автоматически.
+          image: "/images/textedit.svg"
+          alt: редактируй
+          btnURL: ''
+        - title: переводи
+          text: Используйте машинный перевод, чтобы перевести весь документ или предложение.
+          image: "/images/roboto-logo.svg"
+          alt: делись
+          btnText: Призыв к действию
+          btnURL: ''
+        - title: публикуй
+          text: Сотрудничать с командами и бесплатно оформлять документы со всеми
+            сторонами.
+          image: "/images/team.svg"
+          alt: Поделиться
+          btnText: 
+          btnURL: ''
+        - title: Публиковать
+          text: Опубликуйте свой контент в Интернете или загрузите в виде файлов.
+          image: "/images/reload.svg"
+          alt: Публиковать
+          btnText: 
+          btnURL: ''
       froalaDesign:
         enable: true
         title: Работа с документами на нескольких языках.
         subtitle: Создано для маркетологов и создателей контента.
         features:
-          - title: Изменить все языки одновременно
-            text: В Aligner все языки синхронизируются автоматически при изменении
-              содержимого. Отныне нет необходимости отправлять файлы туда и обратно.
-            image: /images/ai-illustration.svg
-            alt: Изменить все языки
-            btnText: Посмотрите, как это работает →
-            btnURL: https://app.aligner.io
-          - title: Пригласите все стороны на редактирование
-            text: Делитесь языками с нужными участниками, сотрудничайте, все изменения
-              сохраняются.
-            image: /images/team-image.svg
-            alt: Соберите всех людей в одном месте
-            btnText: Начните работу и пригласите членов команды →
-            btnURL: https://app.aligner.io
-          - title: Aligner является частью вашего рабочего процесса
-            text: Подключите свои документы к Документам Google или другим системам и
-              продолжайте свою работу в обычном режиме.
-            image: /images/flags-illustration.svg
-            alt: Постоянная часть ваших рабочих процессов
-            btnText: Подключиться к Документам Google →
-            btnURL: https://app.aligner.io
-          - title: Больше ясности, быстрее результат
-            text: Aligner помогает организовать общение между всеми сторонами и
-              информирует обо всех обновлениях.
-            image: /images/version-control.svg
-            alt: Больше ясности, более быстрое общение
-            btnText: Используйте Aligner сейчас →
-            btnURL: https://app.aligner.io
+        - title: Изменить все языки одновременно
+          text: В Aligner все языки синхронизируются автоматически при изменении содержимого.
+            Отныне нет необходимости отправлять файлы туда и обратно.
+          image: "/images/ai-illustration.svg"
+          alt: Изменить все языки
+          btnText: Посмотрите, как это работает →
+          btnURL: https://app.aligner.io
+        - title: Пригласите все стороны на редактирование
+          text: Делитесь языками с нужными участниками, сотрудничайте, все изменения
+            сохраняются.
+          image: "/images/team-image.svg"
+          alt: Соберите всех людей в одном месте
+          btnText: Начните работу и пригласите членов команды →
+          btnURL: https://app.aligner.io
+        - title: Aligner является частью вашего рабочего процесса
+          text: Подключите свои документы к Документам Google или другим системам
+            и продолжайте свою работу в обычном режиме.
+          image: "/images/flags-illustration.svg"
+          alt: Постоянная часть ваших рабочих процессов
+          btnText: Подключиться к Документам Google →
+          btnURL: https://app.aligner.io
+        - title: Больше ясности, быстрее результат
+          text: Aligner помогает организовать общение между всеми сторонами и информирует
+            обо всех обновлениях.
+          image: "/images/version-control.svg"
+          alt: Больше ясности, более быстрое общение
+          btnText: Используйте Aligner сейчас →
+          btnURL: https://app.aligner.io
       pricing:
         enable: true
         title: Тарифы
-        subtitle: null
-        buttonlink: /ru/hinnad
+        subtitle: 
+        buttonlink: "/ru/hinnad"
         buttonText: больше информации о ценах
         plans:
-          - title: премия
-            price: 8,99 евро в месяц
-            icon: /images/plane.svg
-            alt: премия
-            heighlight: Расширенная функциональность
-            btnText: Выучить больше
-            btnKlass: btn выравниватель закругленный
-            btnURL: /ru/hinnad
-            features:
-              - text: Tekstitöötlus
-              - text: Google Drive'i интегралсионид
-              - text: Экспорт документов
-              - text: Дополнительный машинный перевод
-          - title: Freemium
-            price: СВОБОДНО
-            icon: /images/hot-air-balloon.svg
-            alt: Freemium
-            heighlight: Основные функции
-            btnText: Начало здесь
-            btnURL: https://app.aligner.io
-            btnKlass: "btn-aligner rounded"
-            features:
-              - text: Tekstitöötlus
-              - text: Ограниченный машинный перевод
-              - text: Неограниченный обмен
-              - text: Импорт Word и PDF
-          - title: В команду
-            price: 29,90 евро в месяц
-            icon: /images/sun.svg
-            alt: В команду
-            heighlight: Решение для команды
-            btnText: Выучить больше
-            btnKlass: "btn-aligner rounded"
-            btnURL: /ru/hinnad
-            features:
-              - text: До 5 человек, каждый дополнительный 4 евро
-              - text: Versioneerimine
-              - text: Workflows
-              - text: Правовая система
+        - title: премия
+          price: 8,99 евро в месяц
+          icon: "/images/plane.svg"
+          alt: премия
+          heighlight: Расширенная функциональность
+          btnText: Выучить больше
+          btnKlass: btn выравниватель закругленный
+          btnURL: "/ru/hinnad"
+          features:
+          - text: Tekstitöötlus
+          - text: Google Drive'i интегралсионид
+          - text: Экспорт документов
+          - text: Дополнительный машинный перевод
+        - title: Freemium
+          price: СВОБОДНО
+          icon: "/images/hot-air-balloon.svg"
+          alt: Freemium
+          heighlight: Основные функции
+          btnText: Начало здесь
+          btnURL: https://app.aligner.io
+          btnKlass: btn-aligner rounded
+          features:
+          - text: Tekstitöötlus
+          - text: Ограниченный машинный перевод
+          - text: Неограниченный обмен
+          - text: Импорт Word и PDF
+        - title: В команду
+          price: 29,90 евро в месяц
+          icon: "/images/sun.svg"
+          alt: В команду
+          heighlight: Решение для команды
+          btnText: Выучить больше
+          btnKlass: btn-aligner rounded
+          btnURL: "/ru/hinnad"
+          features:
+          - text: До 5 человек, каждый дополнительный 4 евро
+          - text: Versioneerimine
+          - text: Workflows
+          - text: Правовая система
       CTA:
         enable: true
         title: Выйдите из корабля и присоединитесь к Aligner
-        subtitle: null
+        subtitle: 
         text: Мы помогаем вам автоматизировать процессы перевода
         btnText: Забронировать время разговора
-        btnKlass: "btn-aligner rounded"
+        btnKlass: btn-aligner rounded
         btnURL: https://calendly.com/aligner/15min
-        clientlogos: null
-        ctaAlt: null
+        clientlogos: 
+        ctaAlt: 
       testimonials:
         enable: true
         title: Обратная связь
-        subtitle: null
+        subtitle: 
         text: Aligner это здорово.
         name: Соучредитель в Fooddocs
-        image: /images/katrin_fooddocs.svg
+        image: "/images/katrin_fooddocs.svg"
       pricingInner:
         enable: true
         title: Тарифы
-        subtitle: null
-        buttonlink: /hinnad
+        subtitle: 
+        buttonlink: "/hinnad"
         buttonText: больше информации о ценах
         plans:
-          - title: Freemium
-            price: 0 долларов США
-            icon: /images/plane.svg
-            alt: Freemium
-            heighlight: Сделай вещи быстро
-            btnText: Начните здесь →
-            btnURL: https://app.aligner.io
-          - title: премия
-            price: 8,99 евро в месяц
-            icon: /images/hot-air-balloon.svg
-            alt: премия
-            heighlight: Для средних компаний
-            btnText: В будущем
-            btnURL: "#"
-          - title: Команда
-            price: 29,99 евро в месяц
-            icon: /images/sun.svg
-            alt: Команда
-            heighlight: Для крупных компаний
-            btnText: В будущем
-            btnURL: "#"
+        - title: Freemium
+          price: 0 долларов США
+          icon: "/images/plane.svg"
+          alt: Freemium
+          heighlight: Сделай вещи быстро
+          btnText: Начните здесь →
+          btnURL: https://app.aligner.io
+        - title: премия
+          price: 8,99 евро в месяц
+          icon: "/images/hot-air-balloon.svg"
+          alt: премия
+          heighlight: Для средних компаний
+          btnText: В будущем
+          btnURL: "#"
+        - title: Команда
+          price: 29,99 евро в месяц
+          icon: "/images/sun.svg"
+          alt: Команда
+          heighlight: Для крупных компаний
+          btnText: В будущем
+          btnURL: "#"
         features:
-          - list:
-              - Двойной редактор
-              - true
-              - true
-              - true
-          - list:
-              - Языки
-              - 3
-              - 5
-              - 10
-          - list:
-              - документы
-              - 40
-              - неограниченный
-              - неограниченный
-          - list:
-              - Синхронизированные стили
-              - true
-              - true
-              - true
-          - list:
-              - Автоматический перевод
-              - true
-              - true
-              - true
-          - list:
-              - Дополнительный машинный перевод
-              - true
-              - true
-              - true
-          - list:
-              - Импортировать
-              - документы и документы Google
-              - Docx и Google Docs, интеграции
-              - расширенная функциональность
-          - list:
-              - экспорт
-              - .docx или Google Docs, PDF
-              - .docx или Google Docs, PDF
-              - расширенная функциональность
-          - list:
-              - Sharing
-              - true
-              - true
-              - true
-          - list:
-              - Издательский
-              - публичные ссылки
-              - публичные и частные ссылки
-              - публичные и частные ссылки
-          - list:
-              - Workflows
-              - "-"
-              - true
-              - true
-          - list:
-              - права
-              - "-"
-              - true
-              - true
-              - null
+        - list:
+          - Двойной редактор
+          - true
+          - true
+          - true
+        - list:
+          - Языки
+          - 3
+          - 5
+          - 10
+        - list:
+          - документы
+          - 40
+          - неограниченный
+          - неограниченный
+        - list:
+          - Синхронизированные стили
+          - true
+          - true
+          - true
+        - list:
+          - Автоматический перевод
+          - true
+          - true
+          - true
+        - list:
+          - Дополнительный машинный перевод
+          - true
+          - true
+          - true
+        - list:
+          - Импортировать
+          - документы и документы Google
+          - Docx и Google Docs, интеграции
+          - расширенная функциональность
+        - list:
+          - экспорт
+          - ".docx или Google Docs, PDF"
+          - ".docx или Google Docs, PDF"
+          - расширенная функциональность
+        - list:
+          - Sharing
+          - true
+          - true
+          - true
+        - list:
+          - Издательский
+          - публичные ссылки
+          - публичные и частные ссылки
+          - публичные и частные ссылки
+        - list:
+          - Workflows
+          - "-"
+          - true
+          - true
+        - list:
+          - права
+          - "-"
+          - true
+          - true
+          - 
       featuresList:
         enable: false
         title: Функции
         subtitle: Работайте с языками одновременно, независимо от того, сколько
-        image1: /images/recording.mov
+        image1: "/images/recording.mov"
         features:
-          - title: Стили
-            text: Все стили синхронизируются автоматически
-            icon: /images/css.svg
-          - title: На основе HTML
-            text: Используйте известные веб-компоненты
-            icon: /images/html.svg
-          - title: сотрудничество
-            text: Пригласите коллег, переводчика, корректора
-            icon: /images/collaborate-features.png
-          - title: Экспорт в PDF
-            text: Документ готов к печати.
-            icon: /images/pdf-translate.svg
-          - title: Гугл документы
-            text: Импортируйте свои документы из своей учетной записи Google
-            icon: /images/docs.svg
-          - title: Microsoft Word
-            text: Загрузить текст Word
-            icon: /images/word.svg
-          - title: Автоматический перевод
-            text: Сочетание лучших двигателей
-            icon: /images/languages.svg
-          - title: 136+ языков
-            text: Большинство мировых языков покрыты.
-            icon: /images/globe.svg
+        - title: Стили
+          text: Все стили синхронизируются автоматически
+          icon: "/images/css.svg"
+        - title: На основе HTML
+          text: Используйте известные веб-компоненты
+          icon: "/images/html.svg"
+        - title: сотрудничество
+          text: Пригласите коллег, переводчика, корректора
+          icon: "/images/collaborate-features.png"
+        - title: Экспорт в PDF
+          text: Документ готов к печати.
+          icon: "/images/pdf-translate.svg"
+        - title: Гугл документы
+          text: Импортируйте свои документы из своей учетной записи Google
+          icon: "/images/docs.svg"
+        - title: Microsoft Word
+          text: Загрузить текст Word
+          icon: "/images/word.svg"
+        - title: Автоматический перевод
+          text: Сочетание лучших двигателей
+          icon: "/images/languages.svg"
+        - title: 136+ языков
+          text: Большинство мировых языков покрыты.
+          icon: "/images/globe.svg"
       froalaBlock:
         enable: true
-        title: Aligner предназначен для маркетологов и создателей контента, которые хотят
-          быть продуктивными.
+        title: Aligner предназначен для маркетологов и создателей контента, которые
+          хотят быть продуктивными.
         text: Время имеет существенное значение. Процессы должны быть эффективными.
-          Aligner поможет вам избежать вечной отправки файлов по электронной почте и
-          мгновенно получить результаты.
+          Aligner поможет вам избежать вечной отправки файлов по электронной почте
+          и мгновенно получить результаты.
         linktext: Изучите все возможности
         linkurl: https://app.aligner.io
         list:
-          - title: Расширьте свой клиентский сегмент
-            image: /images/crowd.png
-          - title: Делай вещи быстро
-            image: /images/rocket.svg
-          - title: Кредитная карта не требуется
-            image: /images/no-credit-card.png
-          - title: Работа в онлайн среде
-            image: /images/cloud.png
+        - title: Расширьте свой клиентский сегмент
+          image: "/images/crowd.png"
+        - title: Делай вещи быстро
+          image: "/images/rocket.svg"
+        - title: Кредитная карта не требуется
+          image: "/images/no-credit-card.png"
+        - title: Работа в онлайн среде
+          image: "/images/cloud.png"
       section5: false
       footer:
         logo: logo-new.svg
         alt: Aligner
         socialmediatitle: Подписывайтесь на нас
         socialmedia:
-          - link: https://www.facebook.com/align.and.scale/
-            icon: facebook
-          - link: https://www.instagram.com/align_and_scale/
-            icon: instagram
-          - link: https://www.linkedin.com/company/aligner
-            icon: linkedin
+        - link: https://www.facebook.com/align.and.scale/
+          icon: facebook
+        - link: https://www.instagram.com/align_and_scale/
+          icon: instagram
+        - link: https://www.linkedin.com/company/aligner
+          icon: linkedin
         quicklinks:
           column1:
             title: условия
             links:
-              - text: Политика конфиденциальности
-                link: /ru/политика-конфиденциальности
-              - text: Политика доставки
-                link: /ru/политика-доставки
-              - text: Правила пользования
-                link: /ru/правила-пользования
+            - text: Политика конфиденциальности
+              link: "/ru/политика-конфиденциальности"
+            - text: Политика доставки
+              link: "/ru/политика-доставки"
+            - text: Правила пользования
+              link: "/ru/правила-пользования"
           column2:
             title: О продукте
             links:
-              - text: Тарифы
-                link: /ru/hinnad/
-              - text: Блог
-                link: /ru/blogi
-              - text: Функции
-                link: /ru/функции
+            - text: Тарифы
+              link: "/ru/hinnad/"
+            - text: Блог
+              link: "/ru/blogi"
+            - text: Функции
+              link: "/ru/функции"
           column3:
             title: материалы
             links:
-              - text: Выравнивает бассейн
-                link: https://pool.aligner.io
-              - text: Aligner GO
-                link: https://go.aligner.io
+            - text: Выравнивает бассейн
+              link: https://pool.aligner.io
+            - text: Aligner GO
+              link: https://go.aligner.io
       caseTitle: Истории клиентов
       caseBtn: Читать
       latestTitle: Блог
