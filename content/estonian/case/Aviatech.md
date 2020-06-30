@@ -1,41 +1,36 @@
 ---
-title: Aviation technology on a scale 
-date: 2020-04-02
-ogImage: "https://www.aligner.io/images/case/avia.jpeg"
-description: "Aligner - Aviation technology on a scale"
+title: Kiire Laienemine Lennunduses
+date: 2020-06-28T21:00:00+00:00
+ogImage: https://www.aligner.io/images/case/avia.jpeg
+description: Aligner - Kiire Laienemine Lennunduses
 sidebar: false
 sidebarlogo: aligner-new.svg
-image: ../images/case/avia.jpeg
+image: "../images/case/avia.jpeg"
 caseLogo: false
-draft: false
+
 ---
+## Aviatech kasutab Alignerit lennunduse angaaride tööstuses
 
+### Aviatech
 
-## Aviatech using Aligner in Aviation hangars industry
+Aviatech toodab eritellimusel valmistatud täispuhutavaid angaare. Keskkonnasõbralikud angaarid ei jäta ümbritsevale loodusele keskkonnajalajälge peale kasutamist ja demonteerimist. Tootmisel kasutatavad tugevdatud PVC-materjalid on **täielikult taaskasutatavad ja korduvkasutatavad.**
 
-Aviatech manufactures custom-built inflatable structures. Environmentally friendly hangars leave no environmental footprint to surrounding nature after their customers move their facilities. The reinforced PVC materials used in production are fully recyclable and reusable.
+Nende rahvusvaheline tiim pakub terviklikke lahendusi erinevates tööstusharudes, sealhulgas ehituses, nafta ja gaasitööstuses, mäetööstuses, lennunduses jne. Aviatech'i portfellis on **üle 250 edukalt teostatud projekti kogu maailmas,** hõlmates enamikku kontinente ja kliimavööndeid.
 
+### Väljakutse
 
+Kuna Aviatech'i meeskond pakub angaare ja laoruume laiale hulgale klientidele üle kogu maailma, edastavad nad oma väärtuspakkumise paljudes keeltes. Nende veebisait on viies keeles ja klientidega suhtlemine toimub veelgi rohkemates keeltes. **Aviatech tegutseb Euroopas, Lähis-Idas, Aasias ja Aafrikas.** Hästi tõlgitud sisu on müügiprotsessi oluline aspekt. Aviatech'i meeskond otsis tõlkeplatvormi, et muuta mitmekeelse sisuga tööd võimalikult tõhusust ja efektiivseks.
 
-They offer comprehensive solutions across different industries, including construction, oil & gas, mining, aviation, and defense. their portfolio counts over 250 successfully executed **projects all over the world**, covering most terrains and climatic zones.
+> „Olen Aligner'i masintõlke ja ülimalt mugava toimetaja abil tõlkinud Aligner'is 100+ faili. Tõlkimine on lõpuks põnev tegevus! ” 
+>
+> **Berkay Ergintan** - Regioonijuht Aviatech'is
 
+## Miks ja kuidas Alignerit kasutatakse
 
+Aligner'it kasutatakse põhjusel, et see aitab Aviatech'il tõlkida ja avaldada inglise, prantsuse ja türgi keeles sisu palju kiiremini, võrreldes Google'i tõlke ja traditsioonilise tõlketeenusega. 
 
-### Challenge
+> Avastame pidevalt uusi funktsioone ja Aligner avab meie ärile uusi võimalusi.Veebisisu tõlkimine ja selle erinevates keeltes hoidmine on nüüd palju lihtsam ja hästi korraldatud.
 
-As the team behind Aviatech provides warehousing facilities for a broad array of industries across the world, they communicate their value proposition in a variety of languages. Their **website is in 5 languages** and communication with customers even in more languages. Aviatech is **active in Europe, Middle-East as well as Asia, and Africa**. Well-translated content is an important aspect of the sales process. Aviatech team was looking for a translation tool to maximize the efficiency of the process when working with their multilingual content. 
+Aligneri meeskond tänab Aviatech'i hea koostöö eest!
 
-
-
-> “I’ve translated 100+ of files in Aligner by using machine translation and very convenient parallel editor. Translating is now an exciting task!”  **Berkay Ergintan - Regional Manager**
-
-
-
-## Why and how Aligner is used:
-
-Aligner is used because it helps Aviatech to translate and publish content in English, French and Turkish **much faster compared to Google Translate and traditional translation flow**. Translating and keeping web content aligned in different languages is now much easier and well-organized. 
-> *We keep on discovering new features and Aligner just keeps opening up new opportunities for us*.  
-
-Aligner team thanks Aviatech for the collaboration!
-
-Read more about [Aviatech](http://aviatech.com/ "Aviatech").
+Loe rohkem [Aviatech](http://aviatech.com/ "Aviatech")'i kohta.
