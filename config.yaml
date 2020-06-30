@@ -3,14 +3,7 @@ languageCode: en-us
 DefaultContentLanguage: en
 title: Aligner | Translate 10X faster | Online free platform.
 theme: hugo-fresh
-enableRobotsTXT: true
 googleAnalytics: UA-138300699-1
-
-sitemap:
-  changefreq: always
-  filename: sitemap.xml
-  priority: 0.5
-
 # Disables warnings
 disableKinds:
 - taxonomy
@@ -68,6 +61,7 @@ params:
   - title: Blog
     url: /blog/
   - title: Tutorials
+    url: /resources
  # - title: Resources
   #  url: /resources
   - title: Log in

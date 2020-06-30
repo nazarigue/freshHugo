@@ -1,9 +1,9 @@
 ---
-title: Getting started in Aligner
+title: Tutorials
 description: Instructions on how to use Aligner platform
 ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
 date: 2020-04-06T07:09:21+03:00
-
+TOC: false
 ---
 # Say Hello to Aligner.Say goodbye to your manual workflows.
 
