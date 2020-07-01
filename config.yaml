@@ -620,8 +620,7 @@ Languages:
       testimonials:
         enable: true
         title: Teised Aligner'ist
-        subtitle: '"Aligner on väga lihtne, kasutajasõbralik ja mugav tööriist, mis
-          aitab hallata sisu eri keeltes ja vajadusel ka kiiresti uuendada" '
+        subtitle: ''
         text: '"Aligner on väga lihtne, kasutajasõbralik ja mugav tööriist, mis aitab
           hallata sisu eri keeltes ja vajadusel ka kiiresti uuendada" '
         name: Fooddocs'i kaasasutaja
