@@ -458,7 +458,7 @@ Languages:
     languageCode: et
     languageName: Eesti keeles
     weight: "3"
-    title: Aligner | Tõlgi 10X kiiremini | Online tasuta platvorm.
+    title: Aligner | Tõlgi 10x kiiremini | Tasuta online tõlkeplatvorm.
     params:
       BookMenuBundle: "/menüü"
       openGraph: true
