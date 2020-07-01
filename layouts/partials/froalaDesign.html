@@ -14,7 +14,7 @@
       <div class="column is-centered-tablet-portrait" style="{{if not (modBool $index 2)}}order:1{{end}}">
         <figure class="media-left">
           <p class="image">
-            <img src="{{ .image | relURL }}">
+            <img src="{{ .image | relURL }}" alt="{{ .alt }}">
           </p>
         </figure>
       </div>

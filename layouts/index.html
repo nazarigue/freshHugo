@@ -28,14 +28,14 @@
     <div class="hero-body">
       <div class="container">
         <div class="title-wrapper has-text-centered pb-20">
-            <h2 class="title is-2">Latest Blog </h2>
+            <h2 class="title is-2">{{ .Site.Params.latestTitle  }}</h2>
           </div>
         <section class="section">
           <div class="columns is-variable is-8">
             {{- range ( where site.RegularPages "Section" "blog" | first 2 ) }}
             <div class="column is-5 is-offset-1">
                 <div class="content is-medium ">
-                    <figure class="image is-16by9 ">
+                    <figure class="image ">
                         <img src="{{ .Params.image | absURL }}" alt="{{.Title}}" style="width: auto; height: 200px; border-radius: 10px; position: relative;">
                       </figure>
                     <h2 class="subtitle is-5 has-text-grey">{{ .PublishDate.Format "January 2, 2006"  }}</h2>
@@ -43,7 +43,7 @@
                     <p class="has-text-dark">{{.Summary | safeHTML | truncate 150}}</p>                        
                     <a href="{{.Permalink}}">
                         <span class="button signup-button rounded secondary-btn btn-aligner ">
-                        Read More →
+                          {{ .Site.Params.moreBtn  }} →
                         </span>
                     </a>
                 </div>
@@ -56,8 +56,9 @@
       <div class="columns">
         <div class="column is-full has-text-centered mt-20">          
         <p>
-          <a class="button cta secondary-btn  btn-aligner rounded" href="/blog">
-            Check out our blog
+          
+          <a class="button cta secondary-btn  btn-aligner rounded" href='{{.Site.Params.checkBlogUrl}}'>
+            {{ .Site.Params.checkBlog  }}  
           </a>
           </p>
         </div>

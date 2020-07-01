@@ -3,7 +3,7 @@
     <div class="hero-body">
       <div class="container">
         <div class="title-wrapper has-text-centered pb-20">
-            <h2 class="title is-2">Case Studies</h2>
+            <h2 class="title is-2">{{ .Site.Params.caseTitle }} </h2>
           </div>
         <section class="section case-study">
           <div class="columns is-multiline is-variable is-4 ">
@@ -24,7 +24,7 @@
 						<p  class="has-text-centered">
 							<a href="{{.Permalink}}">
 								<span class="button  btn-aligner has-text-centered ">
-									Read case study
+                  {{ .Site.Params.caseBtn }} 
 								</span>
 							</a>
 						</p>

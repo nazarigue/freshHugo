@@ -1,0 +1,26 @@
+
+<!-- Language List -->
+{{ if .IsTranslated }}
+<div class="">          
+    <div class="language-selector1">
+        <select name="countries" id="countries" style="width:300px;"  onchange="location = this.value;">
+            {{ $siteLanguages := .Site.Languages}}
+            {{ $pageLang := .Page.Lang}}
+            {{ range .Page.AllTranslations }}
+              {{ $translation := .}}
+              {{ range $siteLanguages }}
+                {{ if eq $translation.Lang .Lang }}
+                  {{ $selected := false }}
+                    {{ if eq $pageLang .Lang}}
+                      <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" data-image="/images/msdropdown/icons/{{ $translation.Language }}.svg" data-imagecss="flag {{ $translation.Language }}" data-title="{{ .LanguageName }}" selected>{{ .LanguageName }}
+                      </option>
+                      {{ else }}
+                      <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" data-image="/images/msdropdown/icons/{{ $translation.Language }}.svg" data-imagecss="flag {{ $translation.Language }}" data-title="{{ .LanguageName }}">{{ .LanguageName }}</option>
+                    {{ end }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+        </select>
+    </div>
+</div>
+{{ end }}
