@@ -725,7 +725,7 @@ Languages:
           text: Valitud stiilid automaatselt igas keeles
           icon: "/images/css.svg"
         - title: HTML'i põhine
-          text: Kasutage mugavalt tuntud veebikomponente
+          text: Kasuta levinud veebikomponente
           icon: "/images/html.svg"
         - title: Koostöö
           text: Kutsu kolleege, tõlkijaid, keeletoimetajaid
