@@ -559,7 +559,7 @@ Languages:
             rakendada masin- või inimtõlget ja kiirendada tööd erikeeltes dokumentidega.
           image: "/images/version-control.svg"
           alt: Rohkem selgust, kiirem suhtlus
-          btnText: Kasutage Alignerit kohe →
+          btnText: Proovi Alignerit kohe →
           btnURL: https://app.aligner.io
       pricing:
         enable: true
