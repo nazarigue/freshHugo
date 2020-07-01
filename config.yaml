@@ -651,7 +651,7 @@ Languages:
           icon: "/images/sun.svg"
           alt: Tiimidele
           heighlight: Kasvavatele tiimidele
-          btnText: Ka varsti tuleb...
+          btnText: Varsti tuleb...
           btnURL: "#"
         features:
         - list:
