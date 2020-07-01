@@ -543,8 +543,8 @@ Languages:
           text: Jaga tõlgitud dokumente kolleegide või tuttavaga. Koostöös on mugav
             sisu eri keeltes toimetada, sest Aligner salvestab iga muudatuse.
           image: "/images/team-image.svg"
-          alt: Pange kõik inimesed ühte kohta kokku
-          btnText: Alusta tööd ja kutsu tiimiliikmed →
+          alt: Too kõik osapooled kokku
+          btnText: Proovi kutsuda oma tiim →
           btnURL: https://app.aligner.io
         - title: Aligner aitab juhtida töövoogu
           text: Nüüd saad jälgida tõlgete valmimist, prognoosida käivet ja ühenda
