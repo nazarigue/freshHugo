@@ -728,7 +728,7 @@ Languages:
           text: Kasutage mugavalt tuntud veebikomponente
           icon: "/images/html.svg"
         - title: Koostöö
-          text: Kutsuge kolleege, tõlke, korrektorit
+          text: Kutsu kolleege, tõlkijaid, keeletoimetajaid
           icon: "/images/collaborate-features.png"
         - title: PDF eksport
           text: Dokument valmis printimiseks .
