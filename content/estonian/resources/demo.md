@@ -18,7 +18,7 @@ Aligner'it saab integreerida Google Docs'iga, jagada tõlkeid oma kolleegidega j
 
 ### **1. Registreeru tasuta** 
 
-Kõigepealt tuleb end autentida LinkedIn, Facebook või Google konto kaudu **siin:** [**app.aligner.io **](https://app.aligner.io/)**  
+Kõigepealt tuleb end autentida LinkedIn, Facebook või Google konto kaudu **siin:**[**app.aligner.io**](https://app.aligner.io/)**  
 **See võimaldab meil hoolitseda selle eest, et Sinu dokumendid ja tõlked oleksid kättesaadavad ainult Sinule.
 
 ### **2. Laadi üles oma fail**
