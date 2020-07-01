@@ -1,4 +1,4 @@
-     
+
   ru:
     contentDir: content/russian
     home: Dom
@@ -9,8 +9,7 @@
     params:
       BookMenuBundle: "/меню"
       openGraph: true
-      description: Переведите в 10 раз быстрее вместе с Aligner. Бесплатный инструмент
-        для совместной работы.
+      description: Переведите в 10 раз быстрее вместе с Aligner. Бесплатная проргамма.
       navbarlogo:
         link: "/ru"
         alt: Логотип домашней страницы Aligner
@@ -22,7 +21,7 @@
         - 600
       hero:
         title: Работайте с документами на нескольких языках. Легко.
-        subtitle: Бесплатная платформа для работы с многоязычными документами.
+        subtitle: Бесплатная программа для работы с многоязычными документами.
         buttontext: Начните здесь →
         buttonlink: https://app.aligner.io
         buttontext2: 
@@ -32,12 +31,12 @@
       - title: Функции
         url: "/ru/функции"
       - title: Тарифы
-        url: "/ru/Тарифы"
+        url: "/ru/тарифы"
       - title: Блог
-        url: "/ru/blogi"
+        url: "/ru/блог"
       - title: Обучение
         url: "/ru/обучение"
-      - title: авторизоваться
+      - title: Регистрация
         url: https://app.aligner.io
       - title: Начните здесь →
         url: https://app.aligner.io
@@ -46,30 +45,29 @@
         enable: true
         title: Функции
         subtitle: 
-        buttonlink: "/ru/funktsioonid"
+        buttonlink: "/ru/функции"
         buttonText: Посмотреть все функции →
         list:
-        - title: редактируй
+        - title: Редактируйте
           text: Редактируйте контент на одном языке, и все переводы будут обновляться
             автоматически.
           image: "/images/textedit.svg"
           alt: редактируй
           btnURL: ''
-        - title: переводи
-          text: Используйте машинный перевод, чтобы перевести весь документ или предложение.
+        - title: Переводите
+          text: Используйте машинный перевод, чтобы перевести целый документ или частично.
           image: "/images/roboto-logo.svg"
-          alt: делись
+          alt: Переводите
           btnText: Призыв к действию
           btnURL: ''
-        - title: публикуй
-          text: Сотрудничать с командами и бесплатно оформлять документы со всеми
-            сторонами.
+        - title: Делитесь
+          text: Работайте в комадне и вместе редактируйте документы.
           image: "/images/team.svg"
           alt: Поделиться
           btnText: 
           btnURL: ''
-        - title: Публиковать
-          text: Опубликуйте свой контент в Интернете или загрузите в виде файлов.
+        - title: Публикуйте
+          text: Публикуйте свой контент в Интернете или скачайте документ в виде файла.
           image: "/images/reload.svg"
           alt: Публиковать
           btnText: 
