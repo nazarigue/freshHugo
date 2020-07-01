@@ -748,11 +748,10 @@ Languages:
           icon: "/images/globe.svg"
       froalaBlock:
         enable: true
-        title: Aligner on loodud turundajatele ja sisuloojatele, kes tahavad olla
-          produktiivsed.
-        text: Aeg on tähtis. Protsessid peavad olema tõhusad. Aligner aitab põgeneda
-          igavesest failide saatmisest emaili teel ning saavutada tulemusi tunduvalt
-          kiiremini.
+        title: Aligner on loodud turundajatele ja sisuloojatele, kelle jaoks produktiivsus
+          on oluline!
+        text: Aeg on tähtis. Töövoog peab olema tõhus. Aligner aitab vähendada ajaraiskamist
+          failide saatmisest emaili teel ning saavutada tulemusi tunduvalt kiiremini.
         linktext: Vaata kõiki võimalusi
         linkurl: https://app.aligner.io
         list:
