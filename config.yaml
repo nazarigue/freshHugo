@@ -633,7 +633,7 @@ Languages:
         buttonText: Lisateave hinnastuse kohta
         plans:
         - title: Freemium
-          price: 0 dollarit
+          price: TASUTA
           icon: "/images/plane.svg"
           alt: Freemium
           heighlight: Tee tööd kiiremini
