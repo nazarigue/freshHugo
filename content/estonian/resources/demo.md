@@ -14,23 +14,24 @@ Aligner'it on integreerida Google Docs'iga, jagada tõlkeid oma kolleegidega ja 
 
 ## 5 sammu tõlkeplatvormi kasutamiseks
 
-### **1. Registreeru tasuta siin:** [**app.aligner.io**](https://app.aligner.io/)
+### **1. Registreeru tasuta** 
 
-Tuleb end autentida LinkediIn, Facebook või Google konto kaudu. See võimaldab meil hoolitseda selle eest, et Sinu dokumendid ja tõlked oleksid kättesaadavad ainult Sinule.
+Kõigepealt tuleb end autentida LinkedIn, Facebook või Google konto kaudu **siin:** [**app.aligner.io **](https://app.aligner.io/)**  
+**See võimaldab meil hoolitseda selle eest, et Sinu dokumendid ja tõlked oleksid kättesaadavad ainult Sinule.
 
-### **2. Laadi üles .docx fail või kleepi oma tekst Aligner'isse**
+### **2. Laadi üles oma fail**
 
-Aligner võtab sisse vaid teksti. Kui tekst on Aligneris, saabki hakata tõlkima ise või tõlketeenust tellima
+Aligner võtab sisse vaid teksti **.docx või .pdf failist.** Võib ka kleepida oma teksti Aligner'isse. Kui tekst on Aligneris, saabki hakata tõlkima ise või tõlketeenust tellima
 
-### **3. Vali "Translate" ja "Machine Translation" või "Human Translation"**
+### **3. Tõlgi kohe: 140+ keelt!**
 
-Võid katsetada mõlemat. Esimese puhul ilmub paremale kohe masintõlgitud sisu ja inimtõlketeenust valides näed täpset hinnapakkumist ning tarneaega.
+**Vali "Translate" ja "Machine Translation" või "Human Translation"** Võid katsetada mõlemat. Esimese puhul ilmub paremale kohe masintõlgitud sisu ja inimtõlketeenust valides näed täpset hinnapakkumist ning tarneaega.
 
-### **4. Jaga dokumendid tiimiliikmetega või tuttavatega**
+### **4. Jaga tõlked tiimiga**
 
-Vali "Actions" ja "Sharing" ning sisesta e-maili aadress
+Jaga dokumendid tiimiliikmetega või tuttavatega. Vali "Actions" ja "Sharing" ning **sisesta e-maili aadress.**
 
-### **5. Uuenda sisu ühes keeles ja näed muudatusi kõigis teistes keeltes**
+### **5. Uuenda juba tõlgitud sisu sekunditega**
 
 Vaid Aligner'is on võimalik teha muudatusi tekstides kasvõi 100-s keeles korraga!
 
