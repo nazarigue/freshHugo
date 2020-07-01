@@ -737,7 +737,7 @@ Languages:
           text: Too dokumendid otse oma Google'i Docs'ist
           icon: "/images/docs.svg"
         - title: Microsoft Word
-          text: Laadige üles Wordi sisu
+          text: Laadi Aligner'isse üles Wordi dokument
           icon: "/images/word.svg"
         - title: Masintõlge
           text: Parimate mootorite kombinatsioon
