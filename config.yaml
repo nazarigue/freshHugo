@@ -636,8 +636,8 @@ Languages:
           price: 0 dollarit
           icon: "/images/plane.svg"
           alt: Freemium
-          heighlight: Tehke asjad kiiresti korda
-          btnText: Alusta siin →
+          heighlight: Tee tööd kiiremini
+          btnText: Proovi kohe →
           btnURL: https://app.aligner.io
         - title: Premium
           price: 8.99 eurot kuus
