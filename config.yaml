@@ -620,9 +620,9 @@ Languages:
       testimonials:
         enable: true
         title: Teised Aligner'ist
-        subtitle: 
-        text: 'Aligner on väga lihtne, kasutajasõbralik ja mugav tööriist, mis aitab
-          hallata sisu eri keeltes ja vajadusel ka kiiresti uuendada. '
+        subtitle: '"Aligner on väga lihtne, kasutajasõbralik ja mugav tööriist, mis
+          aitab hallata sisu eri keeltes ja vajadusel ka kiiresti uuendada" '
+        text: ''
         name: Katrin Liivat, Fooddocs'i kaasasutaja
         image: "/images/katrin_fooddocs.svg"
       pricingInner:
