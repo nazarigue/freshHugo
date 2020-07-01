@@ -724,8 +724,8 @@ Languages:
         - title: Stiilid
           text: Kõik stiilid sünkroniseeritakse automaatselt
           icon: "/images/css.svg"
-        - title: HTML-põhine
-          text: Kasutage tuntud veebikomponente
+        - title: HTML'i põhine
+          text: Kasutage mugavalt tuntud veebikomponente
           icon: "/images/html.svg"
         - title: Koostöö
           text: Kutsuge kolleege, tõlke, korrektorit
