@@ -643,8 +643,8 @@ Languages:
           price: 8.99 eurot kuus
           icon: "/images/hot-air-balloon.svg"
           alt: Premium
-          heighlight: Keskmistele ettevõtetele
-          btnText: Tulekul
+          heighlight: Keskmistele tiimidele
+          btnText: Varsti tuleb...
           btnURL: "#"
         - title: Meeskond
           price: 29.99 eurot kuus
