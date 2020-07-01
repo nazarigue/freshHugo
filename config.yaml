@@ -551,8 +551,8 @@ Languages:
             oma dokumendid Google Docs või teiste süsteemidega. Keskendu olulisele
             ja kasuta oma aega targalt.
           image: "/images/flags-illustration.svg"
-          alt: Pidevalt osa teie töövoogudest
-          btnText: Google'i dokumentidega ühendamine →
+          alt: Kiirendab Sinu tööprotsessi
+          btnText: Ühenda Google Docs'iga →
           btnURL: https://app.aligner.io
         - title: Rohkem selgust, kiirem tulemus
           text: Aligneri abiga saad korraldada erinevate osapoolte vahelist suhtlust,
