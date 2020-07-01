@@ -734,7 +734,7 @@ Languages:
           text: Dokument on valmis printimiseks või välja saatmiseks
           icon: "/images/pdf-translate.svg"
         - title: Google Docs
-          text: Too oma dokumendid Google kontost
+          text: Too dokumendid otse oma Google'i Docs'ist
           icon: "/images/docs.svg"
         - title: Microsoft Word
           text: Laadige üles Wordi sisu
