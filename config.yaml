@@ -743,7 +743,7 @@ Languages:
           text: Meil on parimate masintõlkemootorite kombinatsioon
           icon: "/images/languages.svg"
         - title: 136+ keelt
-          text: Enamus maailmakeeled on kaetud.
+          text: 'Enamus maailmakeeltest on meil olemas! '
           icon: "/images/globe.svg"
       froalaBlock:
         enable: true
