@@ -731,7 +731,7 @@ Languages:
           text: Kutsu kolleege, tõlkijaid, keeletoimetajaid
           icon: "/images/collaborate-features.png"
         - title: PDF eksport
-          text: Dokument on valmis printimiseks või välja saatmiseks
+          text: Dokument valmis printimiseks või saatmiseks
           icon: "/images/pdf-translate.svg"
         - title: Google Docs
           text: Too dokumendid otse oma Google'i Docs'ist
