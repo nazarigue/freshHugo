@@ -1,20 +1,20 @@
 ---
 title: Privaatsuspoliitika
-ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-description: "Aligner - Privaatsuspoliitika"
-url: /et/privaatsuspoliitika
+ogImage: https://www.aligner.io/images/aligner-logo.jpeg
+description: Aligner - Privaatsuspoliitika
+url: "/et/privaatsuspoliitika"
 include_footer: true
----
 
+---
 # Privaatsuspoliitika
 
 1. Sissejuhatus
 
-Täname teid Aligneri kasutamise eest! Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti ajakohasena ja levitame teie sõna seetõttu palju kiiremini.
+Täname teid Aligneri kasutamise eest! Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti sünkroonis ja tutvustada oma tooteid seeläbi palju kiiremini.
 
-Järgnevalt kirjeldame, kuidas me teie veebisaite, tarkvara ja teenuseid („Teenused”) kasutades kogume, kasutame ja säilitame teie andmeid.
+Järgnevalt kirjeldame, kuidas me veebisaite, tarkvara ja informatsiooni („Teenused”) kasutades kogume, kasutame ja säilitame teie andmeid.
 
-2. Millist tüüpi andmeid me kogume?
+1. Millist tüüpi andmeid me kogume?
 
 Oma teenuste osutamiseks, parendamiseks ja kaitsmiseks võime koguda ja kasutada järgmisi andmeid:
 
@@ -28,7 +28,7 @@ Seadme teave - seotud seadmetega, mida kasutate teenustele juurdepääsuks, seal
 
 Kogume küpsiste kaudu ka muud tüüpi teavet, näiteks brauseriteavet, külastuse aega, viidavat saiti jne.
 
-3. Kuidas kogume isikuandmeid?
+1. Kuidas kogume isikuandmeid?
 
 Isiklikku teavet võime koguda mitmel viisil, näiteks:
 
@@ -38,7 +38,7 @@ Võrguühenduseta: võime koguda isikuandmeid, kui külastate meie boksi ühel �
 
 Teave kolmandatelt osapooltelt: meie eesmärk on pakkuda teile asjakohast turundust, pakkumisi ja teenuseid, võime hankida teie kohta teavet kolmandatest allikatest.
 
-4. Miks me teie andmeid kogume?
+1. Miks me teie andmeid kogume?
 
 Kogume ülalkirjeldatud andmeid, et pakkuda teile Teenuseid usaldusväärsel ja turvalisel viisil, samuti meie õigustatud ärivajaduste jaoks.
 
@@ -60,7 +60,7 @@ turusuundumuste ja tulevaste nõudmiste analüüsimine;
 
 meie kanalite erinevat tüüpi kuritarvitamise vältimiseks, piiramiseks ja uurimiseks.
 
-5. Kellega me teie andmeid jagame?
+1. Kellega me teie andmeid jagame?
 
 Oleme teie andmete peamine töötleja ja jagame neid kolmandate osapooltega.
 
@@ -70,11 +70,11 @@ Võime avaldada teie andmeid ka kolmandatele isikutele, kui seda nõuab seadus v
 
 Meie meeskond on pühendunud teie teabe turvalisele hoidmisele ja turvaaukude testimisele. Samuti jätkame funktsioonide väljatöötamist, et teie teave oleks turvaline.
 
-6. Kui kaua me teie andmeid säilitame?
+1. Kui kaua me teie andmeid säilitame?
 
 Me säilitame teie andmeid nii kaua, kui on vaja käesolevas privaatsuseeskirjas toodud eesmärkide saavutamiseks. Kui teie andmed ei ole enam asjakohased eesmärkidel, milleks neid koguti, kustutame need või muutume nende anonüümseks.
 
-7. Milliseid meetodeid kasutame teie andmete turvamiseks?
+1. Milliseid meetodeid kasutame teie andmete turvamiseks?
 
 Oleme teie organisatsiooni siseste andmete kaitsmiseks rakendanud organisatsioonilisi, tehnilisi ja haldusmeetmeid.
 
@@ -82,13 +82,13 @@ Kuigi astume mõistlikke samme teie isikliku teabe turvamiseks, peaksite teadma,
 
 Kui teil on probleeme turvaprobleemide või teie andmete käsitlemise viisiga, võtke meiega kohe ühendust (vt allpool jaotist „Kontakt”).
 
-8. Võimalikud muudatused selles privaatsuspoliitikas.
+1. Võimalikud muudatused selles privaatsuspoliitikas.
 
 Vajaduse korral võime seda privaatsuseeskirju aeg-ajalt värskendada. Selle lehe alguses olevad kuupäevad näitavad, millal seda privaatsuspoliitikat viimati muudeti ja kinnitati.
 
 Mis tahes muudatused selles privaatsuspoliitikas jõustuvad, kui avaldame muudetud privaatsuseeskirjad saitidele. Meie privaatsuspoliitika olulistest muudatustest teatatakse vähemalt 14 päeva enne nende jõustumist.
 
-9. Kontaktid
+1. Kontaktid
 
 Võite turunduskommunikatsiooni vastuvõtmisest igal ajal loobuda, saates e-kirja aadressile support@aligner.io.
 
@@ -116,8 +116,6 @@ EESTI
 
 Kui me ei saa teie küsimusele vastata, on teil õigus pöörduda kohaliku andmekaitse järelevalveasutuse poole.
 
-
-
 Küpsistepoliitika
 
 Aligneri veebisait kasutab küpsiseid, et anda teile juurdepääs mitmesugustele funktsioonidele ja funktsioonidele, mis lihtsustavad veebisaidi kasutamist ja parandavad teie kogemust. Küpsised on väikesed tekstifailid, mis salvestatakse teie arvutisse või mobiilseadmesse veebisaidi külastamisel.
@@ -133,8 +131,6 @@ Sisu kohandamine vastavalt sellele, kuidas kasutajad veebisaiti kasutavad
 Reklaamide kohandamine erinevates meediumikanalites vastavalt sellele, kuidas veebisaidi kasutajad veebisaiti kasutavad
 
 Reklaamide kohandamine erinevates meediumikanalites vastavalt sellele, kuidas veebisaidi kasutaja otsingukäitumine toimub
-
-
 
 Näide andmete kohta, mida võime koguda:
 
