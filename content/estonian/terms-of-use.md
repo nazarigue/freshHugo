@@ -10,7 +10,7 @@ include_footer: true
 
 Täname teid Aligneri kasutamise eest! Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti sünkroonis ja tutvustada oma tooteid seeläbi palju kiiremini.
 
-Järgnevalt kirjeldame, kuidas teenusetingimused (“Tingimused”) hõlmavad kasutamist ja juurdepääsu meie teenustele, tarkvarale ja veebisaitidele (“Teenused”). Vaatamata elukohale on teie leping sõlmitud Aligner OÜ Company-ga.
+Järgnevalt kirjeldame, kuidas teenusetingimused (“Tingimused”) hõlmavad kasutamist ja juurdepääsu meie teenustele, tarkvarale ja veebisaitidele (“Teenused”). Vaatamata elukohale on teie leping sõlmitud Aligner OÜ'ga.
 
 Meie teenuseid kasutades nõustute järgima neid tingimusi, tagasimakse poliitikat, kohaletoimetamise poliitikat ja meie privaatsuseeskirju. Kui kasutate meie teenuseid organisatsiooni jaoks, nõustute nende organisatsiooni nimel nende tingimustega.
 
