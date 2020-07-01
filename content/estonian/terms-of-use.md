@@ -1,19 +1,16 @@
 ---
 title: Kasutustingimused
-ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-description: "Aligner - Kasutustingimused"
-url: /et/kasutustingimused
+ogImage: https://www.aligner.io/images/aligner-logo.jpeg
+description: Aligner - Kasutustingimused
+url: "/et/kasutustingimused"
 include_footer: true
 
 ---
-
 ### Sissejuhatus
 
-Täname teid Aligneri kasutamise eest!
+Täname teid Aligneri kasutamise eest! Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti sünkroonis ja tutvustada oma tooteid seeläbi palju kiiremini.
 
-Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti ajakohasena ja levitame teie sõna seetõttu palju kiiremini.
-
-Järgnevalt kirjeldame, kuidas teenusetingimused (“Tingimused”) hõlmavad teie kasutamist ja juurdepääsu meie teenustele, tarkvarale ja veebisaitidele (“Teenused”). Vaatamata elukohale on teie leping sõlmitud Aligner OÜ Company-ga.
+Järgnevalt kirjeldame, kuidas teenusetingimused (“Tingimused”) hõlmavad kasutamist ja juurdepääsu meie teenustele, tarkvarale ja veebisaitidele (“Teenused”). Vaatamata elukohale on teie leping sõlmitud Aligner OÜ Company-ga.
 
 Meie teenuseid kasutades nõustute järgima neid tingimusi, tagasimakse poliitikat, kohaletoimetamise poliitikat ja meie privaatsuseeskirju. Kui kasutate meie teenuseid organisatsiooni jaoks, nõustute nende organisatsiooni nimel nende tingimustega.
 
@@ -48,7 +45,6 @@ Tingimused kehtivad seni, kuni teil on teenuskonto või kuni teie lõpetame lepi
 ### Beetatestid
 
 Mõnikord anname välja tooteid ja funktsioone, mida alles katsetame ja hindame. Need teenused on tähistatud beetaversioonina, eelvaatena, varase juurdepääsuga või hindamisega (või sarnaste tähendustega sõnade või fraasidega) ja need ei pruugi olla nii usaldusväärsed kui Aligneri muud teenused, seega pidage seda meeles.
-
 
 ### Intellektuaalomand ja autoriõigused
 
@@ -98,7 +94,6 @@ Tõlketeenuste soovituslikud hinnad on avalikult saadaval meie veebisaidil.
 
 Võime kehtivaid tasusid muuta, kuid teatame teile nendest muudatustest eelnevalt, teatades oma kontoga seotud e-posti aadressile.
 
-
 Noteeritud tasud sisaldavad kehtivaid makse ja makse töötlemise tasusid.
 
 ### Makseviisid
@@ -135,11 +130,9 @@ Organisatsiooni kontodel on omanikud ja administraatorid, kes peavad tegutsema v
 
 Võite meie teenuste kasutamise igal ajal lõpetada. Jätame endale õiguse peatada või lõpetada teie juurdepääs teenustele, teatades teile sellest, kui:
 
-- rikute neid tingimusi,
-
-- kasutate Teenuseid viisil, mis tekitaks meile või teistele kasutajatele reaalse kahju või kaotuse riski, või
-
-- teil pole tasulist kontot ja te pole 12 (kaheteistkümne) kuu jooksul järjest meie teenustega pääsenud.
+* rikute neid tingimusi,
+* kasutate Teenuseid viisil, mis tekitaks meile või teistele kasutajatele reaalse kahju või kaotuse riski, või
+* teil pole tasulist kontot ja te pole 12 (kaheteistkümne) kuu jooksul järjest meie teenustega pääsenud.
 
 ### Teenuste katkestamine
 
