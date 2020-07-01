@@ -8,9 +8,11 @@ draft: true
 ---
 # Tere, Aligner! Hüvasti, aeglane ja manuaalne töö!
 
-Aligner on veebipõhine tõlkeplatform mitmekeelse sisu loomiseks, mugavaks uuendamiseks ja koos töötamiseks. Aligner'i üks põhifunktsioone on maatrikstoimetaja, mis sünkroonib kõik muudatused, mis on tehtud eri keeltes ja võimaldab rakendada masin- või inimtõlget selekteeritud lausele. 
+Aligner on veebipõhine tõlkeplatform mitmekeelse sisu loomiseks, mugavaks uuendamiseks ja koos töötamiseks. 
 
-Aligner'it on integreerida Google Docs'iga, jagada tõlkeid oma kolleegidega ja lisada 24/7 uusi keeli juurde.
+Aligner'i üks põhifunktsioone on **parallelne toimetaja, mis sünkroonib kõik muudatused**, mis on tehtud eri keeltes ja võimaldab rakendada masin- või inimtõlget selekteeritud lausele. 
+
+Aligner'it saab integreerida Google Docs'iga, jagada tõlkeid oma kolleegidega ja lisada **24/7 uusi keeli juurde.**
 
 ## 5 sammu tõlkeplatvormi kasutamiseks
 
@@ -35,4 +37,4 @@ Jaga dokumendid tiimiliikmetega või tuttavatega. Vali "Actions" ja "Sharing" ni
 
 Vaid Aligner'is on võimalik teha muudatusi tekstides kasvõi 100-s keeles korraga!
 
-## Aligner aitab kiirendada tõlgete valmimist!
+### Aligner aitab kiirendada tõlgete valmimist! 
