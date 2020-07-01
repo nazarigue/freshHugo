@@ -578,7 +578,7 @@ Languages:
           btnURL: "/et/hinnad"
           features:
           - text: Tekstitöötlus
-          - text: Google Drive'i integratsioonid
+          - text: Google Drive'i integratsioon
           - text: Dokumentide eksport
           - text: Valikuline masintõlge
         - title: Freemium
@@ -603,7 +603,7 @@ Languages:
           btnKlass: btn-aligner rounded
           btnURL: "/et/hinnad"
           features:
-          - text: Kuni 5 inimest, iga järgmine 4 eurot
+          - text: Alates 5-st inimesest iga järgmine 4 eurot
           - text: Versioneerimine
           - text: Töövood
           - text: Õigustesüsteem
