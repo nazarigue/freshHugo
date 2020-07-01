@@ -740,10 +740,10 @@ Languages:
           text: Laadi Aligner'isse üles Wordi dokument
           icon: "/images/word.svg"
         - title: Masintõlge
-          text: Meil on parimate masintõlkemootorite kombinatsioon
+          text: Parimate masintõlkemootorite kombinatsioon
           icon: "/images/languages.svg"
         - title: 136+ keelt
-          text: 'Enamus maailmakeeltest on meil olemas! '
+          text: Enamus maailmakeeltest on kaetud
           icon: "/images/globe.svg"
       froalaBlock:
         enable: true
