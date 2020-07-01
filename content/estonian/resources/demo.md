@@ -1,21 +1,38 @@
 ---
 title: Getting started in Aligner
 description: Instructions on how to use Aligner platform
-ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-date: 2020-04-06T07:09:21+03:00
-draft: True
+ogImage: https://www.aligner.io/images/aligner-logo.jpeg
+date: 2020-04-06T07:09:21.000+03:00
+draft: true
 
 ---
-# Say Hello to Aligner.Say goodbye to your manual workflows.
+# Tere, Aligner!  
+Hüvasti, aeglane ja kallis tõlkimine!
 
-Aligner is an online tool to manage multilingual content. One of the core feature of Aligner is a matrix editor, that synchronises all changes done in all languages. It is easy to integrate with Google docs, share with colleagues, edit all languages and use translation options.
+Aligner on veebipõhine tõlkeplatform mitmekeelse sisu loomiseks, mugavaks uuendamiseks ja koos töötamiseks. Aligner'i üks põhifunktsioone on maatrikstoimetaja, mis sünkroonib kõik muudatused, mis on tehtud eri keeltes ja võimaldab rakendada masin- või inimtõlget selekteeritud lausele. 
 
+Aligner'it on integreerida Google Docs'iga, jagada tõlkeid oma kolleegidega ja lisada 24/7 uusi keeli juurde.
 
-## Say Hello to Aligner.Say goodbye to your manual workflows.
+## 5 sammu tõlkeplatvormi kasutamiseks:
 
-Aligner is an online tool to manage multilingual content. One of the core feature of Aligner is a matrix editor, that synchronises all changes done in all languages. It is easy to integrate with Google docs, share with colleagues, edit all languages and use translation options.
+**1. Registreeru tasuta siin:** [**app.aligner.io**](https://app.aligner.io/)
 
+Tuleb end autentida LinkediIn, Facebook või Google konto kaudu. See võimaldab meil hoolitseda selle eest, et Sinu dokumendid ja tõlked oleksid kättesaadavad ainult Sinule.
 
-### Say Hello to Aligner.Say goodbye to your manual workflows.
+**2. Laadi üles .docx fail või kleepi oma tekst Aligner'isse**
 
-#### Say Hello to Aligner.Say goodbye to your manual workflows.
+Aligner võtab sisse vaid teksti. Kui tekst on Aligneris, saabki hakata tõlkima ise või tõlketeenust tellima
+
+**3. Vali "Translate" ja "Machine Translation" või "Human Translation"**
+
+Võid katsetada mõlemat. Esimese puhul ilmub paremale kohe masintõlgitud sisu ja inimtõlketeenust valides näed täpset hinnapakkumist ning tarneaega.
+
+**4. Jaga dokumendid tiimiliikmetega või tuttavatega**
+
+Vali "Actions" ja "Sharing" ning sisesta e-maili aadress
+
+**5. Uuenda sisu ühes keeles ja näed muudatusi kõigis teistes keeltes**
+
+Vaid Aligner'is on võimalik teha muudatusi tekstides kasvõi 100-s keeles korraga!
+
+## Proovi kohe ja anna meile teada, kas Aligner aitab Sinul kiirendada tõlgete valmimist!
