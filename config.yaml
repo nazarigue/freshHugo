@@ -655,15 +655,15 @@ Languages:
           btnURL: "#"
         features:
         - list:
-          - Kahekordne toimetaja
+          - Parallelne toimetaja
           - true
           - true
           - true
         - list:
           - Keeled
-          - 3
-          - 5
-          - 10
+          - 1-3
+          - 4-9
+          - 10+
         - list:
           - Dokumendid
           - 40
