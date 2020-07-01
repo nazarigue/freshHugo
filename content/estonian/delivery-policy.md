@@ -1,22 +1,20 @@
 ---
 title: Tarnepoliitika
-ogImage: "https://www.aligner.io/images/aligner-logo.jpeg"
-description: "Aligner - Tarnepoliitika"
-url: /et/tarnepoliitika
+ogImage: https://www.aligner.io/images/aligner-logo.jpeg
+description: Aligner - Tarnepoliitika
+url: "/et/tarnepoliitika"
 include_footer: true
----
 
+---
 # Tarnepoliitika
 
 Sissejuhatus
 
-Täname teid Aligneri kasutamise eest!
+Täname teid Aligneri kasutamise eest! Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti sünkroonis ja tutvustada oma tooteid seeläbi palju kiiremini.
 
-Aitame ettevõtetel hoida oma mitmekeelset sisu hõlpsasti ajakohasena ja levitame teie sõna seetõttu palju kiiremini.
+Järgnevalt kirjeldame, kuidas teenusetingimused (“Tingimused”) tagavad juurdepääsu meie teenustele, tarkvarale ja veebisaitidele (“Teenused”). Vaatamata teie geograafilisele lokatsioonile on teie leping sõlmitud Aligner OÜ'ga.
 
-Järgnevalt kirjeldame, kuidas teenusetingimused (“Tingimused”) hõlmavad teie kasutamist ja juurdepääsu meie teenustele, tarkvarale ja veebisaitidele (“Teenused”). Vaatamata elukohale on teie leping sõlmitud Aligner OÜ Company-ga.
-
-Meie teenuseid kasutades nõustute end järgima kasutustingimusi ja meie privaatsuseeskirju. Kui kasutate meie teenuseid organisatsiooni jaoks, nõustute nende organisatsiooni nimel nende tingimustega.
+Meie teenuseid kasutades nõustute meie kasutustingimuste ja meie privaatsuspoliitikaga. Kui kasutate meie teenuseid organisatsiooni jaoks, nõustute oma organisatsiooni nimel nende tingimustega.
 
 Teenused ja kohaletoimetamine
 
@@ -30,19 +28,13 @@ Teenused loetakse teile pärast teenuste osutamist edukalt osutatuks. Edastamine
 
 Kasutaja (d) saavad kättetoimetamise teatise.
 
-
-
 Pärast edukat makset genereeritakse teie tellimuse kviitung PDF-is ja see on saadaval lehel "Tellimused".
 
-Kui me pole tõlketeenuse kvaliteediga rahul, anname endast parima, et pakkuda teile tõlketeenused uuesti. Kui kasutaja seda soovib, võime pakkuda täielikku tagasimakset. Järgige tagasimaksepoliitikas kirjeldatud protseduuri. 
+Kui me pole tõlketeenuse kvaliteediga rahul, anname endast parima, et pakkuda teile tõlketeenused uuesti. Kui kasutaja seda soovib, võime pakkuda täielikku tagasimakset. Järgige tagasimaksepoliitikas kirjeldatud protseduuri.
 
 Tarne aeg
 
-
-
 Tõlketeenuste tavapärane tarneaeg on 24-48 tundi, väiksemate tellimuste kohaletoimetamine võib toimuda nii kiiresti kui 4-6 tunni jooksul.
-
-
 
 Tagastamispoliitika
 
@@ -58,11 +50,7 @@ Meie teenuseid kasutades nõustute end järgima kasutustingimusi ja meie privaat
 
 Tellimise ja tagastamise kord
 
-
-
 Kui kasutaja, kes tasus tõlketeenuse eest ega ole pakutud teenusega rahul, võtab meiega ühendust 14 päeva jooksul alates kättetoimetamiskuupäevast ja esitama tõendid teenuse ebapiisavuse kohta aadressil support@aligner.io.
-
-
 
 Nõue sisaldab:
 
@@ -74,29 +62,16 @@ Kohaletoomise kuupäev
 
 Tõendid teenuse ebapiisavuse kohta
 
-
-
 Kui konkreetselt ei nõuta, jääb kasutaja konto tarnitud teenuste valideerimise ajal aktiivseks. Kui osutatakse osutatavate teenuste ebapiisavat kvaliteeti, saab klient uue kättetoimetamise.
-
-
 
 Kasutajal on õigus täielikule tagasimaksele, kui nõue on esitatud 14 päeva jooksul alates ostukuupäevast ja tõendid on kvalifitseeritud, tuginedes võlaõigusseaduse § 53 lõikes 4 sätestatud tingimustele.
 
-
-
 Kõiki tagasimakseid töödeldakse eurodes ja vajadusel toimetatakse need samadesse volikirjadesse 14 päeva jooksul alates nõude esitamisest, kajastades tagasimakse kuupäeval kehtinud vahetuskurssi. Kõigi tagasimaksete suhtes kehtib see kõikumine ja Aligner ei vastuta vahetuskursi muutuste eest makse tegemise aja ja tagasimakse vahel.
-
-
 
 Aligner jätab endale õiguse kontole juurdepääsu tühistada, peatada või muul viisil seda igal ajal piirata, etteteatamata või ette teatamata.
 
 Rahvusvaheliste maksete vahetuskursi kõikumised on püsivad ja vältimatud.
 
-
-
 4-tunnise tarneaja tõttu ei saa tühistamist taotleda pärast tellimuse kinnitamist ja makse edukat töötlemist.
 
-
-
 Kasutustingimuste rikkumine loobub praegusest tagasimakse poliitikast.
-
