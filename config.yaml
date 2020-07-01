@@ -536,8 +536,8 @@ Languages:
             Rakenda muudatusi vaid sekunditega. Dokumentide edasi-tagasi saatmine
             on nüüd minevik.
           image: "/images/ai-illustration.svg"
-          alt: Muutke kõiki keeli
-          btnText: Vaata kuidas see töötab →
+          alt: Muuda sisu eri keeltes sekunditega
+          btnText: Kuidas see töötab →
           btnURL: https://app.aligner.io
         - title: Kõik osapooled töötavad koos
           text: Jaga tõlgitud dokumente kolleegide või tuttavaga. Koostöös on mugav
