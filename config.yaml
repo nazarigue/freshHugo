@@ -646,12 +646,12 @@ Languages:
           heighlight: Keskmistele tiimidele
           btnText: Varsti tuleb...
           btnURL: "#"
-        - title: Meeskond
+        - title: Tiimidele
           price: 29.99 eurot kuus
           icon: "/images/sun.svg"
-          alt: Meeskond
-          heighlight: Suurtele ettevõtetele
-          btnText: Tulekul
+          alt: Tiimidele
+          heighlight: Kasvavatele tiimidele
+          btnText: Ka varsti tuleb...
           btnURL: "#"
         features:
         - list:
