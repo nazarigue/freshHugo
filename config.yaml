@@ -722,7 +722,7 @@ Languages:
         image1: "/images/recording.mov"
         features:
         - title: Stiilid
-          text: Kõik stiilid sünkroniseeritakse automaatselt
+          text: Kõik stiilid rakendame automaatselt igas keeles
           icon: "/images/css.svg"
         - title: HTML'i põhine
           text: Kasutage mugavalt tuntud veebikomponente
