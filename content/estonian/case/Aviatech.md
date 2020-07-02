@@ -1,6 +1,6 @@
 ---
-title: Kiire Laienemine Lennunduses
-date: 2020-06-28T21:00:00+00:00
+title: Kiire laienemine lennunduses
+date: 2020-06-28T21:00:00.000+00:00
 ogImage: https://www.aligner.io/images/case/avia.jpeg
 description: Aligner - Kiire Laienemine Lennunduses
 sidebar: false

@@ -1,5 +1,5 @@
 ---
-title: Ajakriitiline Tõlkimine Meediatööstuses
+title: Ajakriitiline tõlkimine meediatööstuses
 date: 2020-04-02
 ogImage: https://www.aligner.io/images/case/ap.jpeg
 description: Aligner - Ajakriitiline Tõlkimine Meediatööstuses
