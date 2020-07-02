@@ -1,5 +1,5 @@
 ---
-title: Mitmekeelsed Kinnisvarakuulutused
+title: Mitmekeelsed kinnisvarakuulutused
 sidebar: false
 ogImage: https://www.aligner.io/images/case/lvm.jpeg
 description: Aligner - Mitmekeelsed Kinnisvarakuulutused
