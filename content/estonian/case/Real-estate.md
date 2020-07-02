@@ -9,7 +9,6 @@ image: "../images/case/lvm.jpeg"
 caseLogo: false
 
 ---
-## Aligner'i kasutamine kinnisvarasektoris
 
 ### LVM Kinnisvara
 
@@ -27,8 +26,8 @@ Kinnisvaramaakleritel on piiratud eelarve ja tõlkimiseks kasutatakse sageli ole
 
 ## Aligner'i kasutamise tulemused
 
-> "Aligner on kiireim viis kinnisvara materjalide tõlkimiseks eri keeltesse. Seda on lihtne kasutada ja Google'i tõlkemootoriga võrreldes saame masintõlgitud sisu kohe toimetada, salvestada ja jagada."   
-> **Philip Saksing** - akrediteeritud kinnisvaramaakler ja kontorijuht 
+> "Aligner on kiireim viis kinnisvara materjalide tõlkimiseks eri keeltesse. Seda on lihtne kasutada ja Google'i tõlkemootoriga võrreldes saame masintõlgitud sisu kohe toimetada, salvestada ja jagada."  
+> **Philip Saksing** - akrediteeritud kinnisvaramaakler ja kontorijuht
 
 ## Miks ja kuidas Alignerit kasutatakse
 
