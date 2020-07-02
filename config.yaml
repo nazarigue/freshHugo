@@ -528,7 +528,7 @@ Languages:
           btnURL: ''
       froalaDesign:
         enable: true
-        title: Tööta dokumentidega mitmes keeles.
+        title: Kiire tulemus läbi tehnoloogia
         subtitle: Loodud turundajatele ja sisuloojatele.
         features:
         - title: Muudatused kõigis keeltes korraga
@@ -628,7 +628,7 @@ Languages:
       pricingInner:
         enable: true
         title: Hinnad
-        subtitle: 
+        subtitle: ''
         buttonlink: "/hinnad"
         buttonText: Lisateave hinnastuse kohta
         plans:
