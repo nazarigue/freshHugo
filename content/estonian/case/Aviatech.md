@@ -9,8 +9,6 @@ image: "../images/case/avia.jpeg"
 caseLogo: false
 
 ---
-## Aviatech kasutab Alignerit lennukite angaaride tööstuses
-
 ### Aviatech
 
 Aviatech toodab eritellimusel valmistatud täispuhutavaid angaare. Keskkonnasõbralikud angaarid ei jäta ümbritsevale loodusele keskkonnajalajälge peale kasutamist ja demonteerimist. Tootmisel kasutatavad tugevdatud PVC-materjalid on **täielikult taaskasutatavad ja korduvkasutatavad.**

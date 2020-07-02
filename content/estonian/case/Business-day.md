@@ -9,8 +9,6 @@ image: "../images/case/ap.jpeg"
 caseLogo: false
 
 ---
-## Alignerit kasutatakse meediatööstuse juhtivas ettevõttes Äripäev
-
 ### Äripäev
 
 Põhjamaade suurimale meediakontsernile - Bonnier Groupile kuuluv Äripäev on **Eesti ärimeedia turuliider.** Nad annavad välja kolm ajalehte, veebipõhiseid uudisteportaale ja arvukalt raamatuid, samuti korraldab nende meeskond Eesti suurimaid ettevõtluskonverentse. **Äripäeva meeskond koosneb tippajakirjanikest** ja erinevate valdkondade parimatest asjatundjatest.
@@ -23,9 +21,9 @@ Põhjamaade suurimale meediakontsernile - Bonnier Groupile kuuluv Äripäev on *
 
 ## Tulemus
 
-> „Saan tõlkida artikleid Aligneris ja toimetada sisu just nii, nagu mul seda vaja on. Masinõppe abiga loodan, et Alignerist saab parim tööriist tõlkevaldkonnas” 
+> „Saan tõlkida artikleid Aligneris ja toimetada sisu just nii, nagu mul seda vaja on. Masinõppe abiga loodan, et Alignerist saab parim tööriist tõlkevaldkonnas”
 >
-> **Anari Hagel** - Äripäeva portaali FoundME.io endine juht 
+> **Anari Hagel** - Äripäeva portaali FoundME.io endine juht
 
 ## Miks ja kuidas Alignerit kasutatakse
 
