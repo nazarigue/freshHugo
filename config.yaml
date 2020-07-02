@@ -458,12 +458,11 @@ Languages:
     languageCode: et
     languageName: Eesti keeles
     weight: "3"
-    title: Aligner | Tõlgi 10x kiiremini | Tasuta online tõlkeplatvorm.
+    title: Aligner | Tasuta online tõlkeplatvorm.
     params:
       BookMenuBundle: "/menüü"
       openGraph: true
-      description: Tõlgi Aligner'is 10 korda kiiremini! Tasuta tõlkimine ja mitmekeelse
-        sisu haldamine.
+      description: Tasuta tõlkimine ja mitmekeelse sisu haldamine.
       navbarlogo:
         link: "/et"
         alt: Aligner home page logo
