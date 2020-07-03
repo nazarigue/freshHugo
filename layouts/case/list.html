@@ -17,7 +17,7 @@
                         <figure class="image is-16by9">
                             <img src="{{.Params.image | absURL }}" alt="{{.Title}}">
                           </figure>
-                        <h2 class="subtitle is-5 has-text-grey">{{ .PublishDate.Format "January 2, 2006"  }} </h2>
+                        <h2 class="subtitle is-5 has-text-grey">{{ .PublishDate.Format "01-02-2006"  }} </h2>
                         <h1 class="title has-text-black is-3">{{.Title}} </h1>
                         <p class="has-text-dark">{{.Summary | safeHTML | truncate 150}}</p>                        
                         <a href="{{.Permalink}}">
